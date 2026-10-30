@@ -1,0 +1,10 @@
+model,field,n_yes,n_no,n_unknown,n_missing
+claude46,Biological Sciences,1433,41,8526,0
+claude46,Chemical Sciences,1320,48,8632,0
+claude46,Human Society,1733,240,8027,0
+gemini35,Biological Sciences,6268,294,3383,55
+gemini35,Chemical Sciences,6281,270,3383,66
+gemini35,Human Society,6526,850,2586,38
+gpt54,Biological Sciences,1131,28,8841,0
+gpt54,Chemical Sciences,1045,24,8930,1
+gpt54,Human Society,1330,174,8495,1

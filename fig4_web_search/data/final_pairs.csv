@@ -1,0 +1,1624 @@
+concept,person_id,provenance,position,in_offline,untraced_reason
+Bianconi-Barabasi fitness model,S0354,A,1,1,
+Bianconi-Barabasi fitness model,S0901,A,2,1,
+Bianconi-Barabasi fitness model,S0287,untraced,3,1,in_offline
+Girvan-Newman algorithm,S0088,A,1,1,
+Girvan-Newman algorithm,S1256,A,2,1,
+Girvan-Newman algorithm,S0857,untraced,4,0,neither
+Girvan-Newman algorithm,S0318,untraced,5,0,neither
+Girvan-Newman algorithm,S1073,untraced,6,0,neither
+Barabasi-Albert model,S0901,A,1,1,
+Barabasi-Albert model,S0287,A,2,1,
+Barabasi-Albert model,S0407,A,3,1,
+Barabasi-Albert model,S0246,A,4,1,
+Barabasi-Albert model,S1196,A,5,1,
+Erdos-Renyi random graph,S1108,untraced,1,1,in_offline
+Erdos-Renyi random graph,S1030,A,2,1,
+Erdos-Renyi random graph,S0708,B,3,1,
+Katz centrality,S0031,untraced,1,1,in_offline
+Katz centrality,S1301,A,2,1,
+Dunbar's number,S1264,A,1,1,
+Dunbar's number,S0787,A,2,0,
+Dunbar's number,S0094,untraced,3,0,surname_in_query
+Dunbar's number,S0048,B,4,0,
+Dunbar's number,S0419,untraced,5,0,neither
+Dunbar's number,S1137,untraced,6,0,neither
+Dunbar's number,S0918,untraced,7,0,neither
+Infomap,S1201,A,1,1,
+Infomap,S0401,A,2,1,
+Infomap,S1093,B,3,0,
+Infomap,S1372,untraced,4,0,neither
+Infomap,S0915,untraced,5,0,neither
+Infomap,S0477,untraced,6,0,neither
+Infomap,S1026,untraced,7,0,neither
+HITS (hubs and authorities),S0849,A,1,1,
+HITS (hubs and authorities),S1268,untraced,2,0,neither
+HITS (hubs and authorities),S0653,untraced,3,0,neither
+HITS (hubs and authorities),S1221,untraced,4,0,neither
+HITS (hubs and authorities),S0457,untraced,5,0,neither
+HITS (hubs and authorities),S0756,untraced,6,0,neither
+HITS (hubs and authorities),S1281,untraced,7,0,neither
+HITS (hubs and authorities),S0374,untraced,8,0,neither
+Kronecker graph,S0276,A,1,1,
+Kronecker graph,S0825,A,2,1,
+Kronecker graph,S0849,A,3,1,
+Kronecker graph,S0520,A,4,1,
+Kronecker graph,S0798,untraced,5,0,neither
+Kuramoto synchronization on networks,S0548,A,1,1,
+Kuramoto synchronization on networks,S0870,A,2,1,
+Kuramoto synchronization on networks,S1448,A,3,1,
+Kuramoto synchronization on networks,S0572,A,4,0,
+Kuramoto synchronization on networks,S1183,A,5,1,
+Kuramoto synchronization on networks,S0934,A,6,0,
+Kuramoto synchronization on networks,S0280,A,7,1,
+Kuramoto synchronization on networks,S0878,A,8,1,
+Kuramoto synchronization on networks,S0566,untraced,9,0,neither
+Kuramoto synchronization on networks,S0385,untraced,10,0,neither
+Watts-Strogatz small-world model,S0246,A,1,1,
+Watts-Strogatz small-world model,S1196,A,2,1,
+Watts-Strogatz small-world model,S1462,A,3,1,
+Watts-Strogatz small-world model,S1394,B,4,1,
+Watts-Strogatz small-world model,S1219,B,5,1,
+Louvain method,S0325,A,1,1,
+Louvain method,S0671,A,2,1,
+Louvain method,S0915,A,3,1,
+Louvain method,S0659,A,4,1,
+Louvain method,S1256,B,5,1,
+Louvain method,S0088,B,6,1,
+Louvain method,S0717,A,7,0,
+Louvain method,S1159,A,8,0,
+PageRank,S0596,A,1,1,
+PageRank,S0850,A,2,1,
+PageRank,S0883,A,3,1,
+PageRank,S1061,A,4,0,
+PageRank,S0173,untraced,5,0,neither
+PageRank,S1455,untraced,6,0,neither
+PageRank,S0849,B,7,1,
+adjacency matrix,S1287,B,1,1,
+adjacency matrix,S0211,A,2,0,
+adjacency matrix,S1139,A,3,1,
+adjacency matrix,S0006,A,4,1,
+adjacency matrix,S0789,A,5,0,
+adjacency matrix,S0091,A,6,0,
+adjacency matrix,S0356,A,7,0,
+adjacency matrix,S0721,B,8,1,
+SIR/SIS epidemic models,S1117,A,1,1,
+SIR/SIS epidemic models,S0845,A,2,1,
+SIR/SIS epidemic models,S0882,A,3,0,
+SIR/SIS epidemic models,S0423,untraced,4,1,in_offline
+SIR/SIS epidemic models,S1466,A,5,1,
+SIR/SIS epidemic models,S0162,A,6,1,
+SIR/SIS epidemic models,S0037,A,7,1,
+SIR/SIS epidemic models,S1256,B,8,1,
+SIR/SIS epidemic models,S0660,B,9,0,
+SIR/SIS epidemic models,S0820,B,10,0,
+betweenness centrality,S0687,untraced,1,1,in_offline
+betweenness centrality,S0486,A,2,0,
+betweenness centrality,S0735,untraced,4,1,in_offline
+betweenness centrality,S0569,untraced,5,1,in_offline
+betweenness centrality,S1323,A,6,1,
+betweenness centrality,S1256,untraced,7,0,neither
+betweenness centrality,S0088,untraced,8,0,neither
+algebraic connectivity (Fiedler value),S0840,A,1,1,
+algebraic connectivity (Fiedler value),S0271,A,3,0,
+algebraic connectivity (Fiedler value),S0533,untraced,4,0,surname_in_query
+algebraic connectivity (Fiedler value),S0543,B,5,0,
+algebraic connectivity (Fiedler value),S1190,B,6,1,
+algebraic connectivity (Fiedler value),S0117,untraced,7,1,in_offline
+algebraic connectivity (Fiedler value),S1120,A,8,0,
+average shortest path length,S0246,A,1,1,
+average shortest path length,S1196,A,2,1,
+average shortest path length,S1462,A,3,1,
+average shortest path length,S1256,B,4,1,
+average shortest path length,S0287,B,5,0,
+average shortest path length,S0755,B,6,0,
+average shortest path length,S0901,B,7,0,
+average shortest path length,S0179,B,8,1,
+average shortest path length,S1108,B,9,1,
+average shortest path length,S1030,B,10,1,
+brokerage,S0853,A,1,1,
+brokerage,S1119,A,2,1,
+brokerage,S1146,A,3,0,
+brokerage,S1311,A,4,1,
+brokerage,S0687,untraced,5,1,in_offline
+brokerage,S0168,A,6,0,
+brokerage,S0833,A,7,1,
+collective influence,S0466,A,1,1,
+collective influence,S1351,A,2,1,
+collective influence,S1335,untraced,4,0,neither
+collective influence,S0359,untraced,5,0,neither
+collective influence,S1122,untraced,6,0,neither
+collective influence,S1390,untraced,7,0,neither
+collective influence,S0810,untraced,8,0,neither
+collective influence,S0021,untraced,9,0,neither
+collective influence,S0541,untraced,10,0,neither
+closeness centrality,S0486,A,1,1,
+closeness centrality,S0424,A,2,0,
+closeness centrality,S0687,untraced,3,1,in_offline
+closeness centrality,S0842,A,4,1,
+closeness centrality,S0443,untraced,5,0,neither
+bootstrap percolation,S0877,A,1,1,
+bootstrap percolation,S0772,A,2,1,
+bootstrap percolation,S0236,A,3,1,
+bootstrap percolation,S1150,untraced,4,1,in_offline
+bootstrap percolation,S1129,untraced,5,1,in_offline
+bootstrap percolation,S0062,B,6,0,
+bootstrap percolation,S0189,B,7,0,
+bootstrap percolation,S0662,B,8,0,
+bootstrap percolation,S0146,B,9,0,
+bootstrap percolation,S0681,untraced,10,1,in_offline
+cascading failures,S0807,A,1,0,
+cascading failures,S1054,A,2,1,
+cascading failures,S0246,A,3,1,
+cascading failures,S0355,B,4,1,
+cascading failures,S1399,untraced,5,0,neither
+cascading failures,S0086,untraced,6,0,neither
+cascading failures,S0318,B,7,1,
+cascading failures,S1073,B,8,1,
+clustering coefficient,S0246,A,1,1,
+clustering coefficient,S1196,A,2,1,
+clustering coefficient,S0454,A,3,0,
+clustering coefficient,S0007,A,4,0,
+clustering coefficient,S1256,A,5,0,
+clustering coefficient,S0326,B,6,0,
+clustering coefficient,S0573,untraced,7,0,neither
+clustering coefficient,S0037,untraced,8,0,neither
+clustering coefficient,S1254,untraced,9,0,neither
+configuration model,S0478,A,1,0,
+configuration model,S0626,A,2,1,
+configuration model,S0811,A,3,0,
+configuration model,S0188,A,4,0,
+configuration model,S1256,A,5,1,
+configuration model,S1196,A,6,1,
+configuration model,S0246,A,7,1,
+complex contagion,S0986,A,1,1,
+complex contagion,S0977,A,2,1,
+complex contagion,S1311,A,3,1,
+complex contagion,S0793,B,4,0,
+complex contagion,S0246,B,5,1,
+core-periphery structure,S0735,A,1,1,
+core-periphery structure,S0360,A,2,1,
+core-periphery structure,S0529,B,3,1,
+core-periphery structure,S0421,B,4,0,
+core-periphery structure,S1295,untraced,5,0,neither
+core-periphery structure,S1368,B,6,0,
+core-periphery structure,S1205,B,7,0,
+core-periphery structure,S0935,untraced,8,0,neither
+community detection,S0088,A,1,1,
+community detection,S1256,A,2,1,
+community detection,S0857,A,3,1,
+community detection,S0507,A,4,0,
+community detection,S0220,A,5,0,
+community detection,S1201,A,6,0,
+community detection,S0325,untraced,7,1,in_offline
+community detection,S0570,A,8,0,
+community detection,S1026,A,9,0,
+community detection,S0863,untraced,10,0,neither
+degree assortativity,S1256,A,1,1,
+degree assortativity,S1126,A,2,0,
+degree assortativity,S0804,A,3,0,
+degree assortativity,S0558,A,4,0,
+degree assortativity,S0162,A,5,0,
+degree assortativity,S0037,A,6,0,
+connectome (brain networks),S0134,A,1,1,
+connectome (brain networks),S0127,A,2,0,
+connectome (brain networks),S1090,A,3,1,
+connectome (brain networks),S0145,B,4,1,
+connectome (brain networks),S0197,A,5,0,
+connectome (brain networks),S0871,A,6,1,
+connectome (brain networks),S1154,A,7,1,
+connectome (brain networks),S0187,B,8,1,
+connectome (brain networks),S0353,A,9,0,
+connectome (brain networks),S1196,A,10,0,
+degree centrality,S0687,untraced,1,1,in_offline
+degree centrality,S0486,A,2,1,
+degree centrality,S0730,A,3,0,
+degree centrality,S0842,B,4,0,
+degree centrality,S0452,untraced,5,0,neither
+degree centrality,S0749,B,6,0,
+decentralized search (Kleinberg navigability),S0849,A,1,1,
+decentralized search (Kleinberg navigability),S1462,A,2,1,
+decentralized search (Kleinberg navigability),S0017,A,3,1,
+decentralized search (Kleinberg navigability),S0246,A,4,1,
+decentralized search (Kleinberg navigability),S1196,A,5,1,
+decentralized search (Kleinberg navigability),S0349,B,6,1,
+decentralized search (Kleinberg navigability),S0503,B,7,1,
+decentralized search (Kleinberg navigability),S1256,B,8,0,
+degree distribution,S1108,A,1,1,
+degree distribution,S1030,A,2,1,
+degree distribution,S0246,A,3,1,
+degree distribution,S1196,A,4,1,
+degree distribution,S0901,A,5,1,
+degree distribution,S0287,A,6,1,
+degree distribution,S1256,A,7,1,
+degree distribution,S0626,untraced,8,1,in_offline
+diffusion of innovations,S1252,B,1,1,
+diffusion of innovations,S1308,B,2,1,
+diffusion of innovations,S0046,untraced,3,0,surname_in_query
+diffusion of innovations,S0941,A,4,1,
+diffusion of innovations,S0837,A,5,1,
+diffusion of innovations,S0806,A,6,1,
+diffusion of innovations,S0854,untraced,7,1,in_offline
+diffusion of innovations,S1311,A,8,0,
+diffusion of innovations,S1080,B,9,0,
+diffusion of innovations,S0270,A,10,0,
+echo chambers,S1053,B,1,0,
+echo chambers,S0103,B,2,0,
+echo chambers,S0746,B,3,0,
+echo chambers,S0657,B,4,0,
+echo chambers,S0848,B,5,0,
+echo chambers,S1357,untraced,6,0,surname_in_query
+echo chambers,S0422,B,7,1,
+echo chambers,S0491,B,8,0,
+echo chambers,S0824,B,9,1,
+echo chambers,S1365,B,10,1,
+eigenvector centrality,S1301,A,1,1,
+eigenvector centrality,S0031,untraced,2,1,in_offline
+eigenvector centrality,S0450,A,3,1,
+eigenvector centrality,S1312,B,4,0,
+eigenvector centrality,S1078,B,5,0,
+eigenvector centrality,S0435,B,6,1,
+epidemic threshold,S0162,A,1,1,
+epidemic threshold,S0037,A,2,1,
+epidemic threshold,S0558,A,3,0,
+epidemic threshold,S0051,A,4,0,
+epidemic threshold,S0825,untraced,5,0,surname_in_query
+epidemic threshold,S0520,untraced,6,0,surname_in_query
+epidemic threshold,S1087,untraced,7,0,neither
+epidemic threshold,S0595,A,8,0,
+explosive percolation,S1458,A,1,1,
+explosive percolation,S1217,A,2,1,
+explosive percolation,S1383,A,3,1,
+explosive percolation,S0948,A,4,1,
+explosive percolation,S1211,A,5,1,
+explosive percolation,S1445,A,6,0,
+explosive percolation,S0062,A,7,0,
+explosive percolation,S0189,A,8,0,
+explosive percolation,S0662,A,9,0,
+explosive percolation,S0829,untraced,10,0,neither
+embeddedness,S1311,A,1,1,
+embeddedness,S0147,untraced,2,1,in_offline
+embeddedness,S0249,A,3,1,
+embeddedness,S0853,A,4,1,
+embeddedness,S0334,A,5,0,
+embeddedness,S0875,B,6,1,
+embeddedness,S0455,B,7,0,
+embeddedness,S1203,untraced,8,1,in_offline
+exponential random graph model (ERGM),S0545,untraced,1,0,surname_in_query
+exponential random graph model (ERGM),S0501,A,2,0,
+exponential random graph model (ERGM),S1413,untraced,3,1,in_offline
+exponential random graph model (ERGM),S0484,A,4,0,
+exponential random graph model (ERGM),S0226,A,5,0,
+exponential random graph model (ERGM),S1233,A,6,0,
+exponential random graph model (ERGM),S1429,A,7,1,
+exponential random graph model (ERGM),S0425,untraced,8,1,in_offline
+exponential random graph model (ERGM),S0909,A,9,1,
+exponential random graph model (ERGM),S0971,B,10,1,
+feed-forward loop motif,S1306,A,1,1,
+feed-forward loop motif,S0644,A,2,0,
+feed-forward loop motif,S1162,A,3,1,
+feed-forward loop motif,S0105,A,4,1,
+feed-forward loop motif,S0670,untraced,5,0,neither
+feed-forward loop motif,S0866,A,6,1,
+feed-forward loop motif,S1092,untraced,7,1,in_offline
+forest fire model,S0276,A,1,1,
+forest fire model,S0849,A,2,1,
+forest fire model,S0520,untraced,3,1,in_offline
+forest fire model,S0978,untraced,4,0,neither
+food webs,S0372,A,1,1,
+food webs,S0725,A,2,1,
+food webs,S0028,A,3,1,
+food webs,S1466,B,4,1,
+food webs,S0782,untraced,5,1,in_offline
+food webs,S0949,untraced,6,0,neither
+food webs,S0156,A,7,1,
+food webs,S1330,untraced,8,1,in_offline
+food webs,S0247,B,9,0,
+food webs,S1048,A,10,0,
+friendship paradox,S0581,A,1,1,
+friendship paradox,S0408,A,2,0,
+friendship paradox,S0613,A,3,0,
+friendship paradox,S0332,untraced,4,0,neither
+friendship paradox,S0777,untraced,5,0,neither
+friendship paradox,S1222,untraced,6,1,in_offline
+friendship paradox,S0224,untraced,7,0,neither
+friendship paradox,S0674,untraced,8,0,neither
+friendship paradox,S1379,untraced,9,0,neither
+friendship paradox,S1256,untraced,10,0,neither
+gene regulatory networks,S0851,A,1,1,
+gene regulatory networks,S0699,untraced,2,1,in_offline
+gene regulatory networks,S0747,A,3,1,
+gene regulatory networks,S1289,A,4,1,
+gene regulatory networks,S1426,A,5,1,
+gene regulatory networks,S1306,A,6,1,
+gene regulatory networks,S1143,A,7,0,
+gene regulatory networks,S1084,A,8,0,
+gene regulatory networks,S0350,untraced,9,1,in_offline
+gene regulatory networks,S0629,untraced,10,0,neither
+global efficiency,S0318,A,1,1,
+global efficiency,S1073,A,2,1,
+global efficiency,S0939,A,5,0,
+global efficiency,S0134,A,6,0,
+global efficiency,S1276,B,7,0,
+global efficiency,S0871,B,8,0,
+graph Laplacian,S0741,untraced,1,1,in_offline
+graph Laplacian,S0840,A,2,1,
+graph Laplacian,S1190,A,3,1,
+graph Laplacian,S0271,A,4,0,
+graph Laplacian,S0543,untraced,5,0,neither
+graph Laplacian,S0533,untraced,6,0,neither
+graph Laplacian,S1120,untraced,7,0,neither
+graph Laplacian,S0117,untraced,8,1,in_offline
+graph Laplacian,S0893,B,9,0,
+graph Laplacian,S1284,untraced,10,1,in_offline
+giant connected component,S1108,A,1,1,
+giant connected component,S1030,A,2,1,
+giant connected component,S1356,untraced,3,0,neither
+giant connected component,S0188,A,4,0,
+giant connected component,S1256,untraced,5,1,in_offline
+giant connected component,S1196,A,6,1,
+giant connected component,S0246,A,7,1,
+giant connected component,S0287,A,8,1,
+giant connected component,S0901,A,9,1,
+giant connected component,S0708,B,10,1,
+graph neural networks (GNN),S0444,A,1,1,
+graph neural networks (GNN),S1338,A,2,1,
+graph neural networks (GNN),S1292,A,3,1,
+graph neural networks (GNN),S1415,untraced,4,1,in_offline
+graph neural networks (GNN),S0053,A,5,1,
+graph neural networks (GNN),S0029,untraced,6,1,in_offline
+graph neural networks (GNN),S0544,untraced,7,0,neither
+graph neural networks (GNN),S0614,untraced,8,0,neither
+graph neural networks (GNN),S0689,A,9,1,
+graph neural networks (GNN),S0276,A,10,0,
+harmonic centrality,S0239,A,1,0,
+harmonic centrality,S0050,A,2,0,
+harmonic centrality,S1073,A,3,1,
+harmonic centrality,S0318,A,4,0,
+harmonic centrality,S0842,B,5,0,
+harmonic centrality,S0424,A,6,0,
+harmonic centrality,S0687,untraced,7,1,in_offline
+graphlets,S0342,A,1,1,
+graphlets,S1162,A,2,0,
+graphlets,S1306,A,3,0,
+graphlets,S0105,A,4,0,
+graphlets,S0866,A,5,0,
+graphlets,S0263,untraced,6,0,neither
+graphlets,S0549,untraced,7,0,neither
+graphlets,S0394,untraced,8,0,neither
+graphlets,S1160,untraced,9,0,neither
+graphlets,S1231,untraced,10,0,neither
+homophily,S0303,A,1,1,
+homophily,S0769,A,2,1,
+homophily,S0746,A,3,1,
+homophily,S0657,A,4,1,
+homophily,S0848,A,5,1,
+homophily,S0771,A,6,1,
+homophily,S0560,B,7,0,
+homophily,S0581,B,8,0,
+homophily,S0120,untraced,9,0,surname_in_query
+homophily,S0246,B,10,0,
+hyperbolic geometric graph (PSO model),S0532,untraced,1,1,in_offline
+hyperbolic geometric graph (PSO model),S0128,B,2,1,
+hyperbolic geometric graph (PSO model),S0558,B,3,1,
+hyperbolic geometric graph (PSO model),S0514,B,4,0,
+hyperbolic geometric graph (PSO model),S0195,untraced,5,1,in_offline
+hyperbolic geometric graph (PSO model),S1077,untraced,6,0,neither
+hypergraphs,S0721,A,1,1,
+hypergraphs,S0399,B,2,1,
+hypergraphs,S1108,A,3,1,
+hypergraphs,S0720,B,4,0,
+hypergraphs,S1158,B,5,0,
+hypergraphs,S0207,untraced,6,0,neither
+hypergraphs,S0473,A,7,0,
+hypergraphs,S0178,B,8,0,
+human disease network (diseasome),S0586,A,1,0,
+human disease network (diseasome),S0901,A,2,1,
+human disease network (diseasome),S0538,A,3,1,
+human disease network (diseasome),S0780,untraced,4,1,in_offline
+human disease network (diseasome),S0955,untraced,5,1,in_offline
+human disease network (diseasome),S0646,untraced,6,0,neither
+human disease network (diseasome),S0225,B,7,0,
+human disease network (diseasome),S0460,B,8,0,
+human disease network (diseasome),S0993,untraced,9,0,neither
+human disease network (diseasome),S0043,B,10,0,
+independent cascade model,S1228,A,1,1,
+independent cascade model,S0849,A,2,1,
+independent cascade model,S0176,A,3,1,
+independent cascade model,S1326,A,4,0,
+independent cascade model,S0783,untraced,5,0,surname_in_query
+independent cascade model,S0917,A,6,0,
+independent cascade model,S0815,A,7,0,
+independent cascade model,S0481,A,8,0,
+independent cascade model,S0854,untraced,9,0,surname_in_query
+independent cascade model,S1311,B,10,1,
+hierarchical modularity,S0649,A,1,1,
+hierarchical modularity,S0901,A,2,0,
+hierarchical modularity,S1081,A,3,1,
+hierarchical modularity,S0088,B,4,0,
+hierarchical modularity,S1256,B,5,1,
+hierarchical modularity,S0759,untraced,6,1,in_offline
+hierarchical modularity,S0221,untraced,7,1,in_offline
+hierarchical modularity,S0947,untraced,9,0,neither
+influence maximization,S1228,A,1,1,
+influence maximization,S0849,A,2,1,
+influence maximization,S0176,A,3,1,
+influence maximization,S1326,B,4,0,
+influence maximization,S0859,untraced,5,0,surname_in_query
+influence maximization,S0860,B,6,0,
+influence maximization,S0051,B,7,0,
+influence maximization,S0522,untraced,8,0,surname_in_query
+influence maximization,S0764,B,9,0,
+influence maximization,S0276,B,10,0,
+interdependent networks,S0807,A,1,1,
+interdependent networks,S1399,A,2,1,
+interdependent networks,S0086,untraced,3,0,neither
+interdependent networks,S0976,A,4,1,
+interdependent networks,S0541,A,5,0,
+interdependent networks,S0151,untraced,6,0,neither
+interdependent networks,S1294,untraced,7,0,neither
+label propagation,S0570,untraced,1,1,in_offline
+label propagation,S0287,untraced,2,0,surname_in_query
+label propagation,S0534,A,3,0,
+label propagation,S0677,untraced,4,1,in_offline
+label propagation,S0798,B,5,0,
+label propagation,S0765,A,6,0,
+label propagation,S1133,untraced,7,1,in_offline
+label propagation,S1223,untraced,8,0,surname_in_query
+label propagation,S1447,A,9,0,
+label propagation,S1169,B,10,0,
+linear threshold model,S1311,A,1,1,
+linear threshold model,S0270,A,2,0,
+linear threshold model,S0246,A,3,1,
+linear threshold model,S1228,A,4,1,
+linear threshold model,S0849,A,5,1,
+linear threshold model,S0176,A,6,1,
+linear threshold model,S0986,untraced,7,0,neither
+local bridges,S1311,A,1,1,
+local bridges,S0853,A,2,0,
+local bridges,S0833,A,3,0,
+local bridges,S0270,B,4,0,
+local bridges,S0335,B,5,0,
+k-core decomposition,S0421,A,1,0,
+k-core decomposition,S0630,A,2,1,
+k-core decomposition,S1189,A,3,1,
+k-core decomposition,S0524,A,4,0,
+k-core decomposition,S0193,untraced,5,0,neither
+k-core decomposition,S0326,untraced,6,0,neither
+k-core decomposition,S0037,untraced,7,0,neither
+k-core decomposition,S1399,A,8,0,
+k-core decomposition,S0902,A,9,0,
+k-core decomposition,S0195,untraced,10,1,in_offline
+max-flow min-cut,S0219,untraced,1,0,surname_in_query
+max-flow min-cut,S0184,A,2,1,
+max-flow min-cut,S1344,A,3,0,
+max-flow min-cut,S0603,B,4,0,
+max-flow min-cut,S0620,untraced,5,0,surname_in_query
+max-flow min-cut,S0704,B,6,0,
+metabolic networks,S0755,A,1,0,
+metabolic networks,S0901,A,2,1,
+metabolic networks,S0043,A,3,0,
+metabolic networks,S0331,A,4,0,
+metabolic networks,S0861,A,5,1,
+metabolic networks,S0690,A,6,0,
+metabolic networks,S0590,untraced,7,0,neither
+metabolic networks,S1272,untraced,8,1,in_offline
+modularity,S0088,A,1,1,
+modularity,S1256,A,2,1,
+modularity,S0084,untraced,4,0,neither
+modularity,S0220,untraced,5,0,neither
+modularity,S1109,untraced,6,0,neither
+modularity,S0857,B,7,1,
+modularity,S0573,untraced,8,1,in_offline
+multiplex networks,S1406,A,1,1,
+multiplex networks,S1183,A,2,1,
+multiplex networks,S0580,A,3,0,
+multiplex networks,S0628,B,4,0,
+multiplex networks,S0318,B,5,0,
+multiplex networks,S1047,A,6,0,
+multiplex networks,S0354,A,7,1,
+multiplex networks,S0878,A,8,0,
+multiplex networks,S0573,A,9,0,
+multiplex networks,S0305,B,10,1,
+multilayer networks,S1406,A,1,1,
+multilayer networks,S1047,A,2,1,
+multilayer networks,S0243,A,3,1,
+multilayer networks,S0807,A,4,0,
+multilayer networks,S0327,B,5,0,
+multilayer networks,S0580,untraced,6,0,neither
+multilayer networks,S0628,B,7,0,
+multilayer networks,S0354,A,8,1,
+multilayer networks,S1183,A,9,1,
+multilayer networks,S0878,A,10,0,
+network controllability,S0202,untraced,1,1,in_offline
+network controllability,S0862,untraced,2,1,in_offline
+network controllability,S0386,A,3,1,
+network controllability,S0901,A,4,0,
+network controllability,S0116,A,5,0,
+network controllability,S0092,untraced,6,0,neither
+network controllability,S1179,untraced,7,0,neither
+network controllability,S0012,untraced,8,0,neither
+network controllability,S0976,untraced,9,1,in_offline
+network controllability,S1217,untraced,10,0,neither
+network motifs,S1306,A,1,1,
+network motifs,S1162,A,2,1,
+network motifs,S0105,A,3,0,
+network motifs,S0644,A,4,1,
+network motifs,S1092,A,5,1,
+network motifs,S0866,A,6,1,
+network motifs,S1213,A,7,0,
+network motifs,S0670,untraced,8,0,neither
+network density,S0486,A,1,1,
+network density,S0459,A,2,0,
+network density,S1208,untraced,3,0,surname_in_query
+network density,S0730,A,4,0,
+network density,S0687,untraced,5,1,in_offline
+network density,S1413,B,6,1,
+network density,S0601,B,7,1,
+network density,S1420,untraced,8,0,neither
+network density,S1311,B,9,1,
+network diameter,S1139,A,1,0,
+network diameter,S1108,A,2,1,
+network diameter,S1030,A,3,1,
+network diameter,S1462,A,4,1,
+network diameter,S0017,untraced,5,0,neither
+network diameter,S0246,A,6,1,
+network diameter,S1196,A,7,1,
+network diameter,S0901,A,8,1,
+network diameter,S0287,A,9,1,
+network diameter,S0276,A,10,0,
+network resilience,S0287,A,1,1,
+network resilience,S1399,A,2,1,
+network resilience,S0250,A,3,1,
+network resilience,S0901,A,4,1,
+network resilience,S0246,B,5,1,
+network resilience,S1256,B,6,0,
+network resilience,S1054,B,7,0,
+network resilience,S0355,B,8,0,
+network resilience,S0807,A,9,1,
+network resilience,S1400,A,10,0,
+node2vec / DeepWalk,S0713,A,1,1,
+node2vec / DeepWalk,S0276,A,2,1,
+node2vec / DeepWalk,S0299,A,3,1,
+node2vec / DeepWalk,S0702,A,4,1,
+node2vec / DeepWalk,S1237,A,5,1,
+node2vec / DeepWalk,S1004,A,6,1,
+node2vec / DeepWalk,S1263,untraced,7,0,surname_in_query
+node2vec / DeepWalk,S0163,A,8,0,
+overlapping communities,S0507,A,1,1,
+overlapping communities,S0823,A,2,1,
+overlapping communities,S0252,A,3,1,
+overlapping communities,S0830,A,4,1,
+overlapping communities,S0675,A,5,0,
+overlapping communities,S0470,A,6,0,
+overlapping communities,S1460,untraced,7,0,surname_in_query
+overlapping communities,S0685,B,8,0,
+preferential attachment,S0901,A,1,1,
+preferential attachment,S0287,A,2,1,
+preferential attachment,S0407,A,3,1,
+preferential attachment,S1081,A,4,1,
+preferential attachment,S1288,A,5,1,
+preferential attachment,S0943,B,6,1,
+preferential attachment,S0074,B,7,1,
+preferential attachment,S0827,B,8,0,
+preferential attachment,S0062,B,9,1,
+preferential attachment,S0662,B,10,1,
+protein-protein interaction networks,S0755,A,1,1,
+protein-protein interaction networks,S0839,A,2,0,
+protein-protein interaction networks,S0381,A,3,1,
+protein-protein interaction networks,S1008,A,4,0,
+protein-protein interaction networks,S0901,A,5,0,
+protein-protein interaction networks,S0043,A,6,0,
+protein-protein interaction networks,S0790,A,7,0,
+protein-protein interaction networks,S0947,B,8,0,
+protein-protein interaction networks,S0921,A,9,0,
+protein-protein interaction networks,S1042,A,10,0,
+percolation theory,S0996,A,1,1,
+percolation theory,S0383,A,2,1,
+percolation theory,S1021,B,3,1,
+percolation theory,S0969,B,4,1,
+percolation theory,S0414,B,5,1,
+percolation theory,S0277,B,6,1,
+percolation theory,S0287,A,7,0,
+percolation theory,S0250,B,8,0,
+percolation theory,S0377,B,9,0,
+percolation theory,S0246,A,10,1,
+random failures vs targeted attacks,S0287,A,1,1,
+random failures vs targeted attacks,S0755,A,2,1,
+random failures vs targeted attacks,S0901,A,3,1,
+random failures vs targeted attacks,S0250,A,4,1,
+random failures vs targeted attacks,S1399,A,5,0,
+random failures vs targeted attacks,S1215,untraced,6,1,in_offline
+random failures vs targeted attacks,S0104,A,7,1,
+random failures vs targeted attacks,S1256,A,8,0,
+random failures vs targeted attacks,S0246,A,9,1,
+random failures vs targeted attacks,S1196,A,10,1,
+random geometric graph,S0708,A,1,1,
+random geometric graph,S1115,A,2,1,
+random geometric graph,S1212,B,3,1,
+random geometric graph,S0430,B,4,0,
+random geometric graph,S0461,A,5,0,
+random geometric graph,S1013,B,6,1,
+random geometric graph,S0080,untraced,7,1,in_offline
+random geometric graph,S0722,untraced,8,0,neither
+random geometric graph,S0437,untraced,9,0,neither
+random geometric graph,S0568,untraced,10,0,neither
+rich-club coefficient,S0385,untraced,1,0,surname_in_query
+rich-club coefficient,S0020,A,2,1,
+rich-club coefficient,S1003,A,3,0,
+rich-club coefficient,S0037,B,4,1,
+rich-club coefficient,S0514,B,5,0,
+rich-club coefficient,S1178,B,6,0,
+rich-club coefficient,S0141,untraced,7,0,neither
+rich-club coefficient,S1375,A,8,0,
+rich-club coefficient,S0187,A,9,0,
+rich-club coefficient,S0134,A,10,0,
+reciprocity,S0226,A,1,0,
+reciprocity,S1233,A,2,1,
+reciprocity,S0924,A,3,0,
+reciprocity,S0391,A,4,0,
+reciprocity,S0319,B,5,0,
+reciprocity,S0233,A,6,0,
+reciprocity,S1466,A,7,0,
+self-organized criticality,S0018,A,1,1,
+self-organized criticality,S1263,A,2,1,
+self-organized criticality,S1259,A,3,1,
+self-organized criticality,S1402,A,4,1,
+scale-free network,S0901,A,1,1,
+scale-free network,S0287,A,2,1,
+scale-free network,S0755,A,3,0,
+scale-free network,S0246,A,4,1,
+scale-free network,S1196,A,5,1,
+scale-free network,S0724,A,6,0,
+random walks on networks,S1377,A,1,0,
+random walks on networks,S0596,B,2,0,
+random walks on networks,S0399,A,3,1,
+random walks on networks,S1063,A,4,1,
+random walks on networks,S1256,untraced,5,0,neither
+random walks on networks,S1201,untraced,6,0,neither
+random walks on networks,S0469,A,7,0,
+random walks on networks,S0925,untraced,8,0,surname_in_query
+random walks on networks,S1132,A,9,1,
+random walks on networks,S1240,A,10,0,
+social capital,S0625,A,1,1,
+social capital,S0941,A,2,1,
+social capital,S1311,A,3,1,
+social capital,S0853,A,4,1,
+social capital,S0061,A,5,1,
+social capital,S1203,A,6,1,
+social capital,S0576,untraced,7,1,in_offline
+six degrees of separation,S1462,A,1,1,
+six degrees of separation,S0017,A,2,1,
+six degrees of separation,S0246,A,3,1,
+six degrees of separation,S1196,A,4,1,
+six degrees of separation,S1362,A,5,1,
+six degrees of separation,S1394,A,6,1,
+six degrees of separation,S1219,A,7,1,
+six degrees of separation,S1311,A,8,1,
+six degrees of separation,S0486,B,9,0,
+stochastic actor-oriented models (SIENA),S1429,A,1,1,
+stochastic actor-oriented models (SIENA),S0668,A,2,1,
+stochastic actor-oriented models (SIENA),S1360,B,3,0,
+stochastic actor-oriented models (SIENA),S0161,B,4,0,
+stochastic actor-oriented models (SIENA),S0429,untraced,5,0,neither
+stochastic actor-oriented models (SIENA),S0488,untraced,6,0,neither
+stochastic actor-oriented models (SIENA),S0637,A,7,1,
+stochastic actor-oriented models (SIENA),S0106,untraced,8,0,neither
+simplicial complexes (higher-order networks),S0869,untraced,1,0,neither
+simplicial complexes (higher-order networks),S0580,A,2,1,
+simplicial complexes (higher-order networks),S1166,A,3,0,
+simplicial complexes (higher-order networks),S0354,A,4,1,
+simplicial complexes (higher-order networks),S0114,untraced,5,0,neither
+simplicial complexes (higher-order networks),S1278,untraced,6,0,neither
+simplicial complexes (higher-order networks),S0194,untraced,7,0,neither
+simplicial complexes (higher-order networks),S0318,untraced,8,0,neither
+simplicial complexes (higher-order networks),S1047,untraced,9,0,neither
+simplicial complexes (higher-order networks),S1183,untraced,10,0,neither
+spectral clustering,S0840,A,1,1,
+spectral clustering,S0117,A,2,1,
+spectral clustering,S1120,A,3,1,
+spectral clustering,S1151,A,4,1,
+spectral clustering,S1130,A,5,1,
+spectral clustering,S1099,A,6,1,
+spectral clustering,S0893,untraced,7,1,in_offline
+spectral clustering,S1334,untraced,8,0,neither
+spectral clustering,S1195,untraced,9,0,neither
+spectral clustering,S0026,B,10,0,
+spectral gap,S0840,A,1,0,
+spectral gap,S0612,untraced,2,1,in_offline
+spectral gap,S0856,A,3,1,
+spectral gap,S0650,B,4,0,
+spectral gap,S0988,A,5,0,
+spectral gap,S0884,A,6,0,
+spectral gap,S1190,B,7,1,
+spectral gap,S0954,untraced,8,0,neither
+stochastic block model,S0226,A,1,1,
+stochastic block model,S0752,A,2,1,
+stochastic block model,S1233,A,3,1,
+stochastic block model,S0051,A,4,0,
+stochastic block model,S0562,A,5,0,
+stochastic block model,S0248,A,6,0,
+stochastic block model,S1429,A,7,0,
+stochastic block model,S0675,A,8,1,
+stochastic block model,S0737,untraced,9,1,in_offline
+stochastic block model,S1256,untraced,10,1,in_offline
+structural balance,S0992,A,1,1,
+structural balance,S0211,A,2,1,
+structural balance,S1139,A,3,1,
+structural balance,S0364,A,4,1,
+structural balance,S0339,untraced,5,0,neither
+structural holes,S0853,A,1,1,
+strength of weak ties,S1311,A,1,1,
+strength of weak ties,S0853,A,2,1,
+strength of weak ties,S1203,A,3,0,
+strength of weak ties,S0821,untraced,4,0,neither
+strength of weak ties,S0443,untraced,5,0,neither
+supracentrality,S0577,A,1,0,
+supracentrality,S0243,A,2,1,
+supracentrality,S0114,A,3,1,
+supracentrality,S0291,untraced,4,0,neither
+supracentrality,S0759,untraced,5,0,neither
+supracentrality,S0859,untraced,6,0,neither
+supracentrality,S0742,untraced,7,0,neither
+supracentrality,S0651,untraced,8,0,neither
+voter model,S0672,untraced,1,1,in_offline
+voter model,S0268,A,2,1,
+voter model,S0150,untraced,3,1,in_offline
+voter model,S0712,A,4,1,
+voter model,S1453,untraced,5,0,surname_in_query
+voter model,S1227,B,6,0,
+voter model,S0803,untraced,7,0,surname_in_query
+transitivity,S0992,A,1,1,
+transitivity,S0211,A,2,1,
+transitivity,S1139,A,3,1,
+transitivity,S0337,B,4,0,
+transitivity,S0226,A,5,0,
+transitivity,S1233,A,6,0,
+transitivity,S1311,A,7,1,
+transitivity,S0246,A,8,1,
+transitivity,S1196,A,9,1,
+transitivity,S1256,B,10,0,
+triadic closure,S0833,A,1,1,
+triadic closure,S0992,A,2,1,
+triadic closure,S0211,A,3,1,
+triadic closure,S1139,A,4,1,
+triadic closure,S0337,A,5,0,
+triadic closure,S0560,A,6,0,
+triadic closure,S1311,A,7,1,
+triadic closure,S0226,untraced,8,0,neither
+triadic closure,S1233,untraced,9,0,neither
+triadic closure,S0246,A,10,1,
+temporal networks,S0910,A,1,1,
+temporal networks,S1079,A,2,1,
+temporal networks,S1228,A,3,0,
+temporal networks,S0849,A,4,0,
+temporal networks,S0597,untraced,5,0,surname_in_query
+temporal networks,S0676,B,6,0,
+temporal networks,S1358,untraced,7,0,neither
+temporal networks,S1432,untraced,8,0,neither
+temporal networks,S0915,untraced,9,1,in_offline
+Ollivier-Ricci curvature,S0130,A,1,1,
+Ollivier-Ricci curvature,S0994,A,2,1,
+Ollivier-Ricci curvature,S0855,untraced,3,0,surname_in_query
+Ollivier-Ricci curvature,S0411,B,4,0,
+Ollivier-Ricci curvature,S0953,B,5,0,
+Ollivier-Ricci curvature,S0500,B,6,0,
+Ollivier-Ricci curvature,S0034,A,7,1,
+Ollivier-Ricci curvature,S0553,A,8,0,
+Ollivier-Ricci curvature,S1234,untraced,9,0,surname_in_query
+Ollivier-Ricci curvature,S1106,untraced,10,0,neither
+Forman-Ricci curvature,S1018,A,1,1,
+Forman-Ricci curvature,S0152,A,2,0,
+Forman-Ricci curvature,S0537,A,3,0,
+Forman-Ricci curvature,S1002,untraced,4,0,neither
+Forman-Ricci curvature,S0953,untraced,5,1,in_offline
+Forman-Ricci curvature,S0346,untraced,6,0,neither
+Forman-Ricci curvature,S0691,untraced,7,0,neither
+Forman-Ricci curvature,S0494,untraced,8,0,neither
+Persistent homology,S1393,untraced,1,1,in_offline
+Persistent homology,S0551,untraced,2,0,surname_in_query
+Persistent homology,S1045,untraced,3,1,in_offline
+Persistent homology,S0483,B,4,1,
+Persistent homology,S1076,untraced,5,1,in_offline
+Persistent homology,S0302,untraced,6,1,in_offline
+Persistent homology,S1452,untraced,7,1,in_offline
+Persistent homology,S0336,untraced,8,0,neither
+Mapper algorithm,S0550,A,1,1,
+Mapper algorithm,S0923,A,2,1,
+Mapper algorithm,S0483,A,3,1,
+Mapper algorithm,S1055,untraced,4,0,neither
+Mapper algorithm,S0302,untraced,5,0,neither
+Mapper algorithm,S1452,untraced,6,0,neither
+Mapper algorithm,S1023,untraced,7,0,neither
+Mapper algorithm,S0462,untraced,8,0,neither
+Betti numbers,S1393,B,1,1,
+Betti numbers,S1045,B,2,1,
+Betti numbers,S0483,B,3,1,
+Betti numbers,S0551,B,4,0,
+Betti numbers,S1166,B,5,0,
+Betti numbers,S0897,untraced,6,0,surname_in_query
+Betti numbers,S0844,untraced,7,0,neither
+Betti numbers,S1229,untraced,8,1,in_offline
+Betti numbers,S1005,untraced,9,0,neither
+Betti numbers,S0138,untraced,10,0,neither
+Network Morse filtration,S1018,untraced,1,1,in_offline
+Network Morse filtration,S1068,untraced,2,0,neither
+Network Morse filtration,S1002,untraced,3,0,neither
+Network Morse filtration,S0929,untraced,4,0,neither
+Network Morse filtration,S0537,untraced,5,0,neither
+Network Morse filtration,S0177,B,6,0,
+Network Morse filtration,S0023,B,7,0,
+Network Morse filtration,S1175,B,8,0,
+Network Morse filtration,S1064,untraced,9,0,neither
+Network Morse filtration,S1069,untraced,10,0,neither
+Cavity method,S0227,A,1,1,
+Cavity method,S0284,A,2,1,
+Cavity method,S0585,A,3,1,
+Cavity method,S1320,untraced,4,1,in_offline
+Cavity method,S0025,untraced,5,1,in_offline
+Cavity method,S1182,untraced,6,0,neither
+Belief propagation,S0143,A,1,1,
+Belief propagation,S0683,A,2,1,
+Belief propagation,S0774,A,3,1,
+Belief propagation,S1202,A,4,1,
+Belief propagation,S0005,A,5,0,
+Belief propagation,S0819,A,6,0,
+Belief propagation,S0274,untraced,7,0,neither
+Belief propagation,S1343,untraced,8,0,neither
+Belief propagation,S1099,A,9,0,
+Belief propagation,S0109,untraced,10,0,surname_in_query
+Bethe free energy,S0395,A,1,1,
+Bethe free energy,S1191,A,2,0,
+Bethe free energy,S0928,A,3,1,
+Bethe free energy,S0109,untraced,4,1,in_offline
+Bethe free energy,S1099,A,5,1,
+Bethe free energy,S0227,A,6,1,
+Bethe free energy,S0284,A,7,1,
+Bethe free energy,S1320,B,8,0,
+Bethe free energy,S1317,B,9,1,
+Kesten-Stigum threshold,S0542,A,1,1,
+Kesten-Stigum threshold,S0843,A,2,1,
+Kesten-Stigum threshold,S0912,A,3,1,
+Kesten-Stigum threshold,S1423,A,4,1,
+Kesten-Stigum threshold,S0221,A,5,1,
+Kesten-Stigum threshold,S0438,A,6,1,
+Kesten-Stigum threshold,S0182,A,7,1,
+Kesten-Stigum threshold,S0181,A,8,0,
+Kesten-Stigum threshold,S1123,A,9,1,
+Kesten-Stigum threshold,S0400,untraced,10,0,neither
+Approximate message passing,S0136,A,1,1,
+Approximate message passing,S0799,A,2,1,
+Approximate message passing,S0025,A,3,1,
+Approximate message passing,S1046,untraced,4,1,in_offline
+Approximate message passing,S1418,B,5,1,
+Approximate message passing,S1423,A,6,1,
+Approximate message passing,S0438,A,7,0,
+Approximate message passing,S0227,untraced,8,1,in_offline
+Approximate message passing,S0221,A,9,0,
+Non-backtracking matrix,S1236,A,1,0,
+Non-backtracking matrix,S0323,A,2,0,
+Non-backtracking matrix,S0709,A,3,1,
+Non-backtracking matrix,S1423,A,4,1,
+Non-backtracking matrix,S0221,untraced,5,0,neither
+Non-backtracking matrix,S0182,untraced,6,0,neither
+Non-backtracking matrix,S0972,B,7,0,
+Non-backtracking matrix,S0237,B,8,1,
+Non-backtracking matrix,S0466,B,9,0,
+Detectability phase transition,S0912,A,1,1,
+Detectability phase transition,S1423,A,2,1,
+Detectability phase transition,S0221,A,3,1,
+Detectability phase transition,S0438,A,4,1,
+Detectability phase transition,S0182,untraced,5,1,in_offline
+Detectability phase transition,S0181,untraced,6,1,in_offline
+Detectability phase transition,S1123,untraced,7,1,in_offline
+Detectability phase transition,S0972,untraced,8,0,neither
+Detectability phase transition,S0315,untraced,9,0,neither
+Detectability phase transition,S0171,untraced,10,0,neither
+Hashimoto operator,S1236,A,1,0,
+Hashimoto operator,S0709,A,2,1,
+Hashimoto operator,S0323,A,3,1,
+Hashimoto operator,S0528,A,4,0,
+Hashimoto operator,S1014,A,5,0,
+Hashimoto operator,S1423,A,6,1,
+Hashimoto operator,S0237,A,7,1,
+Hashimoto operator,S1422,untraced,8,0,neither
+Hashimoto operator,S1188,untraced,9,0,neither
+Hashimoto operator,S0885,untraced,10,0,neither
+Ihara zeta function,S0323,A,1,1,
+Ihara zeta function,S1236,A,2,1,
+Ihara zeta function,S0709,A,3,1,
+Ihara zeta function,S1177,A,4,1,
+Ihara zeta function,S0528,A,5,0,
+Ihara zeta function,S1014,A,6,1,
+Ihara zeta function,S1105,B,7,0,
+Adamic-Adar index,S0974,A,1,1,
+Adamic-Adar index,S0067,A,2,1,
+Adamic-Adar index,S1020,A,3,1,
+Adamic-Adar index,S0849,A,4,1,
+Link prediction,S1020,A,1,1,
+Link prediction,S0849,A,2,0,
+Link prediction,S0516,untraced,3,1,in_offline
+Link prediction,S0855,A,4,1,
+Link prediction,S0031,untraced,5,0,surname_in_query
+Link prediction,S0974,A,6,1,
+Link prediction,S0067,A,7,0,
+Link prediction,S1256,B,8,1,
+Link prediction,S0420,B,9,0,
+Link prediction,S1462,untraced,10,0,neither
+Common neighbors score,S1020,A,1,1,
+Common neighbors score,S0849,A,2,0,
+Common neighbors score,S1256,A,3,0,
+Common neighbors score,S0974,B,4,1,
+Common neighbors score,S0067,B,5,1,
+Common neighbors score,S0420,A,6,0,
+Common neighbors score,S0855,untraced,7,1,in_offline
+Common neighbors score,S0516,untraced,8,1,in_offline
+Resource allocation index,S0516,untraced,1,1,in_offline
+Resource allocation index,S0855,A,2,1,
+Resource allocation index,S1141,A,3,1,
+Resource allocation index,S1243,untraced,4,0,neither
+Resource allocation index,S0910,untraced,5,0,neither
+Graphons,S0399,A,1,1,
+Graphons,S1168,A,2,1,
+Graphons,S0764,A,3,1,
+Graphons,S0215,A,4,1,
+Graphons,S0480,A,5,1,
+Graphons,S0001,A,6,0,
+Lovasz graph limits,S0399,A,1,1,
+Lovasz graph limits,S1168,B,2,1,
+Lovasz graph limits,S0764,A,3,1,
+Lovasz graph limits,S0215,A,4,1,
+Lovasz graph limits,S0480,A,5,0,
+Lovasz graph limits,S0001,A,6,0,
+Lovasz graph limits,S0961,untraced,7,1,in_offline
+Lovasz graph limits,S0626,untraced,8,0,neither
+Lovasz graph limits,S0948,untraced,9,0,neither
+Chimera states,S0548,A,1,1,
+Chimera states,S0740,A,2,1,
+Chimera states,S0465,A,3,1,
+Chimera states,S1196,A,4,1,
+Chimera states,S0715,untraced,5,0,neither
+Chimera states,S0496,untraced,6,1,in_offline
+Chimera states,S0089,A,7,1,
+Chimera states,S0555,untraced,8,1,in_offline
+Chimera states,S0093,untraced,9,0,neither
+Chimera states,S0058,untraced,10,0,neither
+Master stability function,S1091,A,1,1,
+Master stability function,S0886,A,2,1,
+Master stability function,S1159,A,3,0,
+Master stability function,S0622,untraced,5,0,neither
+Master stability function,S1200,untraced,6,0,neither
+Master stability function,S0517,A,7,0,
+Master stability function,S0059,untraced,8,0,surname_in_query
+Master stability function,S0785,untraced,9,0,neither
+Master stability function,S0430,B,10,0,
+Cut distance,S0399,A,1,1,
+Cut distance,S1168,A,2,1,
+Cut distance,S0764,A,3,1,
+Cut distance,S0215,A,4,1,
+Cut distance,S0480,B,5,1,
+Cut distance,S0001,A,6,0,
+Cut distance,S1052,A,7,0,
+Cut distance,S0952,untraced,8,0,surname_in_query
+Explosive synchronization,S0280,A,1,1,
+Explosive synchronization,S1183,A,2,1,
+Explosive synchronization,S0878,A,3,1,
+Explosive synchronization,S0327,untraced,4,1,in_offline
+Explosive synchronization,S0024,A,5,0,
+Explosive synchronization,S1047,A,6,1,
+Explosive synchronization,S0352,untraced,7,0,neither
+Explosive synchronization,S0654,untraced,8,0,neither
+Explosive synchronization,S0495,untraced,9,1,in_offline
+Explosive synchronization,S0900,untraced,10,0,neither
+Burstiness,S0901,A,1,1,
+Burstiness,S0586,A,2,0,
+Burstiness,S0700,A,4,0,
+Burstiness,S0643,untraced,5,0,neither
+Burstiness,S0464,A,6,1,
+Burstiness,S1463,untraced,7,1,in_offline
+Burstiness,S1089,A,8,0,
+Burstiness,S0613,A,9,0,
+Activity-driven networks,S0891,A,1,1,
+Activity-driven networks,S0393,A,2,1,
+Activity-driven networks,S0162,A,3,1,
+Activity-driven networks,S0037,A,4,1,
+Activity-driven networks,S0575,B,5,0,
+Activity-driven networks,S1114,B,6,1,
+Activity-driven networks,S0402,B,7,0,
+Activity-driven networks,S1446,untraced,8,0,neither
+Memory networks,S1201,A,1,1,
+Memory networks,S0915,untraced,2,1,in_offline
+Memory networks,S0956,A,3,1,
+Memory networks,S0627,untraced,4,0,neither
+Memory networks,S1085,untraced,5,0,neither
+Memory networks,S1026,untraced,6,1,in_offline
+Memory networks,S0477,untraced,7,0,neither
+Memory networks,S1372,untraced,8,0,neither
+Memory networks,S0194,untraced,9,0,neither
+Memory networks,S0894,untraced,10,1,in_offline
+Inter-event time distribution,S0901,A,1,1,
+Inter-event time distribution,S0700,A,2,0,
+Inter-event time distribution,S0388,A,3,0,
+Inter-event time distribution,S0586,B,4,0,
+Inter-event time distribution,S1089,B,5,0,
+Inter-event time distribution,S1290,B,6,0,
+Inter-event time distribution,S0464,B,7,1,
+Inter-event time distribution,S1207,B,8,1,
+Acquaintance immunization,S0250,A,1,1,
+Acquaintance immunization,S1399,A,2,1,
+Acquaintance immunization,S1215,A,3,1,
+Acquaintance immunization,S0779,untraced,4,0,neither
+Acquaintance immunization,S0314,untraced,5,0,neither
+Acquaintance immunization,S0028,A,6,0,
+Network dismantling,S0466,A,1,1,
+Network dismantling,S0474,A,2,0,
+Network dismantling,S0193,A,3,0,
+Network dismantling,S0361,A,4,0,
+Network dismantling,S0438,A,5,0,
+Network dismantling,S0535,untraced,6,0,surname_in_query
+Network dismantling,S0400,untraced,7,0,neither
+Network dismantling,S1351,A,8,0,
+Time-respecting paths,S1228,A,1,0,
+Time-respecting paths,S0849,A,2,0,
+Time-respecting paths,S0597,untraced,3,0,surname_in_query
+Time-respecting paths,S0910,A,4,1,
+Time-respecting paths,S1079,A,5,1,
+Time-respecting paths,S1358,untraced,6,0,neither
+Time-respecting paths,S0512,untraced,7,1,in_offline
+Time-respecting paths,S0166,B,8,0,
+Time-respecting paths,S1010,B,9,0,
+Time-respecting paths,S0318,B,10,0,
+Optimal percolation,S0466,A,1,1,
+Optimal percolation,S1351,A,2,1,
+Optimal percolation,S0474,B,3,0,
+Optimal percolation,S0193,untraced,4,0,surname_in_query
+Optimal percolation,S0361,B,5,0,
+Optimal percolation,S0438,B,6,0,
+Optimal percolation,S0535,untraced,7,0,neither
+Optimal percolation,S1444,untraced,8,0,neither
+Optimal percolation,S0087,untraced,9,0,neither
+Optimal percolation,S1376,untraced,10,0,neither
+Subgraph centrality,S1341,A,1,1,
+Subgraph centrality,S1241,A,2,1,
+Subgraph centrality,S1163,untraced,3,0,neither
+Disparity filter,S0514,A,1,1,
+Disparity filter,S0558,A,2,1,
+Disparity filter,S0037,A,3,1,
+Communicability,S1341,A,1,1,
+Communicability,S1163,A,2,1,
+Communicability,S0224,untraced,4,1,in_offline
+Communicability,S0125,A,6,1,
+Communicability,S0230,A,7,1,
+Communicability,S0134,untraced,8,0,neither
+Bipartite modularity,S0706,A,1,1,
+Bipartite modularity,S0966,A,2,0,
+Bipartite modularity,S0623,untraced,3,0,neither
+Bipartite modularity,S0508,untraced,4,0,neither
+Bipartite modularity,S0579,A,5,0,
+Estrada index,S1341,A,1,1,
+Estrada index,S1241,untraced,2,1,in_offline
+Estrada index,S0504,B,3,0,
+Estrada index,S1163,untraced,4,0,neither
+Estrada index,S0125,untraced,5,0,neither
+Network backbone extraction,S0514,A,1,1,
+Network backbone extraction,S0558,A,2,0,
+Network backbone extraction,S0037,A,3,0,
+Network backbone extraction,S1347,B,4,0,
+Network backbone extraction,S0376,B,5,0,
+Network backbone extraction,S1296,B,6,0,
+Network backbone extraction,S1072,A,7,1,
+Network backbone extraction,S1186,untraced,8,0,neither
+Network backbone extraction,S0736,B,9,0,
+Network backbone extraction,S1035,untraced,10,0,neither
+High-salience skeleton,S1347,untraced,1,0,surname_in_query
+High-salience skeleton,S0376,untraced,2,0,surname_in_query
+High-salience skeleton,S1296,B,3,0,
+High-salience skeleton,S0326,untraced,4,0,neither
+High-salience skeleton,S0573,untraced,5,0,neither
+High-salience skeleton,S0037,untraced,6,0,neither
+High-salience skeleton,S1256,untraced,7,0,neither
+High-salience skeleton,S0687,untraced,8,0,neither
+High-salience skeleton,S0514,untraced,9,0,neither
+High-salience skeleton,S0558,untraced,10,0,neither
+Nestedness,S0967,A,1,1,
+Nestedness,S0076,A,2,1,
+Nestedness,S0297,A,3,1,
+Nestedness,S1111,A,4,0,
+Nestedness,S0508,A,5,1,
+Nestedness,S0792,A,6,0,
+Nestedness,S0292,A,7,0,
+Nestedness,S0688,A,8,1,
+Nestedness,S0441,B,9,1,
+Mutualistic networks,S0297,A,1,1,
+Mutualistic networks,S1111,A,2,1,
+Mutualistic networks,S0508,A,3,1,
+Mutualistic networks,S1193,untraced,4,0,neither
+Mutualistic networks,S0389,untraced,5,0,neither
+Mutualistic networks,S0792,untraced,6,0,neither
+Mutualistic networks,S0110,B,7,0,
+Mutualistic networks,S0079,untraced,8,0,neither
+Mutualistic networks,S0782,untraced,9,0,neither
+Product space network,S0225,A,1,1,
+Product space network,S1324,A,2,1,
+Product space network,S0758,A,3,1,
+Product space network,S0901,A,4,1,
+Economic complexity index,S0225,A,1,1,
+Economic complexity index,S1324,A,2,1,
+Economic complexity index,S0758,untraced,3,0,neither
+Economic complexity index,S0901,untraced,4,0,neither
+Economic complexity index,S0727,untraced,5,0,neither
+Economic complexity index,S0433,untraced,6,0,neither
+Economic complexity index,S0979,untraced,7,0,neither
+Economic complexity index,S0312,untraced,8,1,in_offline
+Economic complexity index,S0126,untraced,9,0,surname_in_query
+Maximum entropy reconstruction,S0319,A,1,1,
+Maximum entropy reconstruction,S0924,A,2,1,
+Maximum entropy reconstruction,S1340,untraced,3,1,in_offline
+Maximum entropy reconstruction,S1121,untraced,4,0,neither
+Maximum entropy reconstruction,S0354,untraced,5,0,neither
+Maximum entropy reconstruction,S1085,untraced,6,0,neither
+Network reconstruction,S1121,A,1,0,
+Network reconstruction,S0319,A,2,1,
+Network reconstruction,S0924,untraced,3,1,in_offline
+Network reconstruction,S1376,untraced,4,0,neither
+Network reconstruction,S0015,untraced,5,0,neither
+Network reconstruction,S1085,untraced,6,1,in_offline
+Network reconstruction,S0862,untraced,7,0,neither
+Network reconstruction,S0976,untraced,8,0,neither
+Network reconstruction,S0975,untraced,9,0,neither
+Network reconstruction,S1173,untraced,10,0,neither
+Hidden-variable reconstruction,S0558,A,1,1,
+Hidden-variable reconstruction,S0514,A,2,0,
+Hidden-variable reconstruction,S0128,untraced,3,0,neither
+Hidden-variable reconstruction,S0162,untraced,4,1,in_offline
+Hidden-variable reconstruction,S0532,untraced,5,0,neither
+Hidden-variable reconstruction,S1019,untraced,6,0,neither
+Hidden-variable reconstruction,S0624,untraced,7,0,neither
+Fitness-complexity algorithm,S0126,A,1,1,
+Fitness-complexity algorithm,S0281,A,2,1,
+Fitness-complexity algorithm,S1328,A,3,1,
+Fitness-complexity algorithm,S0312,B,4,1,
+Fitness-complexity algorithm,S0071,B,5,0,
+Fitness-complexity algorithm,S0225,A,6,1,
+Fitness-complexity algorithm,S1324,A,7,1,
+Fitness-complexity algorithm,S1028,B,8,0,
+Fitness-complexity algorithm,S1392,B,9,0,
+Fitness-complexity algorithm,S1257,B,10,0,
+Mean first-passage time,S1377,B,1,0,
+Mean first-passage time,S1098,B,2,0,
+Mean first-passage time,S1210,untraced,3,0,neither
+Mean first-passage time,S0074,B,4,1,
+Mean first-passage time,S1399,untraced,5,1,in_offline
+Mean first-passage time,S1336,B,6,0,
+Mean first-passage time,S0390,B,7,0,
+Mean first-passage time,S0428,B,8,0,
+Mean first-passage time,S0932,B,9,0,
+Mean first-passage time,S0399,A,10,0,
+Commute time,S1012,untraced,1,0,neither
+Commute time,S1063,B,2,1,
+Commute time,S1125,B,3,1,
+Commute time,S0932,B,4,1,
+Commute time,S1271,A,5,1,
+Commute time,S0098,A,6,1,
+Commute time,S0399,A,7,1,
+Commute time,S1352,B,8,0,
+Commute time,S1273,B,9,0,
+Cover time,S1009,B,1,0,
+Cover time,S0954,A,2,1,
+Cover time,S1012,untraced,3,0,neither
+Cover time,S0653,untraced,4,0,neither
+Cover time,S0693,untraced,5,0,neither
+Cover time,S0962,untraced,6,0,neither
+Cover time,S0636,A,7,1,
+Cover time,S1070,A,8,0,
+Cover time,S0800,B,9,0,
+Cover time,S0121,B,10,1,
+Hitting time,S0847,A,1,0,
+Hitting time,S1125,A,2,1,
+Hitting time,S0399,A,3,1,
+Hitting time,S1063,B,4,1,
+Hitting time,S1012,B,5,0,
+Hitting time,S0653,untraced,6,0,surname_in_query
+Hitting time,S0693,B,7,0,
+Hitting time,S0962,B,8,0,
+Hitting time,S0269,B,9,0,
+Hitting time,S0990,untraced,10,0,surname_in_query
+Fiedler vector partitioning,S0840,A,1,1,
+Fiedler vector partitioning,S0546,B,2,0,
+Fiedler vector partitioning,S1144,B,3,0,
+Fiedler vector partitioning,S1409,A,4,1,
+Fiedler vector partitioning,S1081,A,5,1,
+Fiedler vector partitioning,S0068,A,6,0,
+Fiedler vector partitioning,S1363,A,7,0,
+Fiedler vector partitioning,S1269,untraced,8,0,neither
+Fiedler vector partitioning,S0588,untraced,9,0,neither
+Fiedler vector partitioning,S0826,untraced,10,0,neither
+Localization transition,S0237,untraced,1,1,in_offline
+Localization transition,S0189,B,2,0,
+Localization transition,S0162,untraced,3,0,neither
+Localization transition,S0278,untraced,4,0,neither
+Localization transition,S0692,untraced,5,0,neither
+Localization transition,S0881,untraced,6,0,neither
+Localization transition,S1327,untraced,7,0,neither
+Cheeger inequality,S0398,A,1,1,
+Cheeger inequality,S0612,untraced,2,1,in_offline
+Cheeger inequality,S0856,A,3,1,
+Cheeger inequality,S0988,B,4,0,
+Cheeger inequality,S0884,A,5,0,
+Cheeger inequality,S1197,untraced,6,0,neither
+Cheeger inequality,S1279,untraced,7,0,neither
+Cheeger inequality,S1190,B,8,1,
+Spectral density,S0830,B,1,0,
+Spectral density,S0272,untraced,2,0,neither
+Spectral density,S1190,untraced,3,1,in_offline
+Spectral density,S0447,untraced,4,0,neither
+Spectral density,S0586,untraced,5,0,neither
+Spectral density,S0485,untraced,6,0,neither
+Spectral density,S0054,B,7,0,
+Spectral density,S0296,untraced,8,0,neither
+Graph wavelets,S1438,A,1,1,
+Graph wavelets,S1185,A,2,1,
+Graph wavelets,S1136,A,3,0,
+Graph wavelets,S0567,A,4,1,
+Graph wavelets,S0451,A,5,1,
+Graph wavelets,S0707,A,6,0,
+Graph wavelets,S0203,A,7,0,
+Graph wavelets,S1083,untraced,8,0,neither
+Graph wavelets,S0984,untraced,9,0,neither
+Graph wavelets,S0265,untraced,10,0,neither
+Graph signal processing,S0185,A,1,1,
+Graph signal processing,S0256,A,2,1,
+Graph signal processing,S0564,A,3,1,
+Graph signal processing,S1145,A,4,1,
+Graph signal processing,S1185,B,5,1,
+Graph signal processing,S1062,B,6,0,
+Graph signal processing,S1438,B,7,1,
+Graph signal processing,S1167,untraced,8,0,neither
+Graph signal processing,S0039,untraced,9,0,neither
+Graph signal processing,S0710,untraced,10,0,neither
+Graph Fourier transform,S0185,A,1,1,
+Graph Fourier transform,S0256,A,2,0,
+Graph Fourier transform,S0564,A,3,1,
+Graph Fourier transform,S1185,untraced,4,1,in_offline
+Graph Fourier transform,S1145,A,5,1,
+Graph Fourier transform,S1062,untraced,6,0,neither
+Graph Fourier transform,S1313,untraced,7,0,neither
+Graph Fourier transform,S1190,B,8,1,
+Graph Fourier transform,S0567,untraced,9,1,in_offline
+Graph Fourier transform,S0451,A,10,0,
+Stochastic equivalence,S1314,A,1,0,
+Stochastic equivalence,S0273,A,2,1,
+Stochastic equivalence,S1407,A,3,1,
+Stochastic equivalence,S0529,A,4,1,
+Stochastic equivalence,S0226,A,5,1,
+Stochastic equivalence,S0752,B,6,1,
+Stochastic equivalence,S1233,A,7,1,
+Stochastic equivalence,S0569,A,8,1,
+Stochastic equivalence,S0750,B,9,0,
+Stochastic equivalence,S0248,A,10,0,
+Regular equivalence,S0569,A,1,1,
+Regular equivalence,S0750,A,2,0,
+Regular equivalence,S0273,untraced,3,1,in_offline
+Regular equivalence,S1314,A,4,0,
+Regular equivalence,S1407,B,5,1,
+Regular equivalence,S0735,A,6,1,
+Regular equivalence,S0360,A,7,1,
+Regular equivalence,S0529,untraced,8,1,in_offline
+Role discovery,S1314,B,1,0,
+Role discovery,S0273,untraced,2,1,in_offline
+Role discovery,S0750,A,3,0,
+Role discovery,S1413,untraced,4,0,neither
+Role discovery,S0601,untraced,5,0,neither
+Role discovery,S0735,untraced,6,1,in_offline
+Role discovery,S0309,A,7,0,
+Role discovery,S0791,untraced,8,0,neither
+Role discovery,S0345,untraced,9,0,neither
+TransE embeddings,S0379,A,1,1,
+TransE embeddings,S0767,untraced,2,1,in_offline
+TransE embeddings,S0876,untraced,3,1,in_offline
+TransE embeddings,S1447,untraced,4,1,in_offline
+TransE embeddings,S1457,untraced,5,1,in_offline
+TransE embeddings,S1446,untraced,6,0,neither
+TransE embeddings,S1203,untraced,7,0,neither
+TransE embeddings,S0500,untraced,8,0,neither
+Blockmodeling,S0273,untraced,1,1,in_offline
+Blockmodeling,S1407,A,2,1,
+Blockmodeling,S0529,A,3,1,
+Blockmodeling,S1314,A,4,0,
+Blockmodeling,S0521,A,5,0,
+Blockmodeling,S1180,A,6,1,
+Blockmodeling,S0630,A,7,1,
+Blockmodeling,S0072,A,8,1,
+Blockmodeling,S0484,untraced,9,0,neither
+Knowledge graph embeddings,S0379,A,1,1,
+Knowledge graph embeddings,S0129,untraced,2,1,in_offline
+Knowledge graph embeddings,S0748,untraced,3,1,in_offline
+Knowledge graph embeddings,S1446,untraced,4,0,surname_in_query
+Knowledge graph embeddings,S1203,untraced,5,0,neither
+Knowledge graph embeddings,S1034,untraced,6,1,in_offline
+Knowledge graph embeddings,S0107,untraced,7,1,in_offline
+Knowledge graph embeddings,S1113,untraced,8,1,in_offline
+Knowledge graph embeddings,S1361,untraced,9,0,neither
+ComplEx embeddings,S0107,A,1,1,
+ComplEx embeddings,S0405,A,2,0,
+ComplEx embeddings,S0905,A,3,0,
+ComplEx embeddings,S0937,untraced,4,1,in_offline
+ComplEx embeddings,S1386,A,5,1,
+ComplEx embeddings,S0129,A,6,1,
+ComplEx embeddings,S1049,untraced,7,0,neither
+ComplEx embeddings,S0656,untraced,8,0,neither
+ComplEx embeddings,S0802,untraced,9,0,neither
+ComplEx embeddings,S0997,untraced,10,0,neither
+RotatE embeddings,S1374,untraced,1,1,in_offline
+RotatE embeddings,S1263,untraced,2,1,in_offline
+RotatE embeddings,S1350,untraced,3,1,in_offline
+RotatE embeddings,S0502,untraced,4,1,in_offline
+RotatE embeddings,S0107,untraced,5,1,in_offline
+RotatE embeddings,S0379,untraced,6,1,in_offline
+RotatE embeddings,S0490,untraced,7,0,neither
+RotatE embeddings,S1446,untraced,8,0,neither
+RotatE embeddings,S1203,untraced,9,1,in_offline
+RotatE embeddings,S0751,untraced,10,0,neither
+Heterogeneous mean-field theory,S0162,A,1,1,
+Heterogeneous mean-field theory,S0037,A,2,1,
+Heterogeneous mean-field theory,S0878,B,3,0,
+Heterogeneous mean-field theory,S0558,A,4,1,
+Heterogeneous mean-field theory,S0326,B,5,0,
+Heterogeneous mean-field theory,S0573,B,6,0,
+Heterogeneous mean-field theory,S0327,untraced,7,0,neither
+Heterogeneous mean-field theory,S0286,untraced,8,0,neither
+Latent space model,S0308,A,1,1,
+Latent space model,S1037,A,2,1,
+Latent space model,S0909,A,3,1,
+Latent space model,S0598,A,4,0,
+Latent space model,S0412,untraced,6,0,neither
+Latent space model,S0619,untraced,7,0,neither
+Effective distance (Brockmann-Helbing),S1296,A,1,1,
+Effective distance (Brockmann-Helbing),S0172,A,2,1,
+Effective distance (Brockmann-Helbing),S1380,B,3,0,
+Effective distance (Brockmann-Helbing),S0165,B,4,0,
+Effective distance (Brockmann-Helbing),S1003,B,5,1,
+Effective distance (Brockmann-Helbing),S0037,B,6,1,
+Effective distance (Brockmann-Helbing),S0326,B,7,1,
+Effective distance (Brockmann-Helbing),S0573,B,8,1,
+Effective distance (Brockmann-Helbing),S0044,untraced,9,0,neither
+Effective distance (Brockmann-Helbing),S0982,untraced,10,0,neither
+Shortest-path betweenness load,S0687,untraced,1,1,in_offline
+Shortest-path betweenness load,S1256,A,2,1,
+Shortest-path betweenness load,S0586,B,3,0,
+Shortest-path betweenness load,S0665,untraced,4,0,neither
+Shortest-path betweenness load,S0447,untraced,5,0,neither
+Shortest-path betweenness load,S1323,A,6,1,
+Shortest-path betweenness load,S0735,untraced,7,1,in_offline
+Shortest-path betweenness load,S0569,untraced,8,1,in_offline
+Edge overlap,S1311,A,1,1,
+Edge overlap,S0651,B,2,0,
+Edge overlap,S1079,B,3,1,
+Edge overlap,S1207,B,4,1,
+Edge overlap,S1463,B,5,1,
+Edge overlap,S0580,untraced,6,0,neither
+Edge overlap,S0628,untraced,7,0,neither
+Edge overlap,S0318,untraced,8,0,neither
+Edge overlap,S0766,untraced,9,0,neither
+Observability of networks,S0862,untraced,1,1,in_offline
+Observability of networks,S0386,A,2,0,
+Observability of networks,S0901,A,3,1,
+Observability of networks,S0832,A,4,0,
+Observability of networks,S0119,untraced,5,0,surname_in_query
+Observability of networks,S1054,A,6,0,
+Observability of networks,S0133,untraced,7,0,neither
+Observability of networks,S1027,untraced,8,0,neither
+Observability of networks,S0096,untraced,9,0,surname_in_query
+Observability of networks,S0290,untraced,10,0,neither
+Random-walk betweenness,S1256,A,1,1,
+Random-walk betweenness,S0687,untraced,2,0,surname_in_query
+Random-walk betweenness,S1323,A,3,1,
+Random-walk betweenness,S0958,A,4,0,
+Random-walk betweenness,S0678,B,5,0,
+Random-walk betweenness,S0244,B,6,0,
+Current-flow betweenness,S1256,A,1,1,
+Current-flow betweenness,S1323,A,2,1,
+Current-flow betweenness,S0958,A,3,0,
+Current-flow betweenness,S0678,A,4,0,
+Current-flow betweenness,S0244,A,5,0,
+Current-flow betweenness,S0735,untraced,6,0,neither
+Current-flow betweenness,S0687,untraced,7,1,in_offline
+Current-flow betweenness,S0569,untraced,8,0,neither
+Current-flow betweenness,S0088,A,9,0,
+Trophic coherence,S0739,A,1,1,
+Trophic coherence,S1147,A,2,0,
+Trophic coherence,S0306,A,3,0,
+Trophic coherence,S0235,A,4,0,
+Trophic coherence,S0310,untraced,5,0,neither
+Flow hierarchy,S0035,untraced,1,0,neither
+Flow hierarchy,S1095,untraced,2,0,neither
+Flow hierarchy,S0887,untraced,3,0,neither
+Flow hierarchy,S0252,untraced,4,1,in_offline
+Flow hierarchy,S1466,untraced,6,0,neither
+Flow hierarchy,S0473,untraced,7,0,neither
+Flow hierarchy,S0540,untraced,8,0,neither
+Flow hierarchy,S1255,untraced,9,0,neither
+Flow hierarchy,S1149,untraced,10,0,neither
+DeGroot model,S1397,A,1,1,
+DeGroot model,S0079,untraced,2,1,in_offline
+DeGroot model,S0295,A,3,1,
+Balance theory energy,S0992,A,1,1,
+Balance theory energy,S0211,A,2,1,
+Balance theory energy,S1139,A,3,1,
+Balance theory energy,S0364,untraced,4,1,in_offline
+Balance theory energy,S1416,A,5,0,
+Balance theory energy,S1196,A,6,0,
+Balance theory energy,S0849,untraced,7,0,neither
+Balance theory energy,S0664,untraced,8,1,in_offline
+Balance theory energy,S0943,untraced,9,0,neither
+Balance theory energy,S0074,untraced,10,0,neither
+Signed Laplacian,S0115,A,1,1,
+Signed Laplacian,S0300,A,2,0,
+Signed Laplacian,S0938,untraced,3,0,neither
+Signed Laplacian,S1267,B,4,1,
+Signed Laplacian,S0363,untraced,5,0,neither
+Signed Laplacian,S0418,untraced,6,0,neither
+Opinion polarization dynamics,S0922,A,1,0,
+Opinion polarization dynamics,S0682,A,2,1,
+Opinion polarization dynamics,S0285,A,3,1,
+Opinion polarization dynamics,S0293,A,4,1,
+Opinion polarization dynamics,S0082,B,5,0,
+Opinion polarization dynamics,S0991,A,6,0,
+Opinion polarization dynamics,S0443,B,7,1,
+Opinion polarization dynamics,S0908,B,8,0,
+Opinion polarization dynamics,S0647,untraced,9,0,neither
+Opinion polarization dynamics,S0977,B,10,0,
+Threshold cascade condition,S0246,A,1,1,
+Threshold cascade condition,S1311,A,2,1,
+Threshold cascade condition,S0440,untraced,3,0,surname_in_query
+Threshold cascade condition,S0321,untraced,4,1,in_offline
+Threshold cascade condition,S1209,untraced,5,0,neither
+Threshold cascade condition,S0986,untraced,6,1,in_offline
+Threshold cascade condition,S0977,B,7,0,
+Axelrod cultural model,S0922,A,1,1,
+Axelrod cultural model,S1022,untraced,2,0,neither
+Axelrod cultural model,S0594,A,3,0,
+Axelrod cultural model,S0142,A,4,0,
+Axelrod cultural model,S1367,A,5,0,
+Axelrod cultural model,S0986,A,6,1,
+Axelrod cultural model,S0333,A,7,0,
+Axelrod cultural model,S0574,untraced,8,0,neither
+Axelrod cultural model,S0977,untraced,9,1,in_offline
+Axelrod cultural model,S1291,untraced,10,0,neither
+Watts cascade model,S0246,A,1,1,
+Watts cascade model,S1311,A,2,1,
+Watts cascade model,S1266,B,3,1,
+Watts cascade model,S0440,B,4,0,
+Watts cascade model,S1256,A,5,0,
+Watts cascade model,S1252,untraced,6,0,surname_in_query
+Naming game,S1176,A,1,1,
+Naming game,S1114,A,2,1,
+Naming game,S0193,A,3,0,
+Naming game,S1050,A,4,1,
+Naming game,S0326,untraced,5,1,in_offline
+Naming game,S0206,untraced,6,0,neither
+Naming game,S0063,untraced,7,0,neither
+Naming game,S0499,untraced,8,0,neither
+Naming game,S1184,untraced,9,0,neither
+Maki-Thompson rumor model,S1138,A,1,1,
+Maki-Thompson rumor model,S0794,untraced,2,0,surname_in_query
+Maki-Thompson rumor model,S0122,A,3,1,
+Maki-Thompson rumor model,S0047,A,4,1,
+Maki-Thompson rumor model,S0065,untraced,5,0,neither
+Maki-Thompson rumor model,S0313,untraced,6,0,neither
+Rumor spreading model,S0122,A,1,0,
+Rumor spreading model,S0047,A,2,1,
+Rumor spreading model,S0081,untraced,3,0,surname_in_query
+Rumor spreading model,S0510,untraced,4,0,surname_in_query
+Rumor spreading model,S0382,B,5,0,
+Rumor spreading model,S0880,B,6,1,
+Rumor spreading model,S0878,B,7,1,
+Rumor spreading model,S0354,B,8,0,
+Rumor spreading model,S0170,B,9,0,
+Rumor spreading model,S0667,A,10,0,
+Evolutionary graph theory,S0453,A,1,1,
+Evolutionary graph theory,S0233,A,2,1,
+Evolutionary graph theory,S0223,A,3,1,
+Evolutionary graph theory,S0608,A,4,1,
+Evolutionary graph theory,S0003,untraced,5,0,neither
+Coevolving networks,S0639,untraced,1,1,in_offline
+Coevolving networks,S1262,A,2,1,
+Coevolving networks,S0910,untraced,3,1,in_offline
+Coevolving networks,S1256,A,4,0,
+Coevolving networks,S0525,untraced,5,0,neither
+Coevolving networks,S0326,untraced,6,0,neither
+Moran process on graphs,S0159,untraced,1,1,in_offline
+Moran process on graphs,S0453,A,2,1,
+Moran process on graphs,S0608,A,3,1,
+Moran process on graphs,S0233,A,4,1,
+Moran process on graphs,S0223,A,5,0,
+Moran process on graphs,S0003,untraced,6,0,neither
+Fixation probability,S0453,A,1,0,
+Fixation probability,S0608,A,2,0,
+Fixation probability,S0233,A,3,1,
+Fixation probability,S0159,A,4,0,
+Fixation probability,S0371,B,5,1,
+Fixation probability,S0898,B,6,0,
+Fixation probability,S0004,untraced,7,0,neither
+Fixation probability,S0212,untraced,8,0,neither
+Fixation probability,S1258,untraced,9,1,in_offline
+Fixation probability,S0304,untraced,10,0,neither
+Adaptive networks,S0639,untraced,1,1,in_offline
+Adaptive networks,S1262,A,2,1,
+Adaptive networks,S0753,untraced,3,0,surname_in_query
+Adaptive networks,S0723,B,4,0,
+Adaptive networks,S0910,untraced,5,0,surname_in_query
+Adaptive networks,S1256,B,6,0,
+Adaptive networks,S0525,untraced,7,0,neither
+Adaptive networks,S0326,untraced,8,0,neither
+Adaptive networks,S0317,untraced,9,0,surname_in_query
+Adaptive networks,S1001,untraced,10,0,neither
+Heat kernel pagerank,S1190,B,1,1,
+Heat kernel pagerank,S0957,untraced,3,0,neither
+Heat kernel pagerank,S0404,untraced,5,0,neither
+Heat kernel pagerank,S1131,untraced,6,0,neither
+Heat kernel pagerank,S1299,untraced,7,0,neither
+Heat kernel pagerank,S1378,untraced,8,0,neither
+Kirchhoff index,S1271,A,1,1,
+Kirchhoff index,S0098,A,2,1,
+Kirchhoff index,S0504,A,3,1,
+Kirchhoff index,S0271,A,4,0,
+Kirchhoff index,S1355,B,5,0,
+Kirchhoff index,S0987,B,6,0,
+Kirchhoff index,S0741,untraced,7,1,in_offline
+Entropy rate of walks,S0280,B,1,0,
+Entropy rate of walks,S0318,untraced,2,1,in_offline
+Entropy rate of walks,S0518,B,3,0,
+Entropy rate of walks,S0916,untraced,4,0,neither
+Entropy rate of walks,S0889,untraced,5,0,neither
+Entropy rate of walks,S1286,untraced,6,0,neither
+Entropy rate of walks,S0348,untraced,7,0,neither
+Entropy rate of walks,S0915,untraced,8,1,in_offline
+Entropy rate of walks,S0628,untraced,9,0,neither
+Entropy rate of walks,S0519,untraced,10,0,neither
+Resistance distance,S1271,A,1,1,
+Resistance distance,S0098,A,2,1,
+Resistance distance,S1012,untraced,3,0,neither
+Resistance distance,S0653,untraced,4,0,neither
+Resistance distance,S0693,untraced,5,0,neither
+Resistance distance,S0962,untraced,6,0,neither
+Resistance distance,S0504,B,7,0,
+Resistance distance,S0271,B,8,0,
+Resistance distance,S0523,B,9,0,
+Resistance distance,S1424,untraced,10,0,surname_in_query
+Von Neumann graph entropy,S0561,untraced,1,1,in_offline
+Von Neumann graph entropy,S0578,untraced,2,0,neither
+Von Neumann graph entropy,S1345,untraced,3,0,neither
+Von Neumann graph entropy,S1058,untraced,4,0,neither
+Von Neumann graph entropy,S0354,untraced,5,0,neither
+Von Neumann graph entropy,S0210,untraced,6,0,neither
+Von Neumann graph entropy,S0078,untraced,7,0,neither
+Von Neumann graph entropy,S0305,untraced,8,1,in_offline
+Von Neumann graph entropy,S0209,untraced,9,0,neither
+Von Neumann graph entropy,S0527,untraced,10,0,neither
+Edge embeddedness,S1311,A,1,1,
+Edge embeddedness,S0651,B,2,0,
+Edge embeddedness,S1079,B,3,0,
+Edge embeddedness,S0901,B,4,0,
+Edge embeddedness,S0638,B,5,0,
+Edge embeddedness,S0278,B,6,0,
+Edge embeddedness,S0470,A,7,0,
+Edge embeddedness,S0633,A,8,0,
+Edge embeddedness,S0419,A,9,0,
+Higher-order Markov dynamics,S1201,A,1,1,
+Higher-order Markov dynamics,S0915,B,2,1,
+Higher-order Markov dynamics,S0194,B,3,0,
+Higher-order Markov dynamics,S0627,untraced,4,0,neither
+Higher-order Markov dynamics,S0956,B,5,1,
+Higher-order Markov dynamics,S1085,untraced,6,0,neither
+Higher-order Markov dynamics,S0926,B,7,0,
+Higher-order Markov dynamics,S0305,A,8,0,
+Percolation centrality,S0228,A,1,0,
+Percolation centrality,S1454,B,2,0,
+Percolation centrality,S0329,B,3,0,
+Percolation centrality,S0687,untraced,4,1,in_offline
+Percolation centrality,S1323,B,5,1,
+Percolation centrality,S1256,B,6,0,
+Percolation centrality,S0246,B,7,1,
+Percolation centrality,S1033,untraced,8,0,neither
+Percolation centrality,S0775,B,9,0,

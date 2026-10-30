@@ -1,0 +1,1600 @@
+concept,person_id,stage,in_final,in_offline,identity_source,career_cites,career_pubs,relevance
+Acquaintance immunization,S1215,A,1,1,seminal-doi,13507.0,221.0,0.927884
+Acquaintance immunization,S0028,A,1,0,seminal-doi,10762.0,166.0,0.934776
+Acquaintance immunization,S1399,A,1,1,seminal-doi,93947.0,1278.0,0.93652
+Activity-driven networks,S1114,B,1,1,curated-fallback,8800.0,241.0,0.934988
+Activity-driven networks,S1173,A,1,0,seminal-doi,9263.0,101.0,0.932766
+Activity-driven networks,S0402,B,1,0,curated-fallback,4860.0,40.0,0.787756
+Activity-driven networks,S0162,A,1,1,seminal-doi,34515.0,291.0,0.935282
+Activity-driven networks,S0891,A,1,1,seminal-doi,8437.0,158.0,0.937625
+Activity-driven networks,S0575,B,1,0,seminal-doi,4777.0,113.0,0.933358
+Activity-driven networks,S0037,A,1,1,seminal-doi,77948.0,538.0,0.929584
+Adamic-Adar index,S0974,A,1,1,seminal-doi,22566.0,123.0,0.9015
+Adamic-Adar index,S0067,A,1,1,seminal-doi,9525.0,148.0,0.902526
+Adamic-Adar index,S0849,A,1,1,seminal-doi,40833.0,279.0,0.907388
+Adamic-Adar index,S1020,A,1,1,seminal-doi,9338.0,50.0,0.919114
+Adamic-Adar index,S0855,A,0,0,seminal-doi,15497.0,199.0,0.94386
+Adamic-Adar index,S0385,A,0,0,seminal-doi,16601.0,249.0,0.896554
+Adaptive networks,S0085,A,0,0,unresolved,,,
+Adaptive networks,S1262,A,1,1,seminal-doi,13226.0,170.0,0.93821
+Adaptive networks,S0587,B,0,0,unresolved,,,
+Adaptive networks,S1008,A,0,0,seminal-doi,13601.0,235.0,0.854025
+Adaptive networks,S0723,B,1,0,seminal-doi,12670.0,554.0,0.905346
+Adaptive networks,S0634,B,0,0,dropped-web-recovered,1900.0,101.0,0.926798
+Adaptive networks,S1032,B,0,0,unresolved,,,
+Adaptive networks,S1256,B,1,0,seminal-doi,146240.0,322.0,0.93328
+Approximate message passing,S0912,A,0,0,seminal-doi,1961.0,105.0,0.929907
+Approximate message passing,S0136,A,1,1,seminal-doi,109239.0,281.0,0.926447
+Approximate message passing,S1423,A,1,1,seminal-doi,9526.0,411.0,0.929576
+Approximate message passing,S0799,A,1,1,seminal-doi,5363.0,121.0,0.927096
+Approximate message passing,S0025,A,1,1,seminal-doi,14824.0,305.0,0.937055
+Approximate message passing,S0513,A,1,0,seminal-doi,17653.0,149.0,0.910323
+Approximate message passing,S1418,B,1,1,seminal-doi,21897.0,396.0,0.943068
+Approximate message passing,S0438,A,1,0,seminal-doi,11082.0,404.0,0.929576
+Axelrod cultural model,S0922,A,1,1,seminal-doi,24183.0,145.0,0.933394
+Axelrod cultural model,S0986,A,1,1,seminal-doi,9684.0,62.0,0.944508
+Axelrod cultural model,S0594,A,1,0,seminal-doi,14085.0,270.0,0.936564
+Axelrod cultural model,S0333,A,1,0,seminal-doi,1027.0,51.0,0.947354
+Axelrod cultural model,S0298,A,0,0,unresolved,,,
+Axelrod cultural model,S0142,A,1,0,seminal-doi,13674.0,552.0,0.94345
+Axelrod cultural model,S1367,A,1,0,curated-fallback,8291.0,411.0,0.921898
+Balance theory energy,S0211,A,1,1,seminal-doi,4804.0,68.0,0.921957
+Balance theory energy,S1139,A,1,1,seminal-doi,8410.0,262.0,0.931866
+Balance theory energy,S0992,A,1,1,curated-fallback,10519.0,149.0,0.848125
+Balance theory energy,S1416,A,1,0,seminal-doi,872.0,12.0,0.943803
+Balance theory energy,S1196,A,1,0,seminal-doi,78910.0,257.0,0.932483
+Barabasi-Albert model,S0287,A,1,1,seminal-doi,83773.0,255.0,0.929557
+Barabasi-Albert model,S0724,A,1,0,seminal-doi,180923.0,359.0,0.93672
+Barabasi-Albert model,S0626,B,0,0,seminal-doi,21694.0,613.0,0.931024
+Barabasi-Albert model,S1108,A,0,1,curated-fallback,881.0,37.0,0.846803
+Barabasi-Albert model,S0407,A,1,1,seminal-doi,5540.0,77.0,0.885818
+Barabasi-Albert model,S1030,A,0,1,curated-fallback,473.0,5.0,0.832207
+Barabasi-Albert model,S1353,B,0,0,seminal-doi,5145.0,141.0,0.931024
+Barabasi-Albert model,S1081,A,0,1,seminal-doi,93111.0,582.0,0.888851
+Barabasi-Albert model,S1383,B,0,0,seminal-doi,3396.0,134.0,0.917707
+Barabasi-Albert model,S1196,A,1,1,seminal-doi,78910.0,257.0,0.918341
+Barabasi-Albert model,S1280,B,0,0,unresolved,,,
+Barabasi-Albert model,S0246,A,1,1,seminal-doi,74525.0,155.0,0.918016
+Barabasi-Albert model,S0593,B,0,0,unresolved,,,
+Barabasi-Albert model,S1288,A,0,0,seminal-doi,7609.0,142.0,0.889953
+Belief propagation,S0289,A,0,0,unresolved,,,
+Belief propagation,S0814,A,0,0,curated-fallback,59253.0,996.0,0.807244
+Belief propagation,S0774,A,1,1,seminal-doi,33426.0,170.0,0.921057
+Belief propagation,S0005,A,1,0,curated-fallback,3530.0,83.0,0.843199
+Belief propagation,S0447,A,0,0,seminal-doi,5570.0,171.0,0.869396
+Belief propagation,S0683,A,1,1,seminal-doi,15519.0,322.0,0.91168
+Belief propagation,S1202,A,1,1,seminal-doi,8900.0,158.0,0.917509
+Belief propagation,S0260,A,0,1,curated-fallback,186.0,2.0,0.773523
+Belief propagation,S1265,A,0,1,curated-fallback,187.0,6.0,0.784288
+Belief propagation,S0143,A,1,1,curated-fallback,28575.0,281.0,0.84482
+Belief propagation,S0819,A,1,0,curated-fallback,10222.0,178.0,0.834372
+Belief propagation,S1099,A,1,0,seminal-doi,15352.0,80.0,0.920158
+Belief propagation,S0928,A,0,1,seminal-doi,2684.0,59.0,0.929815
+Bethe free energy,S0395,A,1,1,curated-fallback,14317.0,84.0,0.850733
+Bethe free energy,S0814,A,0,0,curated-fallback,59253.0,996.0,0.832413
+Bethe free energy,S1191,A,1,0,seminal-doi,1870.0,2.0,0.859884
+Bethe free energy,S0227,A,1,1,seminal-doi,18066.0,326.0,0.888805
+Bethe free energy,S0284,A,1,1,seminal-doi,65466.0,1280.0,0.893148
+Bethe free energy,S1317,B,1,1,curated-fallback,593.0,4.0,0.772938
+Bethe free energy,S1099,A,1,1,seminal-doi,15352.0,80.0,0.925327
+Bethe free energy,S0928,A,1,1,seminal-doi,2684.0,59.0,0.926081
+Bethe free energy,S1320,B,1,0,seminal-doi,12864.0,282.0,0.903051
+Betti numbers,S0483,B,1,1,seminal-doi,9412.0,134.0,0.913812
+Betti numbers,S1393,B,1,1,seminal-doi,1785.0,2.0,0.890132
+Betti numbers,S0551,B,1,0,curated-fallback,835.0,3.0,0.823962
+Betti numbers,S1166,B,1,0,seminal-doi,8521.0,159.0,0.909586
+Betti numbers,S1045,B,1,1,seminal-doi,1785.0,2.0,0.890132
+Bianconi-Barabasi fitness model,S0724,A,1,0,seminal-doi,180923.0,359.0,0.914863
+Bianconi-Barabasi fitness model,S0354,A,1,1,seminal-doi,21229.0,469.0,0.925359
+Bipartite modularity,S0706,A,1,1,seminal-doi,1601.0,38.0,0.965109
+Bipartite modularity,S0835,B,0,0,unresolved,,,
+Bipartite modularity,S0966,A,1,0,seminal-doi,15866.0,146.0,0.928448
+Bipartite modularity,S0579,A,1,0,curated-fallback,926.0,2.0,0.786115
+Blockmodeling,S0521,A,1,0,seminal-doi,13065.0,84.0,0.913204
+Blockmodeling,S0630,A,1,1,seminal-doi,6299.0,147.0,0.946913
+Blockmodeling,S1407,A,1,1,seminal-doi,3376.0,28.0,0.908534
+Blockmodeling,S0529,A,1,1,seminal-doi,5371.0,67.0,0.940818
+Blockmodeling,S1180,A,1,1,seminal-doi,4669.0,147.0,0.947811
+Blockmodeling,S0072,A,1,1,seminal-doi,2621.0,109.0,0.949631
+Blockmodeling,S1314,A,1,0,seminal-doi,1354.0,2.0,0.906376
+Blockmodeling,S0569,A,0,1,seminal-doi,5200.0,41.0,0.933865
+Burstiness,S0724,A,1,0,seminal-doi,180923.0,359.0,0.940881
+Burstiness,S0586,A,1,0,seminal-doi,12160.0,142.0,0.95403
+Burstiness,S0613,A,1,0,seminal-doi,1805.0,175.0,0.950604
+Burstiness,S0464,A,1,1,seminal-doi,5052.0,208.0,0.938373
+Burstiness,S0995,A,1,1,seminal-doi,1130.0,9.0,0.914454
+Burstiness,S0700,A,1,0,seminal-doi,14910.0,238.0,0.904141
+Cavity method,S0227,A,1,1,seminal-doi,18066.0,326.0,0.917725
+Cavity method,S0284,A,1,1,seminal-doi,65466.0,1280.0,0.916341
+Cavity method,S0585,A,1,1,seminal-doi,3651.0,27.0,0.914319
+Cheeger inequality,S0398,A,1,1,curated-fallback|no-career-record,,,
+Cheeger inequality,S0511,B,1,0,seminal-doi,13871.0,269.0,0.919597
+Cheeger inequality,S0988,B,1,0,seminal-doi,6703.0,180.0,0.892815
+Cheeger inequality,S1395,A,0,0,curated-fallback,586.0,43.0,0.815099
+Cheeger inequality,S0856,A,1,1,curated-fallback,8493.0,237.0,0.825037
+Cheeger inequality,S0884,A,1,0,seminal-doi,4348.0,114.0,0.902827
+Chimera states,S0465,A,1,1,seminal-doi,5370.0,98.0,0.96949
+Chimera states,S0740,A,1,1,curated-fallback,689.0,28.0,0.909516
+Chimera states,S1025,B,0,0,unresolved,,,
+Chimera states,S0548,A,1,1,curated-fallback,6735.0,103.0,0.920046
+Chimera states,S0089,A,1,1,seminal-doi,2041.0,38.0,0.96949
+Chimera states,S1196,A,1,1,seminal-doi,78910.0,257.0,0.948034
+Coevolving networks,S1262,A,1,1,seminal-doi,13226.0,170.0,0.922354
+Coevolving networks,S1109,B,0,0,seminal-doi,8133.0,151.0,0.931327
+Coevolving networks,S0594,B,0,0,seminal-doi,14085.0,270.0,0.928317
+Coevolving networks,S0723,B,0,0,seminal-doi,12670.0,554.0,0.906025
+Coevolving networks,S0142,A,0,0,seminal-doi,13674.0,552.0,0.928979
+Coevolving networks,S1256,A,1,0,seminal-doi,146240.0,322.0,0.935139
+Coevolving networks,S0531,B,0,0,unresolved,,,
+Common neighbors score,S0974,B,1,1,seminal-doi,22566.0,123.0,0.915154
+Common neighbors score,S0067,B,1,1,seminal-doi,9525.0,148.0,0.911155
+Common neighbors score,S0420,A,1,0,curated-fallback,18.0,2.0,0.828142
+Common neighbors score,S0849,A,1,0,seminal-doi,40833.0,279.0,0.91564
+Common neighbors score,S1020,A,1,1,seminal-doi,9338.0,50.0,0.918867
+Common neighbors score,S1256,A,1,0,seminal-doi,146240.0,322.0,0.937019
+Communicability,S0125,A,1,1,seminal-doi,9879.0,154.0,0.931695
+Communicability,S1341,A,1,1,seminal-doi,12144.0,329.0,0.950896
+Communicability,S1163,A,1,1,seminal-doi,7190.0,401.0,0.950896
+Communicability,S0230,A,1,1,seminal-doi,614.0,20.0,0.921226
+Commute time,S1063,B,1,1,seminal-doi|no-career-record,,,
+Commute time,S1352,B,1,0,curated-fallback|no-career-record,,,
+Commute time,S0847,B,0,0,curated-fallback|no-career-record,,,
+Commute time,S1271,A,1,1,seminal-doi,9341.0,339.0,0.904204
+Commute time,S0399,A,1,1,seminal-doi,22101.0,317.0,0.893469
+Commute time,S0098,A,1,1,seminal-doi,12754.0,369.0,0.893364
+Commute time,S1273,B,1,0,curated-fallback,3533.0,36.0,0.826498
+Commute time,S1125,B,1,1,curated-fallback,449.0,16.0,0.83261
+Commute time,S0932,B,1,1,seminal-doi,349.0,4.0,0.865091
+Commute time,S0446,B,0,0,unresolved,,,
+ComplEx embeddings,S0379,A,0,0,curated-fallback,106.0,1.0,0.765095
+ComplEx embeddings,S1386,A,1,1,curated-fallback|no-career-record,,,
+ComplEx embeddings,S1067,A,0,0,unresolved,,,
+ComplEx embeddings,S0983,A,0,0,unresolved,,,
+ComplEx embeddings,S0357,B,0,0,unresolved,,,
+ComplEx embeddings,S0129,A,1,1,seminal-doi,3157.0,57.0,0.933417
+ComplEx embeddings,S0322,B,0,0,unresolved,,,
+ComplEx embeddings,S0905,A,1,0,curated-fallback,5949.0,324.0,0.807676
+ComplEx embeddings,S0387,A,0,1,curated-fallback,925.0,26.0,0.803562
+ComplEx embeddings,S0107,A,1,1,curated-fallback,967.0,2.0,0.878114
+ComplEx embeddings,S0767,B,0,0,curated-fallback,390.0,7.0,0.774885
+ComplEx embeddings,S0405,A,1,0,curated-fallback|no-career-record,,,
+Cover time,S0954,A,1,1,curated-fallback,791.0,18.0,0.826601
+Cover time,S1009,B,1,0,curated-fallback|no-career-record,,,
+Cover time,S0800,B,1,0,seminal-doi,1729.0,103.0,0.91661
+Cover time,S0636,A,1,1,seminal-doi,12330.0,280.0,0.937264
+Cover time,S0384,A,0,0,unresolved,,,
+Cover time,S1070,A,1,0,curated-fallback,156.0,6.0,0.756869
+Cover time,S1170,B,0,0,curated-fallback,167.0,5.0,0.797405
+Cover time,S0447,A,0,0,seminal-doi,5570.0,171.0,0.903959
+Cover time,S0283,B,0,0,curated-fallback,71504.0,1007.0,0.836896
+Cover time,S0367,B,0,0,dropped-web-recovered,8492.0,148.0,0.917593
+Cover time,S0399,A,0,1,seminal-doi,22101.0,317.0,0.915973
+Cover time,S0121,B,1,1,seminal-doi,12811.0,548.0,0.916831
+Cover time,S1103,B,0,0,dropped-web-recovered,6098.0,33.0,0.892204
+Cover time,S1443,B,0,0,unresolved,,,
+Cover time,S0801,A,0,0,curated-fallback,5122.0,207.0,0.774372
+Current-flow betweenness,S1323,A,1,1,seminal-doi,12870.0,229.0,0.939491
+Current-flow betweenness,S0958,A,1,0,seminal-doi,379.0,8.0,0.907637
+Current-flow betweenness,S0088,A,1,0,seminal-doi,32306.0,132.0,0.909662
+Current-flow betweenness,S1256,A,1,1,seminal-doi,146240.0,322.0,0.93056
+Current-flow betweenness,S0678,A,1,0,curated-fallback,483.0,12.0,0.817109
+Current-flow betweenness,S0244,A,1,0,seminal-doi,8385.0,95.0,0.892747
+Cut distance,S0764,A,1,1,seminal-doi,8859.0,234.0,0.914479
+Cut distance,S0215,A,1,1,seminal-doi,11483.0,244.0,0.914479
+Cut distance,S1052,A,1,0,curated-fallback,2221.0,38.0,0.814581
+Cut distance,S1068,A,0,0,curated-fallback,7381.0,184.0,0.892054
+Cut distance,S0399,A,1,1,seminal-doi,22101.0,317.0,0.915389
+Cut distance,S0480,B,1,1,seminal-doi,2183.0,77.0,0.919772
+Cut distance,S1168,A,1,1,seminal-doi,1846.0,102.0,0.910963
+Cut distance,S1006,B,0,0,unresolved,,,
+Cut distance,S0001,A,1,0,seminal-doi,1294.0,18.0,0.919772
+DeGroot model,S0295,A,1,1,seminal-doi,9042.0,52.0,0.868272
+DeGroot model,S1397,A,1,1,seminal-doi,8561.0,116.0,0.888598
+DeGroot model,S0022,A,0,0,unresolved,,,
+DeGroot model,S1139,A,0,0,seminal-doi,8410.0,262.0,0.894411
+Detectability phase transition,S0912,A,1,1,seminal-doi,1961.0,105.0,0.931032
+Detectability phase transition,S1423,A,1,1,seminal-doi,9526.0,411.0,0.930931
+Detectability phase transition,S0513,A,1,0,seminal-doi,17653.0,149.0,0.934138
+Detectability phase transition,S0438,A,1,1,seminal-doi,11082.0,404.0,0.930931
+Disparity filter,S0558,A,1,1,seminal-doi,13155.0,214.0,0.921194
+Disparity filter,S0330,B,0,0,unresolved,,,
+Disparity filter,S0514,A,1,1,seminal-doi,7173.0,88.0,0.92422
+Disparity filter,S0037,A,1,1,seminal-doi,77948.0,538.0,0.912822
+Dunbar's number,S0582,A,0,0,unresolved,,,
+Dunbar's number,S1264,A,1,1,seminal-doi,43133.0,534.0,0.936323
+Dunbar's number,S0787,A,1,0,seminal-doi,5752.0,106.0,0.919224
+Dunbar's number,S0661,A,0,0,unresolved,,,
+Dunbar's number,S0048,B,1,0,seminal-doi,35750.0,1345.0,0.909509
+Dunbar's number,S0385,B,0,0,seminal-doi,16601.0,249.0,0.91264
+Economic complexity index,S1324,A,1,1,seminal-doi,12848.0,238.0,0.958495
+Economic complexity index,S0225,A,1,1,seminal-doi,22271.0,291.0,0.959861
+Edge embeddedness,S0470,A,1,0,seminal-doi,10403.0,197.0,0.907213
+Edge embeddedness,S0633,A,1,0,seminal-doi,4526.0,140.0,0.913577
+Edge embeddedness,S0724,B,1,0,seminal-doi,180923.0,359.0,0.911231
+Edge embeddedness,S0157,B,1,0,seminal-doi,22057.0,443.0,0.904472
+Edge embeddedness,S0375,B,0,0,unresolved,,,
+Edge embeddedness,S1311,A,1,1,seminal-doi,1370.0,10.0,0.860842
+Edge embeddedness,S1298,B,0,0,unresolved,,,
+Edge embeddedness,S1463,B,0,0,seminal-doi,18878.0,650.0,0.915735
+Edge embeddedness,S1207,B,0,0,seminal-doi,19436.0,503.0,0.917134
+Edge embeddedness,S0419,A,1,0,seminal-doi,9393.0,209.0,0.910058
+Edge embeddedness,S1050,B,0,0,seminal-doi,14237.0,319.0,0.8968
+Edge embeddedness,S0895,B,0,0,unresolved,,,
+Edge embeddedness,S1107,B,1,0,seminal-doi,18856.0,401.0,0.909619
+Edge embeddedness,S0284,B,0,0,seminal-doi,65466.0,1280.0,0.867762
+Edge embeddedness,S0638,B,1,0,seminal-doi,14992.0,234.0,0.918633
+Edge embeddedness,S1079,B,1,0,seminal-doi,14240.0,221.0,0.917337
+Edge embeddedness,S0232,B,0,0,unresolved,,,
+Edge overlap,S1311,A,1,1,seminal-doi,1370.0,10.0,0.857261
+Edge overlap,S1463,B,1,1,seminal-doi,18878.0,650.0,0.927117
+Edge overlap,S1207,B,1,1,seminal-doi,19436.0,503.0,0.927117
+Edge overlap,S1107,B,1,1,seminal-doi,18856.0,401.0,0.920829
+Edge overlap,S1079,B,1,1,seminal-doi,14240.0,221.0,0.923958
+Effective distance (Brockmann-Helbing),S0326,B,1,1,seminal-doi,28198.0,394.0,0.932714
+Effective distance (Brockmann-Helbing),S0573,B,1,1,seminal-doi,32454.0,306.0,0.935038
+Effective distance (Brockmann-Helbing),S1296,A,1,1,seminal-doi,9396.0,118.0,0.9373
+Effective distance (Brockmann-Helbing),S1003,B,1,1,seminal-doi,19501.0,296.0,0.920473
+Effective distance (Brockmann-Helbing),S0165,B,1,0,seminal-doi,12805.0,303.0,0.90767
+Effective distance (Brockmann-Helbing),S0172,A,1,1,seminal-doi,60062.0,595.0,0.921894
+Effective distance (Brockmann-Helbing),S1380,B,1,0,seminal-doi,7523.0,76.0,0.900675
+Effective distance (Brockmann-Helbing),S0037,B,1,1,seminal-doi,77948.0,538.0,0.932111
+Entropy rate of walks,S0518,B,1,0,seminal-doi,2862.0,230.0,0.910113
+Entropy rate of walks,S0280,B,1,0,seminal-doi,17238.0,290.0,0.922128
+Entropy rate of walks,S0380,B,0,0,unresolved,,,
+Entropy rate of walks,S0557,B,0,0,unresolved,,,
+Erdos-Renyi random graph,S0708,B,1,1,curated-fallback,371.0,4.0,0.795306
+Erdos-Renyi random graph,S1030,A,1,1,curated-fallback,473.0,5.0,0.810124
+Estrada index,S1341,A,1,1,seminal-doi,12144.0,329.0,0.934944
+Estrada index,S0504,B,1,0,seminal-doi,22350.0,727.0,0.927544
+Estrada index,S1297,B,0,0,unresolved,,,
+Evolutionary graph theory,S0642,B,0,0,unresolved,,,
+Evolutionary graph theory,S0608,A,1,1,seminal-doi,18055.0,118.0,0.953055
+Evolutionary graph theory,S0453,A,1,1,seminal-doi,56571.0,207.0,0.925842
+Evolutionary graph theory,S0233,A,1,1,seminal-doi,114372.0,638.0,0.949242
+Evolutionary graph theory,S0223,A,1,1,seminal-doi,8861.0,108.0,0.941219
+Evolutionary graph theory,S0577,B,0,0,seminal-doi,1952.0,88.0,0.914022
+Evolutionary graph theory,S0965,B,0,1,seminal-doi,17836.0,369.0,0.949646
+Evolutionary graph theory,S0946,B,0,0,unresolved,,,
+Explosive synchronization,S1183,A,1,1,seminal-doi,35253.0,428.0,0.956403
+Explosive synchronization,S1047,A,1,1,seminal-doi,34963.0,506.0,0.955284
+Explosive synchronization,S0860,B,0,0,seminal-doi,10438.0,146.0,0.906184
+Explosive synchronization,S0280,A,1,1,seminal-doi,17238.0,290.0,0.955586
+Explosive synchronization,S0548,A,0,0,curated-fallback,6735.0,103.0,0.926709
+Explosive synchronization,S0024,A,1,0,seminal-doi,2315.0,110.0,0.95394
+Explosive synchronization,S0878,A,1,1,seminal-doi,44672.0,550.0,0.951735
+Fiedler vector partitioning,S1307,B,0,0,unresolved,,,
+Fiedler vector partitioning,S1363,A,1,0,seminal-doi,607.0,8.0,0.88183
+Fiedler vector partitioning,S0546,B,1,0,curated-fallback,14680.0,63.0,0.869575
+Fiedler vector partitioning,S0840,A,1,1,curated-fallback,3.0,3.0,0.790491
+Fiedler vector partitioning,S1232,A,0,0,unresolved,,,
+Fiedler vector partitioning,S1144,B,1,0,curated-fallback,582.0,16.0,0.81592
+Fiedler vector partitioning,S0665,B,0,0,seminal-doi,9607.0,372.0,0.909839
+Fiedler vector partitioning,S0068,A,1,0,curated-fallback,104.0,5.0,0.808033
+Fiedler vector partitioning,S1409,A,1,1,seminal-doi,4265.0,128.0,0.900065
+Fiedler vector partitioning,S1081,A,1,1,seminal-doi,93111.0,582.0,0.869417
+Fitness-complexity algorithm,S1328,A,1,1,seminal-doi,19901.0,459.0,0.929826
+Fitness-complexity algorithm,S0281,A,1,1,seminal-doi,2411.0,32.0,0.933665
+Fitness-complexity algorithm,S0071,B,1,0,seminal-doi,5352.0,271.0,0.931664
+Fitness-complexity algorithm,S1324,A,1,1,seminal-doi,12848.0,238.0,0.925039
+Fitness-complexity algorithm,S0225,A,1,1,seminal-doi,22271.0,291.0,0.924546
+Fitness-complexity algorithm,S1028,B,1,0,seminal-doi,1320.0,83.0,0.952104
+Fitness-complexity algorithm,S1392,B,1,0,curated-fallback,1017.0,73.0,0.836189
+Fitness-complexity algorithm,S0312,B,1,1,seminal-doi,13470.0,536.0,0.936883
+Fitness-complexity algorithm,S1414,B,0,0,unresolved,,,
+Fitness-complexity algorithm,S0610,A,1,0,seminal-doi,2112.0,48.0,0.940615
+Fitness-complexity algorithm,S1257,B,1,0,curated-fallback,27.0,6.0,0.807569
+Fitness-complexity algorithm,S1141,B,0,0,seminal-doi,16888.0,294.0,0.938922
+Fixation probability,S0608,A,1,0,seminal-doi,18055.0,118.0,0.944129
+Fixation probability,S0371,B,1,1,curated-fallback,45303.0,82.0,0.927611
+Fixation probability,S0453,A,1,0,seminal-doi,56571.0,207.0,0.917175
+Fixation probability,S0898,B,1,0,seminal-doi,9956.0,75.0,0.912223
+Fixation probability,S0159,A,1,0,seminal-doi,2787.0,72.0,0.895497
+Fixation probability,S0233,A,1,1,seminal-doi,114372.0,638.0,0.937138
+Flow hierarchy,S1081,B,0,0,seminal-doi,93111.0,582.0,0.900629
+Flow hierarchy,S1321,B,0,0,dropped-web-recovered,9475.0,171.0,0.9256
+Forman-Ricci curvature,S1102,B,0,0,unresolved,,,
+Forman-Ricci curvature,S1018,A,1,1,seminal-doi,860.0,7.0,0.853464
+Forman-Ricci curvature,S0137,A,0,0,unresolved,,,
+Forman-Ricci curvature,S0537,A,1,0,seminal-doi,3449.0,184.0,0.970052
+Forman-Ricci curvature,S1056,A,1,1,seminal-doi,469.0,16.0,0.969838
+Girvan-Newman algorithm,S0088,A,1,1,seminal-doi,32306.0,132.0,0.948927
+Girvan-Newman algorithm,S1256,A,1,1,seminal-doi,146240.0,322.0,0.949823
+Graph Fourier transform,S0511,A,1,0,seminal-doi,13871.0,269.0,0.912425
+Graph Fourier transform,S1190,B,1,1,seminal-doi,13871.0,269.0,0.912425
+Graph Fourier transform,S0451,A,1,0,seminal-doi,5011.0,118.0,0.916882
+Graph Fourier transform,S0256,A,1,0,seminal-doi,24001.0,748.0,0.951432
+Graph Fourier transform,S1145,A,1,1,seminal-doi,16932.0,589.0,0.946419
+Graph Fourier transform,S0185,A,1,1,seminal-doi,4590.0,32.0,0.951199
+Graph Fourier transform,S0564,A,1,1,seminal-doi,5740.0,42.0,0.956717
+Graph signal processing,S0707,B,0,0,curated-fallback,32.0,2.0,0.800158
+Graph signal processing,S1062,B,1,0,seminal-doi,23506.0,635.0,0.963028
+Graph signal processing,S1136,B,0,0,seminal-doi,11323.0,304.0,0.939665
+Graph signal processing,S1438,B,1,1,seminal-doi,2389.0,30.0,0.958387
+Graph signal processing,S0203,B,0,0,curated-fallback,88.0,4.0,0.79308
+Graph signal processing,S0451,B,0,1,seminal-doi,5011.0,118.0,0.91748
+Graph signal processing,S0256,A,1,1,seminal-doi,24001.0,748.0,0.968138
+Graph signal processing,S1313,A,0,0,seminal-doi,5262.0,18.0,0.945241
+Graph signal processing,S1145,A,1,1,seminal-doi,16932.0,589.0,0.966188
+Graph signal processing,S0185,A,1,1,seminal-doi,4590.0,32.0,0.96402
+Graph signal processing,S0564,A,1,1,seminal-doi,5740.0,42.0,0.964804
+Graph signal processing,S1185,B,1,1,seminal-doi,25146.0,363.0,0.964028
+Graph wavelets,S0567,A,1,1,seminal-doi,27984.0,295.0,0.91803
+Graph wavelets,S0707,A,1,0,curated-fallback,32.0,2.0,0.797949
+Graph wavelets,S1136,A,1,0,seminal-doi,11323.0,304.0,0.943755
+Graph wavelets,S1438,A,1,1,seminal-doi,2389.0,30.0,0.961675
+Graph wavelets,S0203,A,1,0,curated-fallback,88.0,4.0,0.790504
+Graph wavelets,S0451,A,1,1,seminal-doi,5011.0,118.0,0.921984
+Graph wavelets,S1185,A,1,1,seminal-doi,25146.0,363.0,0.960298
+Graphons,S0764,A,1,1,seminal-doi,8859.0,234.0,0.931492
+Graphons,S0215,A,1,1,seminal-doi,11483.0,244.0,0.921714
+Graphons,S0399,A,1,1,seminal-doi,22101.0,317.0,0.923055
+Graphons,S0480,A,1,1,seminal-doi,2183.0,77.0,0.924008
+Graphons,S1168,A,1,1,seminal-doi,1846.0,102.0,0.940817
+Graphons,S0001,A,1,0,seminal-doi,1294.0,18.0,0.924008
+HITS (hubs and authorities),S0849,A,1,1,seminal-doi,40833.0,279.0,0.926061
+Hashimoto operator,S0709,A,1,1,seminal-doi,4201.0,68.0,0.902616
+Hashimoto operator,S0728,A,1,1,seminal-doi,440.0,27.0,0.89513
+Hashimoto operator,S0323,A,1,1,curated-fallback,1987.0,7.0,0.803728
+Hashimoto operator,S1423,A,1,1,seminal-doi,9526.0,411.0,0.904147
+Hashimoto operator,S0237,A,1,1,seminal-doi,779.0,6.0,0.897739
+Hashimoto operator,S1256,A,0,0,seminal-doi,146240.0,322.0,0.920255
+Hashimoto operator,S1270,A,0,0,unresolved,,,
+Hashimoto operator,S0169,B,0,0,unresolved,,,
+Hashimoto operator,S0528,A,1,0,curated-fallback,552.0,4.0,0.82186
+Hashimoto operator,S1014,A,1,0,curated-fallback,5042.0,20.0,0.831596
+Hashimoto operator,S1141,B,0,0,seminal-doi,16888.0,294.0,0.922009
+Heat kernel pagerank,S1190,B,1,1,seminal-doi,13871.0,269.0,0.939309
+Heterogeneous mean-field theory,S0326,B,1,0,seminal-doi,28198.0,394.0,0.928997
+Heterogeneous mean-field theory,S0573,B,1,0,seminal-doi,32454.0,306.0,0.923981
+Heterogeneous mean-field theory,S0558,A,1,1,seminal-doi,13155.0,214.0,0.927588
+Heterogeneous mean-field theory,S0062,A,0,0,seminal-doi,14979.0,258.0,0.92585
+Heterogeneous mean-field theory,S0189,A,0,0,seminal-doi,8920.0,189.0,0.925158
+Heterogeneous mean-field theory,S0662,A,0,0,seminal-doi,15236.0,345.0,0.92585
+Heterogeneous mean-field theory,S0878,B,1,0,seminal-doi,44672.0,550.0,0.930795
+Heterogeneous mean-field theory,S0162,A,1,1,seminal-doi,34515.0,291.0,0.937135
+Heterogeneous mean-field theory,S0037,A,1,1,seminal-doi,77948.0,538.0,0.934665
+Hidden-variable reconstruction,S0558,A,1,1,seminal-doi,13155.0,214.0,0.91683
+Hidden-variable reconstruction,S1328,B,0,1,seminal-doi,19901.0,459.0,0.911403
+Hidden-variable reconstruction,S0514,A,1,0,seminal-doi,7173.0,88.0,0.918821
+High-salience skeleton,S1296,B,1,0,seminal-doi,9396.0,118.0,0.927067
+Higher-order Markov dynamics,S1183,B,0,0,seminal-doi,35253.0,428.0,0.921909
+Higher-order Markov dynamics,S0926,B,1,0,curated-fallback|no-career-record,,,
+Higher-order Markov dynamics,S0711,A,1,0,seminal-doi,16557.0,355.0,0.923253
+Higher-order Markov dynamics,S1372,B,0,0,seminal-doi,467.0,8.0,0.936079
+Higher-order Markov dynamics,S0915,B,1,1,seminal-doi,34390.0,398.0,0.944055
+Higher-order Markov dynamics,S1026,B,0,0,seminal-doi,11264.0,37.0,0.936079
+Higher-order Markov dynamics,S0217,B,0,0,dropped-web-recovered,8339.0,129.0,0.911549
+Higher-order Markov dynamics,S1201,A,1,1,seminal-doi,11553.0,175.0,0.945832
+Higher-order Markov dynamics,S0194,B,1,0,curated-fallback,318.0,4.0,0.789954
+Higher-order Markov dynamics,S1242,B,1,1,seminal-doi,2108.0,136.0,0.941844
+Higher-order Markov dynamics,S0477,B,0,0,seminal-doi,6167.0,138.0,0.922691
+Hitting time,S0954,B,0,0,curated-fallback,791.0,18.0,0.83016
+Hitting time,S1012,B,1,0,seminal-doi,954.0,8.0,0.887806
+Hitting time,S1063,B,1,1,seminal-doi|no-career-record,,,
+Hitting time,S0384,B,0,0,dropped-web-recovered,1957.0,138.0,0.908149
+Hitting time,S0847,A,1,0,curated-fallback|no-career-record,,,
+Hitting time,S0399,A,1,1,seminal-doi,22101.0,317.0,0.908487
+Hitting time,S0960,B,0,0,curated-fallback,4273.0,145.0,0.833755
+Hitting time,S0570,B,0,0,seminal-doi,3873.0,5.0,0.883728
+Hitting time,S0693,B,1,0,seminal-doi,10727.0,119.0,0.901887
+Hitting time,S0962,B,1,0,seminal-doi,517.0,2.0,0.898864
+Hitting time,S1125,A,1,1,curated-fallback,449.0,16.0,0.820733
+Hitting time,S0932,B,0,0,seminal-doi,349.0,4.0,0.882635
+Hitting time,S0269,B,1,0,curated-fallback,43.0,3.0,0.776211
+Ihara zeta function,S0709,A,1,1,seminal-doi,4201.0,68.0,0.915721
+Ihara zeta function,S0728,A,1,0,seminal-doi,440.0,27.0,0.916334
+Ihara zeta function,S0323,A,1,1,curated-fallback,1987.0,7.0,0.800366
+Ihara zeta function,S1105,B,1,0,curated-fallback,12410.0,540.0,0.819747
+Ihara zeta function,S0528,A,1,0,curated-fallback,552.0,4.0,0.80875
+Ihara zeta function,S1177,A,1,1,seminal-doi,1000.0,36.0,0.912587
+Ihara zeta function,S1014,A,1,1,curated-fallback,5042.0,20.0,0.797581
+Infomap,S1093,B,1,0,curated-fallback,23310.0,167.0,0.825147
+Infomap,S0401,A,1,1,seminal-doi,18967.0,152.0,0.949705
+Infomap,S1201,A,1,1,seminal-doi,11553.0,175.0,0.960772
+Inter-event time distribution,S1290,B,1,0,seminal-doi,51909.0,347.0,0.927238
+Inter-event time distribution,S0724,A,1,0,seminal-doi,180923.0,359.0,0.931175
+Inter-event time distribution,S1274,B,0,0,unresolved,,,
+Inter-event time distribution,S0282,A,0,0,unresolved,,,
+Inter-event time distribution,S0240,B,0,0,unresolved,,,
+Inter-event time distribution,S0586,B,1,0,seminal-doi,12160.0,142.0,0.940066
+Inter-event time distribution,S0464,B,1,1,seminal-doi,5052.0,208.0,0.943489
+Inter-event time distribution,S1463,B,0,1,seminal-doi,18878.0,650.0,0.93601
+Inter-event time distribution,S1207,B,1,1,seminal-doi,19436.0,503.0,0.934449
+Inter-event time distribution,S0733,B,0,0,unresolved,,,
+Inter-event time distribution,S0995,B,1,0,seminal-doi,1130.0,9.0,0.922752
+Inter-event time distribution,S1054,B,0,0,seminal-doi,12783.0,312.0,0.918389
+Inter-event time distribution,S0388,A,1,0,seminal-doi,1409.0,24.0,0.918029
+Inter-event time distribution,S0927,B,0,0,unresolved,,,
+Inter-event time distribution,S0700,A,1,0,seminal-doi,14910.0,238.0,0.9123
+Katz centrality,S1387,B,0,0,unresolved,,,
+Katz centrality,S1301,A,1,1,seminal-doi,6328.0,46.0,0.93348
+Katz centrality,S0837,A,0,0,curated-fallback,4754.0,9.0,0.829068
+Katz centrality,S0338,A,0,0,curated-fallback|no-career-record,,,
+Kesten-Stigum threshold,S0912,A,1,1,seminal-doi,1961.0,105.0,0.927835
+Kesten-Stigum threshold,S0542,A,1,1,seminal-doi,5653.0,131.0,0.900155
+Kesten-Stigum threshold,S1423,A,1,1,seminal-doi,9526.0,411.0,0.922068
+Kesten-Stigum threshold,S0513,A,1,0,seminal-doi,17653.0,149.0,0.923672
+Kesten-Stigum threshold,S0011,A,1,1,seminal-doi,6760.0,417.0,0.924918
+Kesten-Stigum threshold,S0181,A,1,0,seminal-doi,1435.0,57.0,0.925447
+Kesten-Stigum threshold,S1123,A,1,1,seminal-doi,3743.0,191.0,0.9268
+Kesten-Stigum threshold,S0843,A,1,1,seminal-doi,778.0,72.0,0.862337
+Kesten-Stigum threshold,S0438,A,1,1,seminal-doi,11082.0,404.0,0.929109
+Kirchhoff index,S1355,B,1,0,seminal-doi,1131.0,60.0,0.894302
+Kirchhoff index,S0504,A,1,1,seminal-doi,22350.0,727.0,0.941521
+Kirchhoff index,S0482,B,0,0,curated-fallback,643.0,7.0,0.82221
+Kirchhoff index,S1271,A,1,1,seminal-doi,9341.0,339.0,0.930865
+Kirchhoff index,S0271,A,1,0,seminal-doi,6106.0,489.0,0.906081
+Kirchhoff index,S0098,A,1,1,seminal-doi,12754.0,369.0,0.910056
+Kirchhoff index,S0987,B,1,0,seminal-doi,13074.0,401.0,0.939005
+Kirchhoff index,S1187,A,0,0,unresolved,,,
+Kirchhoff index,S0677,B,0,0,seminal-doi,12.0,2.0,0.890878
+Knowledge graph embeddings,S0379,A,1,1,curated-fallback,106.0,1.0,0.765043
+Knowledge graph embeddings,S0051,A,0,0,seminal-doi,1457.0,3.0,0.813143
+Kronecker graph,S0825,A,1,1,seminal-doi,5460.0,69.0,0.940243
+Kronecker graph,S0520,A,1,1,seminal-doi,55849.0,794.0,0.950544
+Kronecker graph,S0849,A,1,1,seminal-doi,40833.0,279.0,0.93796
+Kronecker graph,S0276,A,1,1,seminal-doi,81536.0,238.0,0.950544
+Kuramoto synchronization on networks,S1183,A,1,1,seminal-doi,35253.0,428.0,0.948111
+Kuramoto synchronization on networks,S1025,A,0,0,unresolved,,,
+Kuramoto synchronization on networks,S0934,A,1,0,seminal-doi,15861.0,236.0,0.950944
+Kuramoto synchronization on networks,S0280,A,1,1,seminal-doi,17238.0,290.0,0.946562
+Kuramoto synchronization on networks,S0572,A,1,0,seminal-doi,12605.0,198.0,0.934009
+Kuramoto synchronization on networks,S0548,A,1,1,curated-fallback,6735.0,103.0,0.926372
+Kuramoto synchronization on networks,S0878,A,1,1,seminal-doi,44672.0,550.0,0.95171
+Kuramoto synchronization on networks,S1448,A,1,1,seminal-doi,50776.0,738.0,0.926991
+Kuramoto synchronization on networks,S0003,B,0,0,seminal-doi,15134.0,213.0,0.893273
+Kuramoto synchronization on networks,S0870,A,1,1,seminal-doi,3605.0,142.0,0.941932
+Kuramoto synchronization on networks,S0836,A,0,0,unresolved,,,
+Kuramoto synchronization on networks,S1196,B,0,1,seminal-doi,78910.0,257.0,0.948485
+Kuramoto synchronization on networks,S0609,B,0,0,unresolved,,,
+Latent space model,S0909,A,1,1,seminal-doi,15043.0,139.0,0.952595
+Latent space model,S0308,A,1,1,seminal-doi,4538.0,87.0,0.950446
+Latent space model,S1037,A,1,1,seminal-doi,69922.0,348.0,0.948919
+Latent space model,S0598,A,1,0,curated-fallback|no-career-record,,,
+Link prediction,S0974,A,1,1,seminal-doi,22566.0,123.0,0.914552
+Link prediction,S0067,A,1,0,seminal-doi,9525.0,148.0,0.922567
+Link prediction,S1385,A,0,0,unresolved,,,
+Link prediction,S0420,B,1,0,curated-fallback,18.0,2.0,0.78823
+Link prediction,S0837,A,0,0,curated-fallback,4754.0,9.0,0.791073
+Link prediction,S0849,A,1,0,seminal-doi,40833.0,279.0,0.930329
+Link prediction,S1020,A,1,1,seminal-doi,9338.0,50.0,0.943449
+Link prediction,S0855,A,1,1,seminal-doi,15497.0,199.0,0.951964
+Link prediction,S1156,B,0,0,unresolved,,,
+Link prediction,S0020,B,0,0,curated-fallback,5429.0,102.0,0.840942
+Link prediction,S1256,B,1,1,seminal-doi,146240.0,322.0,0.945233
+Link prediction,S0218,B,0,0,dropped-web-recovered,19455.0,114.0,0.85622
+Link prediction,S0385,A,0,0,seminal-doi,16601.0,249.0,0.89033
+Localization transition,S0189,B,1,0,seminal-doi,8920.0,189.0,0.914341
+Louvain method,S1159,A,1,0,seminal-doi,12337.0,377.0,0.941453
+Louvain method,S0325,A,1,1,seminal-doi,31093.0,190.0,0.946733
+Louvain method,S0717,A,1,0,curated-fallback,517.0,37.0,0.853484
+Louvain method,S0088,B,1,1,seminal-doi,32306.0,132.0,0.949957
+Louvain method,S0671,A,1,1,seminal-doi,20703.0,76.0,0.961772
+Louvain method,S0915,A,1,1,seminal-doi,34390.0,398.0,0.954662
+Louvain method,S0659,A,1,1,curated-fallback,121.0,2.0,0.784326
+Louvain method,S1256,B,1,1,seminal-doi,146240.0,322.0,0.952311
+Lovasz graph limits,S0764,A,1,1,seminal-doi,8859.0,234.0,0.951909
+Lovasz graph limits,S0215,A,1,1,seminal-doi,11483.0,244.0,0.951909
+Lovasz graph limits,S0399,A,1,1,seminal-doi,22101.0,317.0,0.94905
+Lovasz graph limits,S0480,A,1,0,seminal-doi,2183.0,77.0,0.951625
+Lovasz graph limits,S1168,B,1,1,seminal-doi,1846.0,102.0,0.950587
+Lovasz graph limits,S0001,A,1,0,seminal-doi,1294.0,18.0,0.951625
+Maki-Thompson rumor model,S0122,A,1,1,curated-fallback,3203.0,77.0,0.849713
+Maki-Thompson rumor model,S0047,A,1,1,curated-fallback,188.0,4.0,0.785723
+Maki-Thompson rumor model,S1138,A,1,1,curated-fallback,16736.0,129.0,0.836558
+Maki-Thompson rumor model,S0510,A,0,1,curated-fallback,14259.0,109.0,0.887611
+Mapper algorithm,S0483,A,1,1,seminal-doi,9412.0,134.0,0.916431
+Mapper algorithm,S0923,A,1,1,seminal-doi,3192.0,169.0,0.901773
+Mapper algorithm,S0196,B,0,0,unresolved,,,
+Mapper algorithm,S0550,A,1,1,seminal-doi,886.0,4.0,0.904691
+Master stability function,S1159,A,1,0,seminal-doi,12337.0,377.0,0.90627
+Master stability function,S0517,A,1,0,seminal-doi,2526.0,86.0,0.919651
+Master stability function,S0886,A,1,1,seminal-doi,19048.0,155.0,0.949159
+Master stability function,S1329,B,0,0,unresolved,,,
+Master stability function,S0092,B,0,0,seminal-doi,27464.0,796.0,0.92923
+Master stability function,S1054,B,0,0,seminal-doi,12783.0,312.0,0.937181
+Master stability function,S0204,B,0,0,curated-fallback,1364.0,98.0,0.823515
+Master stability function,S1091,A,1,1,seminal-doi,22383.0,146.0,0.949159
+Master stability function,S0430,B,1,0,seminal-doi,192.0,18.0,0.886682
+Master stability function,S0290,B,0,0,curated-fallback,1714.0,25.0,0.825668
+Maximum entropy reconstruction,S0267,A,1,0,seminal-doi,7291.0,271.0,0.951765
+Maximum entropy reconstruction,S0319,A,1,1,seminal-doi,4124.0,168.0,0.948861
+Mean first-passage time,S0954,B,0,0,curated-fallback,791.0,18.0,0.854592
+Mean first-passage time,S1336,B,1,0,curated-fallback,11283.0,414.0,0.939781
+Mean first-passage time,S1164,B,0,0,dropped-web-recovered,1233.0,16.0,0.9262
+Mean first-passage time,S0384,B,0,0,dropped-web-recovered,1957.0,138.0,0.907633
+Mean first-passage time,S0847,B,0,0,curated-fallback|no-career-record,,,
+Mean first-passage time,S0428,B,1,0,curated-fallback,2.0,2.0,0.836916
+Mean first-passage time,S0399,A,1,0,seminal-doi,22101.0,317.0,0.897822
+Mean first-passage time,S0245,B,1,1,seminal-doi,3027.0,179.0,0.919951
+Mean first-passage time,S0074,B,1,1,seminal-doi,22806.0,507.0,0.918384
+Mean first-passage time,S1098,B,1,0,seminal-doi,9045.0,432.0,0.912635
+Mean first-passage time,S1125,B,0,0,curated-fallback,449.0,16.0,0.849945
+Mean first-passage time,S0645,B,0,0,unresolved,,,
+Mean first-passage time,S0932,B,1,0,seminal-doi,349.0,4.0,0.871664
+Mean first-passage time,S0390,B,1,0,curated-fallback,17864.0,376.0,0.935541
+Memory networks,S1201,A,1,1,seminal-doi,11553.0,175.0,0.941478
+Memory networks,S1242,A,1,0,seminal-doi,2108.0,136.0,0.931625
+Moran process on graphs,S0786,B,0,0,dropped-web-recovered,3752.0,185.0,0.9472
+Moran process on graphs,S0608,A,1,1,seminal-doi,18055.0,118.0,0.944302
+Moran process on graphs,S0453,A,1,1,seminal-doi,56571.0,207.0,0.910323
+Moran process on graphs,S0233,A,1,1,seminal-doi,114372.0,638.0,0.938633
+Moran process on graphs,S0223,A,1,0,seminal-doi,8861.0,108.0,0.933165
+Moran process on graphs,S1451,B,0,0,dropped-web-recovered,252.0,10.0,0.886945
+Mutualistic networks,S0297,A,1,1,seminal-doi,38783.0,238.0,0.967207
+Mutualistic networks,S0110,B,1,0,seminal-doi,5693.0,65.0,0.949567
+Mutualistic networks,S1111,A,1,1,seminal-doi,31502.0,240.0,0.961688
+Mutualistic networks,S0508,A,1,1,seminal-doi,22075.0,183.0,0.951806
+Naming game,S1114,A,1,1,curated-fallback,8800.0,241.0,0.947347
+Naming game,S0193,A,1,0,seminal-doi,3112.0,146.0,0.944154
+Naming game,S1050,A,1,1,seminal-doi,14237.0,319.0,0.944154
+Naming game,S1176,A,1,1,seminal-doi,5502.0,151.0,0.928564
+Nestedness,S0292,A,1,0,seminal-doi,4725.0,61.0,0.911379
+Nestedness,S0076,A,1,1,seminal-doi,2352.0,5.0,0.874027
+Nestedness,S0297,A,1,1,seminal-doi,38783.0,238.0,0.93762
+Nestedness,S0441,B,1,1,seminal-doi,35399.0,267.0,0.901384
+Nestedness,S0073,A,0,0,unresolved,,,
+Nestedness,S1111,A,1,0,seminal-doi,31502.0,240.0,0.927403
+Nestedness,S0041,A,0,0,unresolved,,,
+Nestedness,S0792,A,1,0,seminal-doi,6369.0,66.0,0.921142
+Nestedness,S0508,A,1,1,seminal-doi,22075.0,183.0,0.928064
+Nestedness,S0967,A,1,1,seminal-doi,13569.0,220.0,0.879605
+Nestedness,S0148,B,0,0,curated-fallback,2605.0,67.0,0.884468
+Nestedness,S0641,B,0,0,unresolved,,,
+Nestedness,S0688,A,1,1,seminal-doi,12398.0,236.0,0.904716
+Network Morse filtration,S0177,B,1,0,seminal-doi,437.0,5.0,0.915267
+Network Morse filtration,S0023,B,1,0,seminal-doi,542.0,34.0,0.929175
+Network Morse filtration,S1175,B,1,0,seminal-doi,677.0,46.0,0.927807
+Network backbone extraction,S0558,A,1,0,seminal-doi,13155.0,214.0,0.925181
+Network backbone extraction,S1296,B,1,0,seminal-doi,9396.0,118.0,0.929873
+Network backbone extraction,S1072,A,1,1,seminal-doi,2080.0,221.0,0.935428
+Network backbone extraction,S1347,B,1,0,seminal-doi,453.0,5.0,0.912508
+Network backbone extraction,S0128,A,0,0,seminal-doi,6963.0,152.0,0.915314
+Network backbone extraction,S1450,A,0,0,unresolved,,,
+Network backbone extraction,S0514,A,1,1,seminal-doi,7173.0,88.0,0.933315
+Network backbone extraction,S0376,B,1,0,seminal-doi,866.0,7.0,0.912508
+Network backbone extraction,S0736,B,1,0,seminal-doi,3649.0,95.0,0.91926
+Network backbone extraction,S0037,A,1,0,seminal-doi,77948.0,538.0,0.926486
+Network dismantling,S0578,A,1,0,seminal-doi,2775.0,141.0,0.916045
+Network dismantling,S0193,A,1,0,seminal-doi,3112.0,146.0,0.926983
+Network dismantling,S1351,A,1,0,seminal-doi,22185.0,385.0,0.93525
+Network dismantling,S0466,A,1,1,seminal-doi,2924.0,88.0,0.935512
+Network dismantling,S1444,A,0,0,seminal-doi,181.0,2.0,0.910329
+Network dismantling,S0361,A,1,0,seminal-doi,2564.0,95.0,0.933043
+Network dismantling,S0438,A,1,0,seminal-doi,11082.0,404.0,0.932813
+Network dismantling,S0385,A,0,0,seminal-doi,16601.0,249.0,0.907439
+Network reconstruction,S1328,A,0,0,seminal-doi,19901.0,459.0,0.935231
+Network reconstruction,S1121,A,1,0,seminal-doi,2754.0,147.0,0.953447
+Network reconstruction,S0319,A,1,1,seminal-doi,4124.0,168.0,0.949396
+Non-backtracking matrix,S0709,A,1,1,seminal-doi,4201.0,68.0,0.881136
+Non-backtracking matrix,S0972,B,1,0,seminal-doi,1835.0,110.0,0.913542
+Non-backtracking matrix,S0728,A,1,1,seminal-doi,440.0,27.0,0.86397
+Non-backtracking matrix,S0323,A,1,0,curated-fallback,1987.0,7.0,0.784142
+Non-backtracking matrix,S0737,B,0,0,seminal-doi,5387.0,32.0,0.911766
+Non-backtracking matrix,S1423,A,1,1,seminal-doi,9526.0,411.0,0.894406
+Non-backtracking matrix,S0315,B,0,0,curated-fallback,5617.0,348.0,0.81836
+Non-backtracking matrix,S1351,B,0,0,seminal-doi,22185.0,385.0,0.902361
+Non-backtracking matrix,S0237,B,1,1,seminal-doi,779.0,6.0,0.89746
+Non-backtracking matrix,S0171,B,0,0,curated-fallback,11318.0,201.0,0.831182
+Non-backtracking matrix,S0227,A,0,0,seminal-doi,18066.0,326.0,0.881345
+Non-backtracking matrix,S0466,B,1,0,seminal-doi,2924.0,88.0,0.904688
+Non-backtracking matrix,S1256,B,0,0,seminal-doi,146240.0,322.0,0.924311
+Non-backtracking matrix,S0872,A,0,0,unresolved,,,
+Non-backtracking matrix,S0438,B,0,1,seminal-doi,11082.0,404.0,0.910349
+Non-backtracking matrix,S1141,B,0,0,seminal-doi,16888.0,294.0,0.915647
+Observability of networks,S0724,A,1,0,seminal-doi,180923.0,359.0,0.919245
+Observability of networks,S0500,A,0,0,seminal-doi,961.0,91.0,0.871088
+Observability of networks,S1054,A,1,0,seminal-doi,12783.0,312.0,0.938614
+Observability of networks,S0386,A,1,0,seminal-doi,30869.0,415.0,0.920618
+Observability of networks,S0051,A,0,0,seminal-doi,1457.0,3.0,0.879433
+Observability of networks,S0832,A,1,0,seminal-doi,545.0,13.0,0.923113
+Ollivier-Ricci curvature,S0553,A,1,0,seminal-doi,8079.0,462.0,0.927341
+Ollivier-Ricci curvature,S0704,B,0,0,curated-fallback,7812.0,135.0,0.831497
+Ollivier-Ricci curvature,S0953,B,1,0,seminal-doi,9212.0,515.0,0.951362
+Ollivier-Ricci curvature,S0994,A,1,1,seminal-doi,1711.0,41.0,0.925543
+Ollivier-Ricci curvature,S0500,B,1,0,seminal-doi,961.0,91.0,0.950614
+Ollivier-Ricci curvature,S0130,A,1,1,seminal-doi,1100.0,17.0,0.929834
+Ollivier-Ricci curvature,S1016,A,0,0,unresolved,,,
+Ollivier-Ricci curvature,S0034,A,1,1,seminal-doi,852.0,51.0,0.939596
+Ollivier-Ricci curvature,S0411,B,1,0,seminal-doi,33928.0,1060.0,0.921546
+Opinion polarization dynamics,S0991,A,1,0,seminal-doi,6375.0,204.0,0.918553
+Opinion polarization dynamics,S0922,A,1,0,seminal-doi,24183.0,145.0,0.932296
+Opinion polarization dynamics,S0082,B,1,0,curated-fallback,7866.0,189.0,0.878169
+Opinion polarization dynamics,S0682,A,1,1,curated-fallback|no-career-record,,,
+Opinion polarization dynamics,S0443,B,1,1,seminal-doi,8372.0,98.0,0.927093
+Opinion polarization dynamics,S0285,A,1,1,curated-fallback|no-career-record,,,
+Opinion polarization dynamics,S1118,B,1,1,seminal-doi,3547.0,43.0,0.922648
+Opinion polarization dynamics,S0943,B,0,0,seminal-doi,12724.0,607.0,0.920417
+Opinion polarization dynamics,S0293,A,1,1,curated-fallback,94.0,6.0,0.762085
+Opinion polarization dynamics,S0977,B,1,0,seminal-doi,15987.0,171.0,0.930575
+Opinion polarization dynamics,S0074,B,0,0,seminal-doi,22806.0,507.0,0.923096
+Opinion polarization dynamics,S0666,A,0,0,unresolved,,,
+Optimal percolation,S0578,B,1,0,seminal-doi,2775.0,141.0,0.9172
+Optimal percolation,S1399,B,0,0,seminal-doi,93947.0,1278.0,0.94879
+Optimal percolation,S0111,B,0,0,dropped-web-recovered,18574.0,573.0,0.929522
+Optimal percolation,S1351,A,1,1,seminal-doi,22185.0,385.0,0.940567
+Optimal percolation,S0466,A,1,1,seminal-doi,2924.0,88.0,0.948376
+Optimal percolation,S1400,B,0,0,seminal-doi,3248.0,18.0,0.928916
+Optimal percolation,S0361,B,1,0,seminal-doi,2564.0,95.0,0.92968
+Optimal percolation,S0438,B,1,0,seminal-doi,11082.0,404.0,0.93331
+PageRank,S0850,A,1,1,seminal-doi,16210.0,15.0,0.879698
+PageRank,S0849,B,1,1,seminal-doi,40833.0,279.0,0.918024
+PageRank,S1073,B,0,0,seminal-doi,10114.0,22.0,0.917563
+PageRank,S1061,A,1,0,seminal-doi,7089.0,55.0,0.868202
+PageRank,S0596,A,1,1,curated-fallback,2960.0,139.0,0.858034
+PageRank,S0883,A,1,1,seminal-doi,763.0,5.0,0.872615
+Percolation centrality,S1323,B,1,1,seminal-doi,12870.0,229.0,0.929274
+Percolation centrality,S0814,B,0,0,curated-fallback,59253.0,996.0,0.84088
+Percolation centrality,S0329,B,1,0,seminal-doi,3660.0,142.0,0.937839
+Percolation centrality,S1256,B,1,0,seminal-doi,146240.0,322.0,0.93341
+Percolation centrality,S1220,A,1,1,seminal-doi,1842.0,95.0,0.940397
+Percolation centrality,S1454,B,1,0,seminal-doi,6581.0,247.0,0.928478
+Percolation centrality,S0775,B,1,0,curated-fallback,16267.0,258.0,0.910082
+Percolation centrality,S0246,B,1,1,seminal-doi,74525.0,155.0,0.913408
+Persistent homology,S0483,B,1,1,seminal-doi,9412.0,134.0,0.948395
+Product space network,S0724,A,1,0,seminal-doi,180923.0,359.0,0.913974
+Product space network,S1324,A,1,1,seminal-doi,12848.0,238.0,0.95427
+Product space network,S0225,A,1,1,seminal-doi,22271.0,291.0,0.948721
+Product space network,S0758,A,1,1,seminal-doi,2701.0,14.0,0.942614
+Random-walk betweenness,S1323,A,1,1,seminal-doi,12870.0,229.0,0.933042
+Random-walk betweenness,S0958,A,1,0,seminal-doi,379.0,8.0,0.896689
+Random-walk betweenness,S0814,B,0,0,curated-fallback,59253.0,996.0,0.817836
+Random-walk betweenness,S1271,B,0,1,seminal-doi,9341.0,339.0,0.908193
+Random-walk betweenness,S1256,A,1,1,seminal-doi,146240.0,322.0,0.941077
+Random-walk betweenness,S0098,B,0,0,seminal-doi,12754.0,369.0,0.897659
+Random-walk betweenness,S0678,B,1,0,curated-fallback,483.0,12.0,0.792933
+Random-walk betweenness,S0244,B,1,0,seminal-doi,8385.0,95.0,0.897009
+Regular equivalence,S1407,B,1,1,seminal-doi,3376.0,28.0,0.884012
+Regular equivalence,S0735,A,1,1,seminal-doi,31167.0,147.0,0.954452
+Regular equivalence,S0360,A,1,1,seminal-doi,8698.0,83.0,0.945465
+Regular equivalence,S1314,A,1,0,seminal-doi,1354.0,2.0,0.927515
+Regular equivalence,S0750,A,1,0,seminal-doi,495.0,8.0,0.893698
+Regular equivalence,S0569,A,1,1,seminal-doi,5200.0,41.0,0.921145
+Resistance distance,S0523,B,1,0,seminal-doi,3406.0,193.0,0.937448
+Resistance distance,S1063,A,0,1,seminal-doi|no-career-record,,,
+Resistance distance,S0504,B,1,0,seminal-doi,22350.0,727.0,0.936513
+Resistance distance,S1271,A,1,1,seminal-doi,9341.0,339.0,0.947124
+Resistance distance,S0271,B,1,0,seminal-doi,6106.0,489.0,0.897477
+Resistance distance,S0098,A,1,1,seminal-doi,12754.0,369.0,0.924293
+Resistance distance,S1125,A,0,1,curated-fallback,449.0,16.0,0.823888
+Resistance distance,S0678,B,0,0,curated-fallback,483.0,12.0,0.799562
+Resistance distance,S1424,B,0,0,curated-fallback,12645.0,150.0,0.819714
+Resistance distance,S0244,B,0,0,seminal-doi,8385.0,95.0,0.876729
+Resource allocation index,S0855,A,1,1,seminal-doi,15497.0,199.0,0.946539
+Resource allocation index,S1141,A,1,1,seminal-doi,16888.0,294.0,0.945357
+Resource allocation index,S0385,A,0,0,seminal-doi,16601.0,249.0,0.874064
+Role discovery,S0075,A,0,0,unresolved,,,
+Role discovery,S1110,A,0,1,seminal-doi,7925.0,189.0,0.933918
+Role discovery,S0479,A,0,0,seminal-doi,6620.0,114.0,0.868841
+Role discovery,S1300,A,0,0,unresolved,,,
+Role discovery,S0309,A,1,0,curated-fallback,538.0,3.0,0.774799
+Role discovery,S1314,B,1,0,seminal-doi,1354.0,2.0,0.893503
+Role discovery,S0750,A,1,0,seminal-doi,495.0,8.0,0.879457
+Role discovery,S0056,A,0,0,unresolved,,,
+Role discovery,S0569,A,0,0,seminal-doi,5200.0,41.0,0.909777
+Rumor spreading model,S0354,B,1,0,seminal-doi,21229.0,469.0,0.920653
+Rumor spreading model,S0122,A,1,0,curated-fallback,3203.0,77.0,0.846378
+Rumor spreading model,S0667,A,1,0,seminal-doi,11183.0,101.0,0.883887
+Rumor spreading model,S1052,B,0,0,curated-fallback,2221.0,38.0,0.826999
+Rumor spreading model,S1031,B,0,0,dropped-web-recovered,4973.0,190.0,0.887531
+Rumor spreading model,S1170,B,0,0,curated-fallback,167.0,5.0,0.785897
+Rumor spreading model,S0047,A,1,1,curated-fallback,188.0,4.0,0.794212
+Rumor spreading model,S1138,A,0,1,curated-fallback,16736.0,129.0,0.835327
+Rumor spreading model,S0170,B,1,0,seminal-doi,7266.0,379.0,0.92461
+Rumor spreading model,S0878,B,1,1,seminal-doi,44672.0,550.0,0.947697
+Rumor spreading model,S0880,B,1,1,seminal-doi,5198.0,224.0,0.950969
+Rumor spreading model,S1256,B,0,0,seminal-doi,146240.0,322.0,0.913894
+Rumor spreading model,S0162,A,0,0,seminal-doi,34515.0,291.0,0.920661
+Rumor spreading model,S1253,B,0,0,dropped-web-recovered,2493.0,197.0,0.889337
+Rumor spreading model,S0045,B,0,0,dropped-web-recovered,62284.0,410.0,0.901449
+Rumor spreading model,S0510,A,0,0,curated-fallback,14259.0,109.0,0.877505
+Rumor spreading model,S0037,A,0,1,seminal-doi,77948.0,538.0,0.929672
+Rumor spreading model,S0251,B,0,0,dropped-web-recovered,91.0,3.0,0.824854
+Rumor spreading model,S0205,B,1,1,seminal-doi,4099.0,231.0,0.914971
+SIR/SIS epidemic models,S0032,A,0,0,seminal-doi,73858.0,235.0,0.853849
+SIR/SIS epidemic models,S1142,B,0,0,dropped-web-recovered,3394.0,148.0,0.911132
+SIR/SIS epidemic models,S0882,A,1,0,curated-fallback,2769.0,46.0,0.831736
+SIR/SIS epidemic models,S0820,B,1,0,seminal-doi,7502.0,53.0,0.937698
+SIR/SIS epidemic models,S0660,B,1,0,seminal-doi,19959.0,341.0,0.93708
+SIR/SIS epidemic models,S1117,A,1,1,seminal-doi,1277.0,3.0,0.887254
+SIR/SIS epidemic models,S0275,B,0,0,unresolved,,,
+SIR/SIS epidemic models,S0237,B,0,0,seminal-doi,779.0,6.0,0.879643
+SIR/SIS epidemic models,S1466,A,1,1,seminal-doi,46002.0,160.0,0.91214
+SIR/SIS epidemic models,S0845,A,1,1,seminal-doi,1277.0,3.0,0.887254
+SIR/SIS epidemic models,S1033,B,0,0,seminal-doi,15432.0,240.0,0.943659
+SIR/SIS epidemic models,S1411,B,0,0,unresolved,,,
+SIR/SIS epidemic models,S1256,B,1,1,seminal-doi,146240.0,322.0,0.93565
+SIR/SIS epidemic models,S0162,A,1,1,seminal-doi,34515.0,291.0,0.933818
+SIR/SIS epidemic models,S0964,B,0,0,unresolved,,,
+SIR/SIS epidemic models,S1081,B,0,0,seminal-doi,93111.0,582.0,0.867369
+SIR/SIS epidemic models,S0037,A,1,1,seminal-doi,77948.0,538.0,0.932107
+Shortest-path betweenness load,S1323,A,1,1,seminal-doi,12870.0,229.0,0.935358
+Shortest-path betweenness load,S0814,A,0,0,curated-fallback,59253.0,996.0,0.813588
+Shortest-path betweenness load,S0586,B,1,0,seminal-doi,12160.0,142.0,0.919295
+Shortest-path betweenness load,S1256,A,1,1,seminal-doi,146240.0,322.0,0.926852
+Signed Laplacian,S0591,B,0,0,unresolved,,,
+Signed Laplacian,S0615,B,0,1,curated-fallback,155.0,3.0,0.77722
+Signed Laplacian,S0511,A,0,0,seminal-doi,13871.0,269.0,0.893772
+Signed Laplacian,S0300,A,1,0,seminal-doi,929.0,80.0,0.936922
+Signed Laplacian,S0115,A,1,1,curated-fallback|no-career-record,,,
+Signed Laplacian,S0463,A,0,0,curated-fallback,2881.0,2.0,0.785072
+Signed Laplacian,S1358,A,0,0,seminal-doi,3434.0,37.0,0.900833
+Signed Laplacian,S0135,B,0,0,unresolved,,,
+Signed Laplacian,S1267,B,1,1,curated-fallback,20336.0,24.0,0.851074
+Spectral density,S0054,B,1,0,curated-fallback,995.0,17.0,0.827468
+Spectral density,S0830,B,1,0,seminal-doi,12982.0,62.0,0.930708
+Stochastic equivalence,S0630,B,0,0,seminal-doi,6299.0,147.0,0.93029
+Stochastic equivalence,S1407,A,1,1,seminal-doi,3376.0,28.0,0.898079
+Stochastic equivalence,S0529,A,1,1,seminal-doi,5371.0,67.0,0.91622
+Stochastic equivalence,S0853,B,0,0,seminal-doi,12923.0,69.0,0.907274
+Stochastic equivalence,S1180,B,0,0,seminal-doi,4669.0,147.0,0.933116
+Stochastic equivalence,S0072,B,0,0,seminal-doi,2621.0,109.0,0.93029
+Stochastic equivalence,S1408,B,0,0,curated-fallback,52.0,4.0,0.836467
+Stochastic equivalence,S0226,A,1,1,seminal-doi,16320.0,125.0,0.907152
+Stochastic equivalence,S0752,B,1,1,seminal-doi,4501.0,158.0,0.90499
+Stochastic equivalence,S1233,A,1,1,seminal-doi,4797.0,35.0,0.903177
+Stochastic equivalence,S1314,A,1,0,seminal-doi,1354.0,2.0,0.922523
+Stochastic equivalence,S0248,A,1,0,seminal-doi,1765.0,25.0,0.905272
+Stochastic equivalence,S0750,B,1,0,seminal-doi,495.0,8.0,0.902819
+Stochastic equivalence,S1429,A,0,0,seminal-doi,21050.0,206.0,0.927146
+Stochastic equivalence,S1413,B,0,1,seminal-doi,5437.0,87.0,0.938573
+Stochastic equivalence,S0569,A,1,1,seminal-doi,5200.0,41.0,0.915151
+Subgraph centrality,S1341,A,1,1,seminal-doi,12144.0,329.0,0.947293
+Subgraph centrality,S1241,A,1,1,seminal-doi,3474.0,185.0,0.946767
+Threshold cascade condition,S0064,B,0,0,unresolved,,,
+Threshold cascade condition,S1311,A,1,1,seminal-doi,1370.0,10.0,0.871296
+Threshold cascade condition,S0977,B,1,0,seminal-doi,15987.0,171.0,0.943352
+Threshold cascade condition,S1261,B,0,0,curated-fallback,29379.0,373.0,0.832777
+Threshold cascade condition,S1266,B,0,0,curated-fallback,4832.0,78.0,0.847225
+Threshold cascade condition,S0246,A,1,1,seminal-doi,74525.0,155.0,0.940242
+Time-respecting paths,S0032,B,0,0,seminal-doi,73858.0,235.0,0.839589
+Time-respecting paths,S0910,A,1,1,seminal-doi,16954.0,354.0,0.940412
+Time-respecting paths,S1228,A,1,0,seminal-doi,13108.0,129.0,0.904817
+Time-respecting paths,S0447,B,0,0,seminal-doi,5570.0,171.0,0.892162
+Time-respecting paths,S0849,A,1,0,seminal-doi,40833.0,279.0,0.916728
+Time-respecting paths,S0756,A,0,0,curated-fallback,52449.0,338.0,0.827835
+Time-respecting paths,S0318,B,1,0,seminal-doi,44227.0,476.0,0.925906
+Time-respecting paths,S0726,B,0,0,dropped-web-recovered,14931.0,422.0,0.926285
+Time-respecting paths,S1010,B,1,0,seminal-doi,11221.0,292.0,0.926285
+Time-respecting paths,S0628,B,0,0,seminal-doi,6998.0,140.0,0.928634
+Time-respecting paths,S1079,A,1,1,seminal-doi,14240.0,221.0,0.945916
+Time-respecting paths,S0166,B,1,0,seminal-doi,5077.0,46.0,0.913602
+Time-respecting paths,S1263,B,0,0,seminal-doi,25780.0,267.0,0.865111
+TransE embeddings,S0379,A,1,1,curated-fallback,106.0,1.0,0.775912
+Trophic coherence,S1147,A,1,0,seminal-doi,953.0,27.0,0.943517
+Trophic coherence,S0473,A,1,0,seminal-doi,990.0,63.0,0.954185
+Trophic coherence,S0235,A,1,0,seminal-doi,7865.0,183.0,0.921709
+Trophic coherence,S0306,A,1,0,seminal-doi,9260.0,354.0,0.928658
+Von Neumann graph entropy,S0770,A,0,1,curated-fallback,739.0,2.0,0.787785
+Watts cascade model,S1311,A,1,1,seminal-doi,1370.0,10.0,0.882006
+Watts cascade model,S0440,B,1,0,curated-fallback,6889.0,259.0,0.842932
+Watts cascade model,S1256,A,1,0,seminal-doi,146240.0,322.0,0.921684
+Watts cascade model,S0788,A,0,0,curated-fallback,708.0,6.0,0.852716
+Watts cascade model,S1266,B,1,1,curated-fallback,4832.0,78.0,0.855037
+Watts cascade model,S0246,A,1,1,seminal-doi,74525.0,155.0,0.943255
+Watts cascade model,S0697,B,0,0,dropped-web-recovered,8121.0,117.0,0.939356
+Watts-Strogatz small-world model,S0365,B,0,0,unresolved,,,
+Watts-Strogatz small-world model,S1219,B,1,1,seminal-doi,845.0,43.0,0.872289
+Watts-Strogatz small-world model,S1462,A,1,1,curated-fallback,140.0,8.0,0.899493
+Watts-Strogatz small-world model,S1394,B,1,1,seminal-doi,708.0,53.0,0.863121
+Watts-Strogatz small-world model,S1196,A,1,1,seminal-doi,78910.0,257.0,0.928493
+Watts-Strogatz small-world model,S0246,A,1,1,seminal-doi,74525.0,155.0,0.929013
+adjacency matrix,S0721,B,1,1,curated-fallback,76.0,2.0,0.803052
+adjacency matrix,S0211,A,1,0,seminal-doi,4804.0,68.0,0.921892
+adjacency matrix,S0006,A,1,1,curated-fallback,1434.0,21.0,0.838844
+adjacency matrix,S0789,A,1,0,seminal-doi|no-career-record,,,
+adjacency matrix,S1139,A,1,1,seminal-doi,8410.0,262.0,0.919644
+adjacency matrix,S1287,B,1,1,curated-fallback,113.0,2.0,0.824228
+adjacency matrix,S0454,A,0,0,seminal-doi,15470.0,302.0,0.891222
+adjacency matrix,S0356,A,1,0,curated-fallback,4416.0,53.0,0.867462
+adjacency matrix,S0091,A,1,0,curated-fallback|no-career-record,,,
+adjacency matrix,S0417,A,0,0,unresolved,,,
+algebraic connectivity (Fiedler value),S0511,B,1,0,seminal-doi,13871.0,269.0,0.901367
+algebraic connectivity (Fiedler value),S0840,A,1,1,curated-fallback,3.0,3.0,0.804956
+algebraic connectivity (Fiedler value),S0068,B,0,0,curated-fallback,104.0,5.0,0.821907
+algebraic connectivity (Fiedler value),S1120,A,1,0,curated-fallback,185.0,25.0,0.862465
+algebraic connectivity (Fiedler value),S0543,B,1,0,seminal-doi,3624.0,71.0,0.9278
+algebraic connectivity (Fiedler value),S0271,A,1,0,seminal-doi,6106.0,489.0,0.908562
+average shortest path length,S0287,B,1,0,seminal-doi,83773.0,255.0,0.924679
+average shortest path length,S0724,B,1,0,seminal-doi,180923.0,359.0,0.927426
+average shortest path length,S0179,B,1,1,curated-fallback,104.0,6.0,0.802362
+average shortest path length,S1108,B,1,1,curated-fallback,881.0,37.0,0.850591
+average shortest path length,S1139,A,0,0,seminal-doi,8410.0,262.0,0.908016
+average shortest path length,S0755,B,1,0,seminal-doi,32189.0,254.0,0.924098
+average shortest path length,S1219,B,0,0,seminal-doi,845.0,43.0,0.883107
+average shortest path length,S1462,A,1,1,curated-fallback,140.0,8.0,0.879984
+average shortest path length,S1256,B,1,1,seminal-doi,146240.0,322.0,0.926215
+average shortest path length,S1394,B,0,0,seminal-doi,708.0,53.0,0.879068
+average shortest path length,S1030,B,1,1,curated-fallback,473.0,5.0,0.799663
+average shortest path length,S1196,A,1,1,seminal-doi,78910.0,257.0,0.912381
+average shortest path length,S0246,A,1,1,seminal-doi,74525.0,155.0,0.918325
+betweenness centrality,S0486,A,1,0,curated-fallback|no-career-record,,,
+betweenness centrality,S1323,A,1,1,seminal-doi,12870.0,229.0,0.959664
+betweenness centrality,S0814,A,0,0,curated-fallback,59253.0,996.0,0.808962
+bootstrap percolation,S0146,B,1,0,seminal-doi,1701.0,59.0,0.950079
+bootstrap percolation,S1209,B,0,0,seminal-doi,765.0,8.0,0.877636
+bootstrap percolation,S0877,A,1,1,seminal-doi,507.0,6.0,0.907964
+bootstrap percolation,S1302,A,0,0,unresolved,,,
+bootstrap percolation,S0062,B,1,0,seminal-doi,14979.0,258.0,0.942908
+bootstrap percolation,S0321,A,0,0,seminal-doi,8936.0,186.0,0.936074
+bootstrap percolation,S0189,B,1,0,seminal-doi,8920.0,189.0,0.939904
+bootstrap percolation,S0772,A,1,1,seminal-doi,4987.0,80.0,0.920875
+bootstrap percolation,S0662,B,1,0,seminal-doi,15236.0,345.0,0.942908
+bootstrap percolation,S0236,A,1,1,seminal-doi,605.0,5.0,0.894106
+bootstrap percolation,S0246,A,0,1,seminal-doi,74525.0,155.0,0.931459
+brokerage,S0853,A,1,1,seminal-doi,12923.0,69.0,0.939123
+brokerage,S1146,A,1,0,curated-fallback,5164.0,49.0,0.87184
+brokerage,S0814,A,0,0,curated-fallback,59253.0,996.0,0.812244
+brokerage,S1119,A,1,1,curated-fallback,423.0,3.0,0.771114
+brokerage,S1311,A,1,1,seminal-doi,1370.0,10.0,0.876352
+brokerage,S0168,A,1,0,seminal-doi,7886.0,29.0,0.928496
+brokerage,S0833,A,1,1,curated-fallback,803.0,2.0,0.869693
+cascading failures,S0807,A,1,0,seminal-doi,39364.0,518.0,0.946618
+cascading failures,S1283,A,0,1,curated-fallback,16226.0,385.0,0.933809
+cascading failures,S0355,B,1,1,seminal-doi,5426.0,18.0,0.922838
+cascading failures,S1074,A,0,1,seminal-doi,11848.0,239.0,0.939811
+cascading failures,S0092,A,0,0,seminal-doi,27464.0,796.0,0.933445
+cascading failures,S0318,B,1,1,seminal-doi,44227.0,476.0,0.936253
+cascading failures,S1073,B,1,1,seminal-doi,10114.0,22.0,0.917601
+cascading failures,S1054,A,1,1,seminal-doi,12783.0,312.0,0.942686
+cascading failures,S1256,A,0,0,seminal-doi,146240.0,322.0,0.907842
+cascading failures,S1196,B,0,0,seminal-doi,78910.0,257.0,0.907483
+cascading failures,S0246,A,1,1,seminal-doi,74525.0,155.0,0.92098
+closeness centrality,S0486,A,1,1,curated-fallback|no-career-record,,,
+closeness centrality,S0842,A,1,1,curated-fallback,265.0,4.0,0.816132
+closeness centrality,S0814,A,0,0,curated-fallback,59253.0,996.0,0.82185
+closeness centrality,S1000,A,1,1,seminal-doi,3500.0,52.0,0.882963
+clustering coefficient,S0326,B,1,0,seminal-doi,28198.0,394.0,0.929901
+clustering coefficient,S0941,A,0,0,curated-fallback,7307.0,439.0,0.821047
+clustering coefficient,S1139,A,0,0,seminal-doi,8410.0,262.0,0.919432
+clustering coefficient,S0454,A,1,0,seminal-doi,15470.0,302.0,0.881458
+clustering coefficient,S1256,A,1,0,seminal-doi,146240.0,322.0,0.941177
+clustering coefficient,S0007,A,1,0,curated-fallback,380.0,21.0,0.815798
+clustering coefficient,S0833,A,0,0,curated-fallback,803.0,2.0,0.842162
+clustering coefficient,S1196,A,1,1,seminal-doi,78910.0,257.0,0.923358
+clustering coefficient,S0246,A,1,1,seminal-doi,74525.0,155.0,0.915319
+clustering coefficient,S0472,B,0,0,dropped-web-recovered,10642.0,241.0,0.885303
+collective influence,S1351,A,1,1,seminal-doi,22185.0,385.0,0.944634
+collective influence,S0466,A,1,1,seminal-doi,2924.0,88.0,0.947274
+community detection,S0401,A,0,0,seminal-doi,18967.0,152.0,0.948652
+community detection,S1109,A,0,0,seminal-doi,8133.0,151.0,0.929204
+community detection,S0857,A,1,1,seminal-doi,38287.0,265.0,0.970387
+community detection,S0088,A,1,1,seminal-doi,32306.0,132.0,0.961366
+community detection,S1026,A,1,0,seminal-doi,11264.0,37.0,0.964943
+community detection,S1256,A,1,1,seminal-doi,146240.0,322.0,0.967126
+community detection,S0507,A,1,0,seminal-doi,8886.0,125.0,0.953951
+community detection,S0570,A,1,0,seminal-doi,3873.0,5.0,0.888519
+community detection,S0220,A,1,0,seminal-doi,2884.0,16.0,0.932587
+community detection,S1201,A,1,0,seminal-doi,11553.0,175.0,0.96789
+complex contagion,S0986,A,1,1,seminal-doi,9684.0,62.0,0.966408
+complex contagion,S0941,A,0,0,curated-fallback,7307.0,439.0,0.827283
+complex contagion,S1311,A,1,1,seminal-doi,1370.0,10.0,0.891011
+complex contagion,S0837,A,0,0,curated-fallback,4754.0,9.0,0.865779
+complex contagion,S0977,A,1,1,seminal-doi,15987.0,171.0,0.954093
+complex contagion,S0806,A,0,0,curated-fallback,409.0,3.0,0.798699
+complex contagion,S0793,B,1,0,seminal-doi,766.0,3.0,0.894119
+complex contagion,S0246,B,1,1,seminal-doi,74525.0,155.0,0.938734
+configuration model,S0478,A,1,0,curated-fallback,1085.0,3.0,0.852084
+configuration model,S0626,A,1,1,seminal-doi,21694.0,613.0,0.912374
+configuration model,S0153,A,0,0,unresolved,,,
+configuration model,S0811,A,1,0,curated-fallback,137.0,3.0,0.814132
+configuration model,S1256,A,1,1,seminal-doi,146240.0,322.0,0.931119
+configuration model,S1181,A,1,1,seminal-doi,7152.0,173.0,0.9055
+configuration model,S1196,A,1,1,seminal-doi,78910.0,257.0,0.918802
+configuration model,S0246,A,1,1,seminal-doi,74525.0,155.0,0.917588
+connectome (brain networks),S1276,B,0,0,curated-fallback,9601.0,42.0,0.851431
+connectome (brain networks),S1154,A,1,1,seminal-doi,62113.0,940.0,0.96092
+connectome (brain networks),S1192,B,0,0,unresolved,,,
+connectome (brain networks),S0871,A,1,1,seminal-doi,30323.0,38.0,0.947029
+connectome (brain networks),S0197,A,1,0,seminal-doi,102600.0,312.0,0.951807
+connectome (brain networks),S0145,B,1,1,seminal-doi,25847.0,269.0,0.952561
+connectome (brain networks),S0187,B,1,1,seminal-doi,35547.0,288.0,0.960954
+connectome (brain networks),S1412,B,0,0,dropped-web-recovered,17566.0,283.0,0.957191
+connectome (brain networks),S0599,B,0,0,dropped-web-recovered,9156.0,237.0,0.961787
+connectome (brain networks),S1090,A,1,1,seminal-doi,17612.0,109.0,0.953492
+connectome (brain networks),S0353,A,1,0,curated-fallback,354.0,15.0,0.793763
+connectome (brain networks),S0030,A,1,0,seminal-doi,102257.0,435.0,0.973537
+connectome (brain networks),S1196,A,1,0,seminal-doi,78910.0,257.0,0.919513
+connectome (brain networks),S0127,A,1,0,seminal-doi,80210.0,607.0,0.950043
+connectome (brain networks),S0246,A,0,0,seminal-doi,74525.0,155.0,0.904524
+connectome (brain networks),S0697,A,0,0,unresolved,,,
+core-periphery structure,S0735,A,1,1,seminal-doi,31167.0,147.0,0.950547
+core-periphery structure,S0529,B,1,1,seminal-doi,5371.0,67.0,0.918591
+core-periphery structure,S1205,B,1,0,seminal-doi,15472.0,286.0,0.939089
+core-periphery structure,S0360,A,1,1,seminal-doi,8698.0,83.0,0.953226
+core-periphery structure,S1368,B,1,0,seminal-doi,759.0,4.0,0.921135
+core-periphery structure,S0421,B,1,0,curated-fallback,244.0,8.0,0.854423
+decentralized search (Kleinberg navigability),S0349,B,1,1,seminal-doi,13265.0,264.0,0.91135
+decentralized search (Kleinberg navigability),S0849,A,1,1,seminal-doi,40833.0,279.0,0.918477
+decentralized search (Kleinberg navigability),S1462,A,1,1,curated-fallback,140.0,8.0,0.882164
+decentralized search (Kleinberg navigability),S0503,B,1,1,curated-fallback,453.0,20.0,0.805949
+decentralized search (Kleinberg navigability),S1256,B,1,0,seminal-doi,146240.0,322.0,0.90981
+decentralized search (Kleinberg navigability),S1196,A,1,1,seminal-doi,78910.0,257.0,0.903841
+decentralized search (Kleinberg navigability),S0017,A,1,1,curated-fallback|no-career-record,,,
+decentralized search (Kleinberg navigability),S0246,A,1,1,seminal-doi,74525.0,155.0,0.912314
+degree assortativity,S0558,A,1,0,seminal-doi,13155.0,214.0,0.930566
+degree assortativity,S1126,A,1,0,seminal-doi,12547.0,278.0,0.929583
+degree assortativity,S1256,A,1,1,seminal-doi,146240.0,322.0,0.951855
+degree assortativity,S0162,A,1,0,seminal-doi,34515.0,291.0,0.932013
+degree assortativity,S0804,A,1,0,seminal-doi,16564.0,469.0,0.930875
+degree assortativity,S0037,A,1,0,seminal-doi,77948.0,538.0,0.931351
+degree centrality,S0486,A,1,1,curated-fallback|no-career-record,,,
+degree centrality,S0842,B,1,0,curated-fallback,265.0,4.0,0.827462
+degree centrality,S0814,A,0,0,curated-fallback,59253.0,996.0,0.831903
+degree centrality,S0730,A,1,0,curated-fallback|no-career-record,,,
+degree centrality,S0749,B,1,0,curated-fallback,352.0,15.0,0.808462
+degree centrality,S1000,B,0,0,seminal-doi,3500.0,52.0,0.893714
+degree centrality,S0198,A,0,0,unresolved,,,
+degree distribution,S0974,B,0,0,seminal-doi,22566.0,123.0,0.919213
+degree distribution,S0287,A,1,1,seminal-doi,83773.0,255.0,0.937895
+degree distribution,S0724,A,1,0,seminal-doi,180923.0,359.0,0.938619
+degree distribution,S1108,A,1,1,curated-fallback,881.0,37.0,0.851275
+degree distribution,S1437,B,0,0,dropped-web-recovered,25821.0,413.0,0.914228
+degree distribution,S1256,A,1,1,seminal-doi,146240.0,322.0,0.942447
+degree distribution,S0407,B,0,1,seminal-doi,5540.0,77.0,0.876895
+degree distribution,S0074,B,0,0,seminal-doi,22806.0,507.0,0.926212
+degree distribution,S1030,A,1,1,curated-fallback,473.0,5.0,0.809993
+degree distribution,S1196,A,1,1,seminal-doi,78910.0,257.0,0.92599
+degree distribution,S0246,A,1,1,seminal-doi,74525.0,155.0,0.924895
+diffusion of innovations,S0709,A,0,0,seminal-doi,4201.0,68.0,0.841921
+diffusion of innovations,S0986,B,0,0,seminal-doi,9684.0,62.0,0.935376
+diffusion of innovations,S0941,A,1,1,curated-fallback,7307.0,439.0,0.831701
+diffusion of innovations,S1311,A,1,0,seminal-doi,1370.0,10.0,0.883919
+diffusion of innovations,S0639,B,0,0,seminal-doi,6911.0,156.0,0.905675
+diffusion of innovations,S1080,B,1,0,curated-fallback|no-career-record,,,
+diffusion of innovations,S0837,A,1,1,curated-fallback,4754.0,9.0,0.850661
+diffusion of innovations,S0977,B,0,0,seminal-doi,15987.0,171.0,0.928462
+diffusion of innovations,S0806,A,1,1,curated-fallback,409.0,3.0,0.786534
+diffusion of innovations,S1252,B,1,1,curated-fallback,369.0,2.0,0.807411
+diffusion of innovations,S0788,A,0,0,curated-fallback,708.0,6.0,0.839553
+diffusion of innovations,S1308,B,1,1,curated-fallback,80.0,11.0,0.859757
+diffusion of innovations,S0175,B,0,0,unresolved,,,
+diffusion of innovations,S0985,B,0,0,unresolved,,,
+diffusion of innovations,S0270,A,1,0,seminal-doi,16711.0,241.0,0.956481
+echo chambers,S0974,B,0,0,seminal-doi,22566.0,123.0,0.917904
+echo chambers,S0422,B,1,1,seminal-doi,8435.0,83.0,0.913454
+echo chambers,S0824,B,1,1,seminal-doi,7810.0,45.0,0.911378
+echo chambers,S0536,B,0,0,unresolved,,,
+echo chambers,S1410,B,0,0,dropped-web-recovered,5906.0,23.0,0.913494
+echo chambers,S0262,B,0,0,unresolved,,,
+echo chambers,S0103,B,1,0,curated-fallback,8050.0,398.0,0.836143
+echo chambers,S0999,B,0,0,dropped-web-recovered,2482.0,21.0,0.902452
+echo chambers,S0848,B,1,0,curated-fallback|no-career-record,,,
+echo chambers,S0680,B,0,1,curated-fallback,1763.0,18.0,0.820805
+echo chambers,S0743,B,0,0,unresolved,,,
+echo chambers,S1053,B,1,0,curated-fallback,9220.0,135.0,0.825262
+echo chambers,S0953,B,0,0,seminal-doi,9212.0,515.0,0.905827
+echo chambers,S0303,B,0,0,curated-fallback|no-career-record,,,
+echo chambers,S0746,B,1,0,seminal-doi,20422.0,37.0,0.920204
+echo chambers,S1244,B,0,0,dropped-web-recovered,1651.0,17.0,0.885737
+echo chambers,S0397,B,0,0,dropped-web-recovered,8434.0,78.0,0.913033
+echo chambers,S0796,B,0,0,unresolved,,,
+echo chambers,S0013,B,0,1,curated-fallback,51.0,2.0,0.780676
+echo chambers,S0657,B,1,0,seminal-doi,21123.0,86.0,0.926827
+echo chambers,S1365,B,1,1,curated-fallback|no-career-record,,,
+echo chambers,S1247,B,0,0,curated-fallback,174.0,4.0,0.802621
+echo chambers,S0491,B,1,0,seminal-doi,4621.0,35.0,0.920612
+echo chambers,S0324,B,0,0,dropped-web-recovered,8259.0,97.0,0.920612
+eigenvector centrality,S0721,B,0,0,curated-fallback,76.0,2.0,0.777129
+eigenvector centrality,S1301,A,1,1,seminal-doi,6328.0,46.0,0.954482
+eigenvector centrality,S0435,B,1,1,curated-fallback,41655.0,291.0,0.882682
+eigenvector centrality,S0837,A,0,0,curated-fallback,4754.0,9.0,0.845414
+eigenvector centrality,S0450,A,1,1,curated-fallback,28.0,3.0,0.788304
+eigenvector centrality,S1312,B,1,0,seminal-doi,1049.0,2.0,0.942677
+eigenvector centrality,S1078,B,1,0,curated-fallback,2271.0,49.0,0.835685
+eigenvector centrality,S1299,B,0,0,seminal-doi,4770.0,151.0,0.9087
+embeddedness,S0853,A,1,1,seminal-doi,12923.0,69.0,0.921752
+embeddedness,S1311,A,1,1,seminal-doi,1370.0,10.0,0.879612
+embeddedness,S0334,A,1,0,seminal-doi,27681.0,110.0,0.92605
+embeddedness,S0455,B,1,0,curated-fallback,1338.0,7.0,0.826326
+embeddedness,S0875,B,1,1,curated-fallback,137.0,2.0,0.803774
+embeddedness,S0249,A,1,1,seminal-doi,30247.0,136.0,0.936371
+epidemic threshold,S0558,A,1,0,seminal-doi,13155.0,214.0,0.933815
+epidemic threshold,S1221,A,0,0,seminal-doi,5883.0,177.0,0.872295
+epidemic threshold,S0479,A,0,0,seminal-doi,6620.0,114.0,0.889107
+epidemic threshold,S0595,A,1,0,curated-fallback,519.0,13.0,0.829378
+epidemic threshold,S0162,A,1,1,seminal-doi,34515.0,291.0,0.941098
+epidemic threshold,S0037,A,1,1,seminal-doi,77948.0,538.0,0.935295
+epidemic threshold,S0051,A,1,0,seminal-doi,1457.0,3.0,0.929792
+explosive percolation,S1458,A,1,1,seminal-doi,5317.0,105.0,0.924663
+explosive percolation,S1445,A,1,0,seminal-doi,725.0,41.0,0.946934
+explosive percolation,S0062,A,1,0,seminal-doi,14979.0,258.0,0.944208
+explosive percolation,S1217,A,1,1,seminal-doi,5166.0,168.0,0.949764
+explosive percolation,S0189,A,1,0,seminal-doi,8920.0,189.0,0.945691
+explosive percolation,S0662,A,1,0,seminal-doi,15236.0,345.0,0.944887
+explosive percolation,S1353,A,1,0,seminal-doi,5145.0,141.0,0.941662
+explosive percolation,S1383,A,1,1,seminal-doi,3396.0,134.0,0.929345
+explosive percolation,S1211,A,1,1,seminal-doi,803.0,74.0,0.946426
+exponential random graph model (ERGM),S0088,B,0,0,seminal-doi,32306.0,132.0,0.912582
+exponential random graph model (ERGM),S0909,A,1,1,seminal-doi,15043.0,139.0,0.953409
+exponential random graph model (ERGM),S0226,A,1,0,seminal-doi,16320.0,125.0,0.914073
+exponential random graph model (ERGM),S0971,B,1,1,seminal-doi,10062.0,60.0,0.950849
+exponential random graph model (ERGM),S1233,A,1,0,seminal-doi,4797.0,35.0,0.914073
+exponential random graph model (ERGM),S1256,B,0,0,seminal-doi,146240.0,322.0,0.941813
+exponential random graph model (ERGM),S1199,A,1,0,seminal-doi,16254.0,163.0,0.955225
+exponential random graph model (ERGM),S1429,A,1,1,seminal-doi,21050.0,206.0,0.952509
+exponential random graph model (ERGM),S0501,A,1,0,curated-fallback,181.0,22.0,0.804737
+feed-forward loop motif,S1306,A,1,1,seminal-doi,53248.0,331.0,0.949381
+feed-forward loop motif,S0866,A,1,1,seminal-doi,36084.0,161.0,0.949053
+feed-forward loop motif,S0644,A,1,0,seminal-doi,5656.0,36.0,0.932673
+feed-forward loop motif,S1427,A,1,1,seminal-doi,49135.0,207.0,0.949053
+feed-forward loop motif,S1225,A,1,0,seminal-doi,21624.0,131.0,0.942613
+food webs,S1218,B,0,0,dropped-web-recovered,1716.0,16.0,0.865918
+food webs,S1048,A,1,0,curated-fallback,652.0,4.0,0.934602
+food webs,S0028,A,1,1,seminal-doi,10762.0,166.0,0.913819
+food webs,S0372,A,1,1,curated-fallback|no-career-record,,,
+food webs,S0156,A,1,1,seminal-doi,16619.0,83.0,0.959894
+food webs,S1466,B,1,1,seminal-doi,46002.0,160.0,0.906498
+food webs,S1256,A,0,0,seminal-doi,146240.0,322.0,0.910666
+food webs,S0247,B,1,0,seminal-doi,13234.0,113.0,0.926213
+food webs,S0725,A,1,1,curated-fallback,9636.0,44.0,0.915727
+forest fire model,S0479,A,0,0,seminal-doi,6620.0,114.0,0.890056
+forest fire model,S0849,A,1,1,seminal-doi,40833.0,279.0,0.935558
+forest fire model,S0276,A,1,1,seminal-doi,81536.0,238.0,0.944988
+friendship paradox,S0408,A,1,0,seminal-doi,1016.0,52.0,0.954249
+friendship paradox,S0581,A,1,1,curated-fallback,2827.0,84.0,0.941981
+friendship paradox,S1194,B,0,0,dropped-web-recovered,37218.0,171.0,0.929843
+friendship paradox,S0613,A,1,0,seminal-doi,1805.0,175.0,0.950233
+gene regulatory networks,S1306,A,1,1,seminal-doi,53248.0,331.0,0.939764
+gene regulatory networks,S1084,A,1,0,seminal-doi,75393.0,554.0,0.936474
+gene regulatory networks,S0180,B,0,0,dropped-web-recovered,111978.0,435.0,0.928838
+gene regulatory networks,S0851,A,1,1,seminal-doi,42530.0,481.0,0.942504
+gene regulatory networks,S0747,A,1,1,seminal-doi,19448.0,140.0,0.912836
+gene regulatory networks,S1426,A,1,1,curated-fallback,16274.0,339.0,0.931332
+gene regulatory networks,S0754,B,0,0,dropped-web-recovered,31891.0,147.0,0.913722
+gene regulatory networks,S1143,A,1,0,seminal-doi,11416.0,64.0,0.9239
+gene regulatory networks,S1289,A,1,1,seminal-doi,13749.0,80.0,0.909516
+gene regulatory networks,S0509,B,0,0,dropped-web-recovered,3911.0,13.0,0.850548
+giant connected component,S0277,B,0,0,curated-fallback,29637.0,667.0,0.914996
+giant connected component,S0287,A,1,1,seminal-doi,83773.0,255.0,0.937759
+giant connected component,S0724,A,1,0,seminal-doi,180923.0,359.0,0.945795
+giant connected component,S0626,B,0,1,seminal-doi,21694.0,613.0,0.928628
+giant connected component,S0996,B,0,0,curated-fallback,20.0,2.0,0.784372
+giant connected component,S1108,A,1,1,curated-fallback,881.0,37.0,0.87309
+giant connected component,S0708,B,1,1,curated-fallback,371.0,4.0,0.815728
+giant connected component,S0383,B,0,0,curated-fallback,260.0,16.0,0.860872
+giant connected component,S0811,A,0,0,curated-fallback,137.0,3.0,0.827466
+giant connected component,S1181,A,1,1,seminal-doi,7152.0,173.0,0.919887
+giant connected component,S1030,A,1,1,curated-fallback,473.0,5.0,0.820158
+giant connected component,S0414,B,0,0,curated-fallback,536.0,3.0,0.852749
+giant connected component,S1196,A,1,1,seminal-doi,78910.0,257.0,0.936316
+giant connected component,S0246,A,1,1,seminal-doi,74525.0,155.0,0.932483
+global efficiency,S1276,B,1,0,curated-fallback,9601.0,42.0,0.843554
+global efficiency,S0871,B,1,0,seminal-doi,30323.0,38.0,0.893643
+global efficiency,S0187,B,0,0,seminal-doi,35547.0,288.0,0.914117
+global efficiency,S0318,A,1,1,seminal-doi,44227.0,476.0,0.940459
+global efficiency,S1073,A,1,1,seminal-doi,10114.0,22.0,0.940459
+global efficiency,S0939,A,1,0,seminal-doi,17151.0,57.0,0.904266
+global efficiency,S0030,A,1,0,seminal-doi,102257.0,435.0,0.914334
+graph Laplacian,S0511,A,1,0,seminal-doi,13871.0,269.0,0.921215
+graph Laplacian,S1190,A,1,1,seminal-doi,13871.0,269.0,0.921215
+graph Laplacian,S0840,A,1,1,curated-fallback,3.0,3.0,0.798093
+graph Laplacian,S0482,A,0,0,curated-fallback,643.0,7.0,0.815171
+graph Laplacian,S0893,B,1,0,seminal-doi,10423.0,111.0,0.934057
+graph Laplacian,S0271,A,1,0,seminal-doi,6106.0,489.0,0.926289
+graph Laplacian,S0359,B,0,0,seminal-doi,252.0,9.0,0.902342
+graph neural networks (GNN),S1292,A,1,1,curated-fallback,10.0,4.0,0.741815
+graph neural networks (GNN),S1338,A,1,1,seminal-doi,18947.0,430.0,0.942827
+graph neural networks (GNN),S0689,A,1,1,curated-fallback,1291.0,36.0,0.775107
+graph neural networks (GNN),S0053,A,1,1,curated-fallback,16.0,3.0,0.814199
+graph neural networks (GNN),S0276,A,1,0,seminal-doi,81536.0,238.0,0.951875
+graph neural networks (GNN),S0158,A,0,0,unresolved,,,
+graph neural networks (GNN),S0444,A,1,1,seminal-doi,12593.0,110.0,0.957486
+graph neural networks (GNN),S0776,A,0,0,unresolved,,,
+graph neural networks (GNN),S0066,A,0,0,curated-fallback,13211.0,204.0,0.808477
+graph neural networks (GNN),S0070,A,0,1,curated-fallback,617.0,41.0,0.789051
+graphlets,S1306,A,1,0,seminal-doi,53248.0,331.0,0.930758
+graphlets,S0866,A,1,0,seminal-doi,36084.0,161.0,0.932518
+graphlets,S1427,A,1,0,seminal-doi,49135.0,207.0,0.930758
+graphlets,S0342,A,1,1,seminal-doi,10893.0,151.0,0.944693
+graphlets,S1225,A,1,0,seminal-doi,21624.0,131.0,0.924968
+harmonic centrality,S0842,B,1,0,curated-fallback,265.0,4.0,0.819161
+harmonic centrality,S0239,A,1,0,seminal-doi,5688.0,164.0,0.94501
+harmonic centrality,S0814,B,0,0,curated-fallback,59253.0,996.0,0.840716
+harmonic centrality,S0318,A,1,0,seminal-doi,44227.0,476.0,0.941818
+harmonic centrality,S1073,A,1,1,seminal-doi,10114.0,22.0,0.939764
+harmonic centrality,S1000,A,1,0,seminal-doi,3500.0,52.0,0.888519
+harmonic centrality,S0050,A,1,0,seminal-doi,6141.0,153.0,0.9439
+hierarchical modularity,S0144,A,0,0,unresolved,,,
+hierarchical modularity,S0724,A,1,0,seminal-doi,180923.0,359.0,0.944725
+hierarchical modularity,S0088,B,1,0,seminal-doi,32306.0,132.0,0.937279
+hierarchical modularity,S1256,B,1,1,seminal-doi,146240.0,322.0,0.949014
+hierarchical modularity,S0649,A,1,1,seminal-doi,11066.0,58.0,0.959679
+hierarchical modularity,S1081,A,1,1,seminal-doi,93111.0,582.0,0.899694
+homophily,S1041,B,0,0,dropped-web-recovered,1488.0,4.0,0.87298
+homophily,S0771,A,1,1,curated-fallback|no-career-record,,,
+homophily,S0941,B,0,1,curated-fallback,7307.0,439.0,0.814748
+homophily,S0848,A,1,1,curated-fallback|no-career-record,,,
+homophily,S0581,B,1,0,curated-fallback,2827.0,84.0,0.936443
+homophily,S0279,B,0,0,seminal-doi,20275.0,236.0,0.944684
+homophily,S0303,A,1,1,curated-fallback|no-career-record,,,
+homophily,S1384,B,0,0,dropped-web-recovered,8805.0,76.0,0.935037
+homophily,S0746,A,1,1,seminal-doi,20422.0,37.0,0.942872
+homophily,S0769,A,1,1,curated-fallback,6643.0,15.0,0.867813
+homophily,S0560,B,1,0,curated-fallback|no-career-record,,,
+homophily,S0640,B,0,0,unresolved,,,
+homophily,S0657,A,1,1,seminal-doi,21123.0,86.0,0.952495
+homophily,S0246,B,1,0,seminal-doi,74525.0,155.0,0.926136
+human disease network (diseasome),S0724,A,1,1,seminal-doi,180923.0,359.0,0.966793
+human disease network (diseasome),S0460,B,1,0,seminal-doi,50819.0,354.0,0.950973
+human disease network (diseasome),S0586,A,1,0,seminal-doi,12160.0,142.0,0.94794
+human disease network (diseasome),S0225,B,1,0,seminal-doi,22271.0,291.0,0.922727
+human disease network (diseasome),S0538,A,1,1,seminal-doi,78886.0,916.0,0.959646
+human disease network (diseasome),S0043,B,1,0,seminal-doi,34955.0,131.0,0.932016
+hyperbolic geometric graph (PSO model),S0558,B,1,1,seminal-doi,13155.0,214.0,0.938831
+hyperbolic geometric graph (PSO model),S0128,B,1,1,seminal-doi,6963.0,152.0,0.946554
+hyperbolic geometric graph (PSO model),S0514,B,1,0,seminal-doi,7173.0,88.0,0.943131
+hypergraphs,S0721,A,1,1,curated-fallback,76.0,2.0,0.7574
+hypergraphs,S0178,B,1,0,seminal-doi,1135.0,75.0,0.908823
+hypergraphs,S1108,A,1,1,curated-fallback,881.0,37.0,0.808558
+hypergraphs,S0757,B,0,0,dropped-web-recovered,10909.0,209.0,0.898415
+hypergraphs,S0473,A,1,0,seminal-doi,990.0,63.0,0.874029
+hypergraphs,S0720,B,1,0,curated-fallback,258.0,3.0,0.73318
+hypergraphs,S0399,B,1,1,seminal-doi,22101.0,317.0,0.896661
+hypergraphs,S0655,B,0,0,unresolved,,,
+hypergraphs,S1158,B,1,0,curated-fallback,10.0,6.0,0.788012
+hypergraphs,S0467,B,0,0,dropped-web-recovered,382.0,11.0,0.882443
+hypergraphs,S0099,B,0,0,unresolved,,,
+independent cascade model,S0709,B,0,0,seminal-doi,4201.0,68.0,0.86064
+independent cascade model,S1326,A,1,0,seminal-doi,18894.0,86.0,0.878143
+independent cascade model,S0917,A,1,0,seminal-doi,6257.0,85.0,0.913585
+independent cascade model,S1311,B,1,1,seminal-doi,1370.0,10.0,0.88529
+independent cascade model,S1228,A,1,1,seminal-doi,13108.0,129.0,0.917444
+independent cascade model,S0849,A,1,1,seminal-doi,40833.0,279.0,0.919866
+independent cascade model,S0815,A,1,0,seminal-doi,6228.0,48.0,0.905619
+independent cascade model,S0481,A,1,0,seminal-doi,9447.0,85.0,0.91503
+independent cascade model,S0859,A,0,0,seminal-doi,3554.0,82.0,0.882379
+independent cascade model,S0176,A,1,1,seminal-doi,8812.0,98.0,0.906352
+influence maximization,S0764,B,1,0,seminal-doi,8859.0,234.0,0.910967
+influence maximization,S1161,B,0,0,unresolved,,,
+influence maximization,S0215,B,0,0,seminal-doi,11483.0,244.0,0.910967
+influence maximization,S0860,B,1,0,seminal-doi,10438.0,146.0,0.951274
+influence maximization,S1326,B,1,0,seminal-doi,18894.0,86.0,0.902183
+influence maximization,S1134,B,0,0,dropped-web-recovered,84879.0,137.0,0.901766
+influence maximization,S1228,A,1,1,seminal-doi,13108.0,129.0,0.946966
+influence maximization,S0849,A,1,1,seminal-doi,40833.0,279.0,0.933634
+influence maximization,S0293,B,0,0,curated-fallback,94.0,6.0,0.740331
+influence maximization,S0276,B,1,0,seminal-doi,81536.0,238.0,0.934081
+influence maximization,S0919,B,0,0,unresolved,,,
+influence maximization,S0859,B,0,0,seminal-doi,3554.0,82.0,0.872493
+influence maximization,S0176,A,1,1,seminal-doi,8812.0,98.0,0.924504
+influence maximization,S0051,B,1,0,seminal-doi,1457.0,3.0,0.911245
+influence maximization,S0832,B,0,0,seminal-doi,545.0,13.0,0.917814
+interdependent networks,S0807,A,1,1,seminal-doi,39364.0,518.0,0.947442
+interdependent networks,S0265,A,1,0,seminal-doi,8772.0,193.0,0.94839
+interdependent networks,S1399,A,1,1,seminal-doi,93947.0,1278.0,0.946794
+interdependent networks,S0541,A,1,0,seminal-doi,177781.0,1973.0,0.936074
+k-core decomposition,S0524,A,1,0,curated-fallback|no-career-record,,,
+k-core decomposition,S0630,A,1,1,seminal-doi,6299.0,147.0,0.93152
+k-core decomposition,S0902,A,1,0,seminal-doi,8564.0,190.0,0.911297
+k-core decomposition,S1399,A,1,0,seminal-doi,93947.0,1278.0,0.924108
+k-core decomposition,S1388,A,0,0,unresolved,,,
+k-core decomposition,S0421,A,1,0,curated-fallback,244.0,8.0,0.808521
+k-core decomposition,S0456,A,0,0,unresolved,,,
+k-core decomposition,S1428,A,0,0,unresolved,,,
+k-core decomposition,S1189,A,1,1,seminal-doi,402.0,8.0,0.919517
+label propagation,S0798,B,1,0,curated-fallback,1105.0,16.0,0.789809
+label propagation,S0534,A,1,0,seminal-doi,11580.0,272.0,0.902551
+label propagation,S0765,A,1,0,curated-fallback|no-career-record,,,
+label propagation,S1169,B,1,0,curated-fallback,50.0,4.0,0.769015
+label propagation,S1447,A,1,0,curated-fallback,168.0,6.0,0.774509
+linear threshold model,S1311,A,1,1,seminal-doi,1370.0,10.0,0.879648
+linear threshold model,S1228,A,1,1,seminal-doi,13108.0,129.0,0.918239
+linear threshold model,S0849,A,1,1,seminal-doi,40833.0,279.0,0.917421
+linear threshold model,S0176,A,1,1,seminal-doi,8812.0,98.0,0.907399
+linear threshold model,S0270,A,1,0,seminal-doi,16711.0,241.0,0.931807
+linear threshold model,S0246,A,1,1,seminal-doi,74525.0,155.0,0.936978
+local bridges,S0853,A,1,0,seminal-doi,12923.0,69.0,0.885235
+local bridges,S0335,B,1,0,seminal-doi,3189.0,146.0,0.883754
+local bridges,S1311,A,1,1,seminal-doi,1370.0,10.0,0.845597
+local bridges,S0833,A,1,0,curated-fallback,803.0,2.0,0.837327
+local bridges,S0270,B,1,0,seminal-doi,16711.0,241.0,0.901711
+max-flow min-cut,S0184,A,1,1,seminal-doi,3982.0,19.0,0.918713
+max-flow min-cut,S0603,B,1,0,curated-fallback,5890.0,3.0,0.749738
+max-flow min-cut,S0704,B,1,0,curated-fallback,7812.0,135.0,0.801575
+max-flow min-cut,S1344,A,1,0,curated-fallback,10995.0,287.0,0.833389
+max-flow min-cut,S1285,B,0,0,dropped-web-recovered,8610.0,106.0,0.927658
+max-flow min-cut,S0439,A,0,1,seminal-doi,111185.0,67.0,0.883776
+metabolic networks,S0287,A,0,0,seminal-doi,83773.0,255.0,0.929449
+metabolic networks,S0724,A,1,0,seminal-doi,180923.0,359.0,0.941805
+metabolic networks,S0861,A,1,1,seminal-doi,9985.0,159.0,0.956926
+metabolic networks,S1439,B,0,1,curated-fallback,8576.0,120.0,0.944368
+metabolic networks,S0055,B,0,0,unresolved,,,
+metabolic networks,S0755,A,1,0,seminal-doi,32189.0,254.0,0.939438
+metabolic networks,S1426,A,0,0,curated-fallback,16274.0,339.0,0.919817
+metabolic networks,S0043,A,1,0,seminal-doi,34955.0,131.0,0.945251
+metabolic networks,S0690,A,1,0,seminal-doi,12690.0,241.0,0.941586
+metabolic networks,S0331,A,1,0,seminal-doi,16876.0,272.0,0.943916
+modularity,S0857,B,1,1,seminal-doi,38287.0,265.0,0.954534
+modularity,S0088,A,1,1,seminal-doi,32306.0,132.0,0.940458
+modularity,S1256,A,1,1,seminal-doi,146240.0,322.0,0.954032
+multilayer networks,S1183,A,1,1,seminal-doi,35253.0,428.0,0.949866
+multilayer networks,S0354,A,1,1,seminal-doi,21229.0,469.0,0.931939
+multilayer networks,S1047,A,1,1,seminal-doi,34963.0,506.0,0.943878
+multilayer networks,S0807,A,1,0,seminal-doi,39364.0,518.0,0.916274
+multilayer networks,S0199,B,0,0,unresolved,,,
+multilayer networks,S0934,B,0,0,seminal-doi,15861.0,236.0,0.926177
+multilayer networks,S0711,B,0,0,seminal-doi,16557.0,355.0,0.951087
+multilayer networks,S0321,B,0,0,seminal-doi,8936.0,186.0,0.934032
+multilayer networks,S0327,B,1,0,seminal-doi,10937.0,159.0,0.931554
+multilayer networks,S0914,B,0,0,unresolved,,,
+multilayer networks,S1406,A,1,1,seminal-doi,7769.0,123.0,0.940532
+multilayer networks,S0318,B,0,0,seminal-doi,44227.0,476.0,0.936464
+multilayer networks,S0742,B,0,0,seminal-doi,2534.0,57.0,0.890258
+multilayer networks,S0878,A,1,0,seminal-doi,44672.0,550.0,0.955926
+multilayer networks,S0243,A,1,1,seminal-doi,12587.0,268.0,0.914661
+multilayer networks,S0628,B,1,0,seminal-doi,6998.0,140.0,0.933762
+multilayer networks,S1107,B,0,0,seminal-doi,18856.0,401.0,0.911377
+multilayer networks,S0114,A,0,1,seminal-doi,23959.0,493.0,0.94941
+multilayer networks,S0241,B,0,0,unresolved,,,
+multilayer networks,S0859,B,0,0,seminal-doi,3554.0,82.0,0.87594
+multilayer networks,S1368,B,0,0,seminal-doi,759.0,4.0,0.886336
+multilayer networks,S1382,B,0,0,curated-fallback,7.0,2.0,0.826335
+multiplex networks,S1183,A,1,1,seminal-doi,35253.0,428.0,0.945423
+multiplex networks,S0573,A,1,0,seminal-doi,32454.0,306.0,0.939236
+multiplex networks,S0580,A,1,0,seminal-doi,8387.0,172.0,0.937844
+multiplex networks,S0354,A,1,1,seminal-doi,21229.0,469.0,0.943593
+multiplex networks,S1047,A,1,0,seminal-doi,34963.0,506.0,0.942419
+multiplex networks,S0558,B,0,0,seminal-doi,13155.0,214.0,0.925247
+multiplex networks,S0807,B,0,1,seminal-doi,39364.0,518.0,0.905797
+multiplex networks,S0261,B,0,0,dropped-web-recovered,931.0,34.0,0.919727
+multiplex networks,S0911,B,0,0,dropped-web-recovered,5921.0,127.0,0.940945
+multiplex networks,S0934,B,0,0,seminal-doi,15861.0,236.0,0.923318
+multiplex networks,S0711,B,1,0,seminal-doi,16557.0,355.0,0.943637
+multiplex networks,S1354,B,0,0,unresolved,,,
+multiplex networks,S0321,B,0,0,seminal-doi,8936.0,186.0,0.930688
+multiplex networks,S0280,B,0,0,seminal-doi,17238.0,290.0,0.942736
+multiplex networks,S0327,B,0,1,seminal-doi,10937.0,159.0,0.93791
+multiplex networks,S0186,B,0,0,unresolved,,,
+multiplex networks,S1399,B,0,1,seminal-doi,93947.0,1278.0,0.9154
+multiplex networks,S1406,A,1,1,seminal-doi,7769.0,123.0,0.944687
+multiplex networks,S0318,B,1,0,seminal-doi,44227.0,476.0,0.946413
+multiplex networks,S1316,B,0,0,unresolved,,,
+multiplex networks,S0878,A,1,0,seminal-doi,44672.0,550.0,0.950296
+multiplex networks,S0628,B,1,0,seminal-doi,6998.0,140.0,0.946413
+multiplex networks,S0086,B,0,0,seminal-doi,6097.0,20.0,0.90854
+multiplex networks,S0151,B,0,0,seminal-doi,5901.0,35.0,0.890352
+multiplex networks,S0114,A,0,1,seminal-doi,23959.0,493.0,0.943181
+multiplex networks,S0795,B,0,0,unresolved,,,
+multiplex networks,S0118,B,0,0,dropped-web-recovered,6662.0,121.0,0.942793
+multiplex networks,S1224,B,0,0,seminal-doi,6248.0,124.0,0.926863
+multiplex networks,S1382,B,0,0,curated-fallback,7.0,2.0,0.818728
+multiplex networks,S0541,B,0,0,seminal-doi,177781.0,1973.0,0.900129
+multiplex networks,S0051,B,0,0,seminal-doi,1457.0,3.0,0.861827
+multiplex networks,S0208,B,0,0,dropped-web-recovered,9385.0,237.0,0.939413
+multiplex networks,S0385,B,0,0,seminal-doi,16601.0,249.0,0.913533
+network controllability,S0724,A,1,0,seminal-doi,180923.0,359.0,0.947344
+network controllability,S1157,A,0,0,unresolved,,,
+network controllability,S1203,A,0,0,seminal-doi,1711.0,41.0,0.862858
+network controllability,S0500,A,0,0,seminal-doi,961.0,91.0,0.870077
+network controllability,S0386,A,1,1,seminal-doi,30869.0,415.0,0.940059
+network controllability,S1424,A,0,0,curated-fallback,12645.0,150.0,0.809155
+network controllability,S0344,A,1,1,seminal-doi,762.0,22.0,0.948296
+network controllability,S1243,A,0,0,seminal-doi,2528.0,80.0,0.892877
+network density,S1363,A,0,0,seminal-doi,607.0,8.0,0.849613
+network density,S0459,A,1,0,curated-fallback,8514.0,219.0,0.846226
+network density,S0486,A,1,1,curated-fallback|no-career-record,,,
+network density,S0164,B,0,0,curated-fallback,1669.0,44.0,0.826479
+network density,S0601,B,1,1,seminal-doi,2453.0,28.0,0.925263
+network density,S0814,A,0,0,curated-fallback,59253.0,996.0,0.833022
+network density,S1311,B,1,1,seminal-doi,1370.0,10.0,0.887118
+network density,S0392,B,0,0,unresolved,,,
+network density,S1204,B,0,0,dropped-web-recovered,4143.0,32.0,0.893448
+network density,S0083,B,0,0,curated-fallback,2028.0,57.0,0.895209
+network density,S0730,A,1,0,curated-fallback|no-career-record,,,
+network density,S0878,B,0,0,seminal-doi,44672.0,550.0,0.927524
+network density,S1413,B,1,1,seminal-doi,5437.0,87.0,0.953169
+network diameter,S0287,A,1,1,seminal-doi,83773.0,255.0,0.941225
+network diameter,S0724,A,1,0,seminal-doi,180923.0,359.0,0.941803
+network diameter,S0432,B,0,0,unresolved,,,
+network diameter,S1108,A,1,1,curated-fallback,881.0,37.0,0.850897
+network diameter,S0479,A,0,0,seminal-doi,6620.0,114.0,0.908333
+network diameter,S1139,A,1,0,seminal-doi,8410.0,262.0,0.911846
+network diameter,S0849,B,0,0,seminal-doi,40833.0,279.0,0.92796
+network diameter,S0276,A,1,0,seminal-doi,81536.0,238.0,0.930297
+network diameter,S1462,A,1,1,curated-fallback,140.0,8.0,0.897787
+network diameter,S1030,A,1,1,curated-fallback,473.0,5.0,0.80263
+network diameter,S1196,A,1,1,seminal-doi,78910.0,257.0,0.929763
+network diameter,S0246,A,1,1,seminal-doi,74525.0,155.0,0.933023
+network motifs,S1306,A,1,1,seminal-doi,53248.0,331.0,0.944535
+network motifs,S1213,A,1,0,seminal-doi,20505.0,187.0,0.91257
+network motifs,S0866,A,1,1,seminal-doi,36084.0,161.0,0.948347
+network motifs,S1092,A,1,1,seminal-doi,12475.0,53.0,0.944535
+network motifs,S0644,A,1,1,seminal-doi,5656.0,36.0,0.895713
+network motifs,S1427,A,1,1,seminal-doi,49135.0,207.0,0.944535
+network motifs,S1225,A,1,0,seminal-doi,21624.0,131.0,0.93641
+network resilience,S0287,A,1,1,seminal-doi,83773.0,255.0,0.925286
+network resilience,S0139,B,0,0,dropped-web-recovered,10074.0,431.0,0.923946
+network resilience,S0724,A,1,0,seminal-doi,180923.0,359.0,0.932912
+network resilience,S1215,B,0,0,seminal-doi,13507.0,221.0,0.921564
+network resilience,S0807,A,1,1,seminal-doi,39364.0,518.0,0.934202
+network resilience,S0377,B,0,0,seminal-doi,12962.0,203.0,0.892123
+network resilience,S0028,A,1,0,seminal-doi,10762.0,166.0,0.9368
+network resilience,S0355,B,1,0,seminal-doi,5426.0,18.0,0.921834
+network resilience,S0104,B,0,0,seminal-doi,3575.0,13.0,0.927874
+network resilience,S1399,A,1,1,seminal-doi,93947.0,1278.0,0.93709
+network resilience,S0111,B,0,0,dropped-web-recovered,18574.0,573.0,0.929357
+network resilience,S0755,A,0,1,seminal-doi,32189.0,254.0,0.917064
+network resilience,S0092,B,0,0,seminal-doi,27464.0,796.0,0.937519
+network resilience,S0318,B,0,0,seminal-doi,44227.0,476.0,0.931037
+network resilience,S1073,B,0,0,seminal-doi,10114.0,22.0,0.928216
+network resilience,S0841,B,0,0,dropped-web-recovered,3736.0,138.0,0.929638
+network resilience,S1054,B,1,0,seminal-doi,12783.0,312.0,0.938482
+network resilience,S1256,B,1,0,seminal-doi,146240.0,322.0,0.91609
+network resilience,S1400,A,1,0,seminal-doi,3248.0,18.0,0.929802
+network resilience,S1196,B,0,1,seminal-doi,78910.0,257.0,0.911376
+network resilience,S0246,B,1,1,seminal-doi,74525.0,155.0,0.920093
+node2vec / DeepWalk,S0702,A,1,1,seminal-doi,13900.0,31.0,0.955111
+node2vec / DeepWalk,S0468,B,0,0,unresolved,,,
+node2vec / DeepWalk,S0713,A,1,1,seminal-doi,12760.0,21.0,0.914626
+node2vec / DeepWalk,S0276,A,1,1,seminal-doi,81536.0,238.0,0.945578
+node2vec / DeepWalk,S0163,A,1,0,seminal-doi,13271.0,235.0,0.923504
+node2vec / DeepWalk,S1004,A,1,1,seminal-doi,20044.0,80.0,0.896018
+node2vec / DeepWalk,S1335,B,0,0,seminal-doi,8817.0,184.0,0.879764
+node2vec / DeepWalk,S0299,A,1,1,seminal-doi,10286.0,100.0,0.957403
+node2vec / DeepWalk,S1152,A,0,0,unresolved,,,
+node2vec / DeepWalk,S1237,A,1,1,seminal-doi,16470.0,287.0,0.952364
+node2vec / DeepWalk,S1263,A,0,0,seminal-doi,25780.0,267.0,0.862638
+node2vec / DeepWalk,S0051,B,0,0,seminal-doi,1457.0,3.0,0.857238
+node2vec / DeepWalk,S0133,A,0,0,seminal-doi,4112.0,114.0,0.906008
+node2vec / DeepWalk,S1141,A,0,0,seminal-doi,16888.0,294.0,0.911116
+node2vec / DeepWalk,S0677,B,0,0,seminal-doi,12.0,2.0,0.893242
+overlapping communities,S0470,A,1,0,seminal-doi,10403.0,197.0,0.941412
+overlapping communities,S0675,A,1,0,curated-fallback,13946.0,139.0,0.890863
+overlapping communities,S0635,B,0,0,dropped-web-recovered,4147.0,97.0,0.908676
+overlapping communities,S0633,A,0,0,seminal-doi,4526.0,140.0,0.945759
+overlapping communities,S0805,B,0,0,dropped-web-recovered,16.0,6.0,0.881145
+overlapping communities,S1072,B,0,0,seminal-doi,2080.0,221.0,0.942424
+overlapping communities,S0823,A,1,1,seminal-doi,10124.0,135.0,0.92547
+overlapping communities,S0797,B,0,0,unresolved,,,
+overlapping communities,S0830,A,1,1,seminal-doi,12982.0,62.0,0.935219
+overlapping communities,S0231,B,0,0,dropped-web-recovered,17926.0,324.0,0.940248
+overlapping communities,S0088,B,0,0,seminal-doi,32306.0,132.0,0.943695
+overlapping communities,S0940,B,0,0,unresolved,,,
+overlapping communities,S0915,B,0,0,seminal-doi,34390.0,398.0,0.939441
+overlapping communities,S0685,B,1,0,curated-fallback,2705.0,117.0,0.838993
+overlapping communities,S0419,A,0,0,seminal-doi,9393.0,209.0,0.941966
+overlapping communities,S0276,A,0,0,seminal-doi,81536.0,238.0,0.955157
+overlapping communities,S0141,B,0,0,seminal-doi,538.0,15.0,0.915845
+overlapping communities,S1256,B,0,1,seminal-doi,146240.0,322.0,0.950516
+overlapping communities,S0507,A,1,1,seminal-doi,8886.0,125.0,0.940344
+overlapping communities,S0190,B,0,0,dropped-web-recovered,16087.0,313.0,0.935593
+overlapping communities,S1086,B,0,0,dropped-web-recovered,2551.0,170.0,0.943557
+overlapping communities,S1184,B,0,0,seminal-doi,11017.0,518.0,0.947653
+overlapping communities,S0252,A,1,1,seminal-doi,45575.0,394.0,0.931231
+overlapping communities,S0108,B,0,1,curated-fallback,482.0,14.0,0.809232
+overlapping communities,S0832,A,0,0,seminal-doi,545.0,13.0,0.922141
+percolation theory,S0277,B,1,1,curated-fallback,29637.0,667.0,0.922323
+percolation theory,S0287,A,1,0,seminal-doi,83773.0,255.0,0.934442
+percolation theory,S0724,A,0,0,seminal-doi,180923.0,359.0,0.935584
+percolation theory,S1215,B,0,0,seminal-doi,13507.0,221.0,0.934882
+percolation theory,S0996,A,1,1,curated-fallback,20.0,2.0,0.776765
+percolation theory,S0377,B,1,0,seminal-doi,12962.0,203.0,0.910908
+percolation theory,S0028,B,1,0,seminal-doi,10762.0,166.0,0.948357
+percolation theory,S0104,B,0,0,seminal-doi,3575.0,13.0,0.934956
+percolation theory,S0896,B,0,0,dropped-web-recovered,4546.0,98.0,0.92056
+percolation theory,S1021,B,1,1,seminal-doi,69901.0,441.0,0.89012
+percolation theory,S0383,A,1,1,curated-fallback,260.0,16.0,0.853103
+percolation theory,S1399,B,0,0,seminal-doi,93947.0,1278.0,0.936709
+percolation theory,S0755,A,0,0,seminal-doi,32189.0,254.0,0.929812
+percolation theory,S1256,B,0,0,seminal-doi,146240.0,322.0,0.938177
+percolation theory,S0414,B,1,1,curated-fallback,536.0,3.0,0.838309
+percolation theory,S0969,B,1,1,curated-fallback,10221.0,137.0,0.894336
+percolation theory,S1196,B,0,0,seminal-doi,78910.0,257.0,0.932065
+percolation theory,S0246,A,1,1,seminal-doi,74525.0,155.0,0.937853
+preferential attachment,S0287,A,1,1,seminal-doi,83773.0,255.0,0.919903
+preferential attachment,S0724,A,1,0,seminal-doi,180923.0,359.0,0.937642
+preferential attachment,S0354,B,0,0,seminal-doi,21229.0,469.0,0.927608
+preferential attachment,S0062,B,1,1,seminal-doi,14979.0,258.0,0.926322
+preferential attachment,S0943,B,1,1,seminal-doi,12724.0,607.0,0.931037
+preferential attachment,S0827,B,1,0,seminal-doi,5047.0,233.0,0.89365
+preferential attachment,S0662,B,1,1,seminal-doi,15236.0,345.0,0.930257
+preferential attachment,S0407,A,1,1,seminal-doi,5540.0,77.0,0.884167
+preferential attachment,S0074,B,1,1,seminal-doi,22806.0,507.0,0.930277
+preferential attachment,S0505,B,0,0,dropped-web-recovered,2560.0,48.0,0.918632
+preferential attachment,S1081,A,1,1,seminal-doi,93111.0,582.0,0.885545
+preferential attachment,S0593,B,0,0,unresolved,,,
+preferential attachment,S1288,A,1,1,seminal-doi,7609.0,142.0,0.889477
+protein-protein interaction networks,S0287,A,0,0,seminal-doi,83773.0,255.0,0.943228
+protein-protein interaction networks,S1464,B,0,0,dropped-web-recovered,86802.0,509.0,0.945386
+protein-protein interaction networks,S0724,A,1,0,seminal-doi,180923.0,359.0,0.956524
+protein-protein interaction networks,S0539,A,0,0,unresolved,,,
+protein-protein interaction networks,S0945,B,0,0,unresolved,,,
+protein-protein interaction networks,S0865,B,0,0,unresolved,,,
+protein-protein interaction networks,S0381,A,1,1,seminal-doi,42755.0,236.0,0.943657
+protein-protein interaction networks,S0403,B,0,1,curated-fallback,17964.0,72.0,0.954071
+protein-protein interaction networks,S1332,B,0,0,unresolved,,,
+protein-protein interaction networks,S0931,B,0,0,dropped-web-recovered,16131.0,66.0,0.947357
+protein-protein interaction networks,S1008,A,1,0,seminal-doi,13601.0,235.0,0.935435
+protein-protein interaction networks,S0755,A,1,1,seminal-doi,32189.0,254.0,0.935712
+protein-protein interaction networks,S0947,B,1,0,seminal-doi,49012.0,259.0,0.919581
+protein-protein interaction networks,S0476,B,0,0,unresolved,,,
+protein-protein interaction networks,S0043,A,1,0,seminal-doi,34955.0,131.0,0.948086
+protein-protein interaction networks,S0921,A,1,0,seminal-doi,12771.0,54.0,0.946667
+protein-protein interaction networks,S0998,B,0,0,unresolved,,,
+protein-protein interaction networks,S1419,B,0,0,dropped-web-recovered,6302.0,37.0,0.95866
+protein-protein interaction networks,S0790,A,1,0,seminal-doi,63257.0,106.0,0.945968
+protein-protein interaction networks,S0858,B,0,0,dropped-web-recovered,1879.0,11.0,0.910838
+protein-protein interaction networks,S1042,A,1,0,seminal-doi,7811.0,104.0,0.945301
+protein-protein interaction networks,S1015,B,0,0,unresolved,,,
+protein-protein interaction networks,S0839,A,1,0,seminal-doi,14683.0,153.0,0.951776
+protein-protein interaction networks,S1396,B,0,0,unresolved,,,
+protein-protein interaction networks,S0780,A,0,1,seminal-doi,61135.0,315.0,0.958765
+protein-protein interaction networks,S1282,A,0,0,unresolved,,,
+protein-protein interaction networks,S0547,B,0,0,unresolved,,,
+protein-protein interaction networks,S0778,B,0,0,dropped-web-recovered,32873.0,255.0,0.960168
+protein-protein interaction networks,S0609,B,0,0,unresolved,,,
+random failures vs targeted attacks,S0287,A,1,1,seminal-doi,83773.0,255.0,0.927005
+random failures vs targeted attacks,S0724,A,1,0,seminal-doi,180923.0,359.0,0.926533
+random failures vs targeted attacks,S0377,A,0,0,seminal-doi,12962.0,203.0,0.900766
+random failures vs targeted attacks,S0028,A,1,0,seminal-doi,10762.0,166.0,0.940243
+random failures vs targeted attacks,S0104,A,1,1,seminal-doi,3575.0,13.0,0.933485
+random failures vs targeted attacks,S1399,A,1,0,seminal-doi,93947.0,1278.0,0.939529
+random failures vs targeted attacks,S0755,A,1,1,seminal-doi,32189.0,254.0,0.920995
+random failures vs targeted attacks,S1256,A,1,0,seminal-doi,146240.0,322.0,0.925777
+random failures vs targeted attacks,S1196,A,1,1,seminal-doi,78910.0,257.0,0.920422
+random failures vs targeted attacks,S0246,A,1,1,seminal-doi,74525.0,155.0,0.921506
+random geometric graph,S1108,A,0,0,curated-fallback,881.0,37.0,0.849749
+random geometric graph,S1071,B,0,0,dropped-web-recovered,9145.0,214.0,0.922122
+random geometric graph,S0708,A,1,1,curated-fallback,371.0,4.0,0.789041
+random geometric graph,S1013,B,1,1,curated-fallback,12029.0,270.0,0.836845
+random geometric graph,S1232,B,0,0,unresolved,,,
+random geometric graph,S0756,B,0,0,curated-fallback,52449.0,338.0,0.828644
+random geometric graph,S0461,A,1,0,curated-fallback|no-career-record,,,
+random geometric graph,S1212,B,1,1,curated-fallback,38.0,3.0,0.771903
+random geometric graph,S1115,A,1,1,seminal-doi,5584.0,167.0,0.9366
+random geometric graph,S1030,A,0,0,curated-fallback,473.0,5.0,0.801251
+random geometric graph,S0430,B,1,0,seminal-doi,192.0,18.0,0.888735
+random walks on networks,S1301,B,0,0,seminal-doi,6328.0,46.0,0.912365
+random walks on networks,S0850,B,0,0,seminal-doi,16210.0,15.0,0.874818
+random walks on networks,S1063,A,1,1,seminal-doi|no-career-record,,,
+random walks on networks,S0915,A,0,0,seminal-doi,34390.0,398.0,0.949678
+random walks on networks,S1312,B,0,0,seminal-doi,1049.0,2.0,0.896859
+random walks on networks,S0399,A,1,1,seminal-doi,22101.0,317.0,0.908468
+random walks on networks,S1240,A,1,0,curated-fallback,31.0,2.0,0.845892
+random walks on networks,S0469,A,1,0,seminal-doi,11459.0,568.0,0.949678
+random walks on networks,S0245,A,1,0,seminal-doi,3027.0,179.0,0.943381
+random walks on networks,S0596,B,1,0,curated-fallback,2960.0,139.0,0.862533
+random walks on networks,S0161,A,0,0,curated-fallback,2615.0,79.0,0.851656
+random walks on networks,S1132,A,1,1,curated-fallback,128.0,4.0,0.777198
+random walks on networks,S0114,A,0,0,seminal-doi,23959.0,493.0,0.943793
+random walks on networks,S1098,A,0,0,seminal-doi,9045.0,432.0,0.924193
+random walks on networks,S1125,A,0,1,curated-fallback,449.0,16.0,0.818295
+reciprocity,S0211,B,0,0,seminal-doi,4804.0,68.0,0.903207
+reciprocity,S0267,A,1,1,seminal-doi,7291.0,271.0,0.946864
+reciprocity,S1238,B,0,0,dropped-web-recovered,4548.0,127.0,0.895694
+reciprocity,S1139,B,0,0,seminal-doi,8410.0,262.0,0.912064
+reciprocity,S0226,A,1,0,seminal-doi,16320.0,125.0,0.914022
+reciprocity,S1233,A,1,1,seminal-doi,4797.0,35.0,0.903732
+reciprocity,S0391,A,1,0,seminal-doi,1904.0,21.0,0.92645
+reciprocity,S1466,A,1,0,seminal-doi,46002.0,160.0,0.912776
+reciprocity,S0356,B,0,0,curated-fallback,4416.0,53.0,0.859061
+reciprocity,S0233,A,1,0,seminal-doi,114372.0,638.0,0.943589
+reciprocity,S0319,B,1,0,seminal-doi,4124.0,168.0,0.933295
+rich-club coefficient,S1003,A,1,0,seminal-doi,19501.0,296.0,0.930834
+rich-club coefficient,S1178,B,1,0,seminal-doi,17698.0,229.0,0.936196
+rich-club coefficient,S0187,A,1,0,seminal-doi,35547.0,288.0,0.924765
+rich-club coefficient,S0020,A,1,1,curated-fallback,5429.0,102.0,0.866068
+rich-club coefficient,S1375,A,1,0,seminal-doi,6250.0,12.0,0.932197
+rich-club coefficient,S1239,A,0,0,unresolved,,,
+rich-club coefficient,S1436,A,0,0,unresolved,,,
+rich-club coefficient,S0514,B,1,0,seminal-doi,7173.0,88.0,0.945684
+rich-club coefficient,S0030,A,1,0,seminal-doi,102257.0,435.0,0.924765
+rich-club coefficient,S0037,B,1,1,seminal-doi,77948.0,538.0,0.937127
+rich-club coefficient,S0385,A,0,0,seminal-doi,16601.0,249.0,0.918375
+scale-free network,S0287,A,1,1,seminal-doi,83773.0,255.0,0.950993
+scale-free network,S0724,A,1,0,seminal-doi,180923.0,359.0,0.96192
+scale-free network,S1364,A,0,0,seminal-doi,10508.0,131.0,0.889833
+scale-free network,S0062,A,0,0,seminal-doi,14979.0,258.0,0.944414
+scale-free network,S0755,A,1,0,seminal-doi,32189.0,254.0,0.958316
+scale-free network,S0756,A,0,0,curated-fallback,52449.0,338.0,0.842714
+scale-free network,S0968,A,0,0,unresolved,,,
+scale-free network,S0662,A,0,0,seminal-doi,15236.0,345.0,0.944414
+scale-free network,S0570,A,0,0,seminal-doi,3873.0,5.0,0.892824
+scale-free network,S1281,A,0,0,curated-fallback,110.0,14.0,0.816187
+scale-free network,S1128,A,0,0,unresolved,,,
+scale-free network,S1196,A,1,1,seminal-doi,78910.0,257.0,0.933679
+scale-free network,S0374,A,0,0,curated-fallback|no-career-record,,,
+scale-free network,S0246,A,1,1,seminal-doi,74525.0,155.0,0.931351
+scale-free network,S1187,A,0,0,unresolved,,,
+self-organized criticality,S0018,A,1,1,seminal-doi,23995.0,143.0,0.947499
+self-organized criticality,S0563,A,0,0,unresolved,,,
+self-organized criticality,S1402,A,1,1,curated-fallback,5349.0,352.0,0.934168
+self-organized criticality,S1263,A,1,1,seminal-doi,25780.0,267.0,0.935949
+self-organized criticality,S1259,A,1,1,seminal-doi,21753.0,162.0,0.934856
+simplicial complexes (higher-order networks),S0580,A,1,1,seminal-doi,8387.0,172.0,0.967498
+simplicial complexes (higher-order networks),S0354,A,1,1,seminal-doi,21229.0,469.0,0.961393
+simplicial complexes (higher-order networks),S1166,A,1,0,seminal-doi,8521.0,159.0,0.967008
+six degrees of separation,S0486,B,1,0,curated-fallback|no-career-record,,,
+six degrees of separation,S1311,A,1,1,seminal-doi,1370.0,10.0,0.871818
+six degrees of separation,S1362,A,1,1,curated-fallback|no-career-record,,,
+six degrees of separation,S1219,A,1,1,seminal-doi,845.0,43.0,0.902146
+six degrees of separation,S1462,A,1,1,curated-fallback,140.0,8.0,0.916406
+six degrees of separation,S1394,A,1,1,seminal-doi,708.0,53.0,0.890538
+six degrees of separation,S1196,A,1,1,seminal-doi,78910.0,257.0,0.927837
+six degrees of separation,S0017,A,1,1,curated-fallback|no-career-record,,,
+six degrees of separation,S0246,A,1,1,seminal-doi,74525.0,155.0,0.931816
+social capital,S0625,A,1,1,curated-fallback,68070.0,434.0,0.926396
+social capital,S0853,A,1,1,seminal-doi,12923.0,69.0,0.945823
+social capital,S0941,A,1,1,curated-fallback,7307.0,439.0,0.801993
+social capital,S1311,A,1,1,seminal-doi,1370.0,10.0,0.888871
+social capital,S1203,A,1,1,seminal-doi,1711.0,41.0,0.86004
+social capital,S0061,A,1,1,curated-fallback,5190.0,5.0,0.887486
+spectral clustering,S0511,B,0,0,seminal-doi,13871.0,269.0,0.908047
+spectral clustering,S0840,A,1,1,curated-fallback,3.0,3.0,0.824201
+spectral clustering,S0026,B,1,0,seminal-doi,1421.0,13.0,0.886477
+spectral clustering,S1130,A,1,1,seminal-doi,93611.0,909.0,0.931934
+spectral clustering,S0665,B,0,0,seminal-doi,9607.0,372.0,0.907184
+spectral clustering,S1120,A,1,1,curated-fallback,185.0,25.0,0.821978
+spectral clustering,S1151,A,1,1,seminal-doi,49505.0,253.0,0.892211
+spectral clustering,S0117,A,1,1,seminal-doi,20496.0,118.0,0.91707
+spectral clustering,S1099,A,1,1,seminal-doi,15352.0,80.0,0.898532
+spectral gap,S1306,A,0,0,seminal-doi,53248.0,331.0,0.917327
+spectral gap,S0398,A,0,1,curated-fallback|no-career-record,,,
+spectral gap,S0511,A,1,0,seminal-doi,13871.0,269.0,0.913279
+spectral gap,S1190,B,1,1,seminal-doi,13871.0,269.0,0.913279
+spectral gap,S0650,B,1,0,curated-fallback,2191.0,104.0,0.872133
+spectral gap,S0840,A,1,0,curated-fallback,3.0,3.0,0.809247
+spectral gap,S0988,A,1,0,seminal-doi,6703.0,180.0,0.887173
+spectral gap,S0856,A,1,1,curated-fallback,8493.0,237.0,0.842431
+spectral gap,S0884,A,1,0,seminal-doi,4348.0,114.0,0.891769
+stochastic actor-oriented models (SIENA),S1360,B,1,0,seminal-doi,2908.0,18.0,0.941408
+stochastic actor-oriented models (SIENA),S0161,B,1,0,curated-fallback,2615.0,79.0,0.832197
+stochastic actor-oriented models (SIENA),S0637,A,1,1,curated-fallback,93.0,2.0,0.769061
+stochastic actor-oriented models (SIENA),S1429,A,1,1,seminal-doi,21050.0,206.0,0.960797
+stochastic actor-oriented models (SIENA),S0668,A,1,1,seminal-doi,6911.0,71.0,0.959025
+stochastic block model,S0675,A,1,1,curated-fallback,13946.0,139.0,0.871872
+stochastic block model,S0226,A,1,1,seminal-doi,16320.0,125.0,0.928956
+stochastic block model,S0752,A,1,1,seminal-doi,4501.0,158.0,0.914872
+stochastic block model,S1233,A,1,1,seminal-doi,4797.0,35.0,0.928956
+stochastic block model,S0248,A,1,0,seminal-doi,1765.0,25.0,0.931922
+stochastic block model,S1429,A,1,0,seminal-doi,21050.0,206.0,0.941915
+stochastic block model,S0051,A,1,0,seminal-doi,1457.0,3.0,0.901488
+stochastic block model,S0562,A,1,0,curated-fallback|no-career-record,,,
+strength of weak ties,S0853,A,1,1,seminal-doi,12923.0,69.0,0.937653
+strength of weak ties,S1311,A,1,1,seminal-doi,1370.0,10.0,0.879472
+strength of weak ties,S1203,A,1,0,seminal-doi,1711.0,41.0,0.868846
+strength of weak ties,S0362,A,0,0,unresolved,,,
+strength of weak ties,S0718,B,0,0,unresolved,,,
+strength of weak ties,S0246,A,0,0,seminal-doi,74525.0,155.0,0.926934
+structural balance,S0211,A,1,1,seminal-doi,4804.0,68.0,0.922293
+structural balance,S0364,A,1,1,curated-fallback,18493.0,255.0,0.852803
+structural balance,S1139,A,1,1,seminal-doi,8410.0,262.0,0.937867
+structural balance,S0992,A,1,1,curated-fallback,10519.0,149.0,0.842397
+structural holes,S0853,A,1,1,seminal-doi,12923.0,69.0,0.939248
+supracentrality,S0243,A,1,1,seminal-doi,12587.0,268.0,0.956527
+supracentrality,S0114,A,1,1,seminal-doi,23959.0,493.0,0.944764
+supracentrality,S0577,A,1,0,seminal-doi,1952.0,88.0,0.968912
+temporal networks,S0676,B,1,0,seminal-doi,1270.0,87.0,0.945456
+temporal networks,S0910,A,1,1,seminal-doi,16954.0,354.0,0.965407
+temporal networks,S1228,A,1,0,seminal-doi,13108.0,129.0,0.916147
+temporal networks,S0849,A,1,0,seminal-doi,40833.0,279.0,0.925791
+temporal networks,S0756,A,0,0,curated-fallback,52449.0,338.0,0.851552
+temporal networks,S1079,A,1,1,seminal-doi,14240.0,221.0,0.966557
+transitivity,S0211,A,1,1,seminal-doi,4804.0,68.0,0.888727
+transitivity,S0364,B,0,1,curated-fallback,18493.0,255.0,0.845804
+transitivity,S0601,B,0,1,seminal-doi,2453.0,28.0,0.92316
+transitivity,S1311,A,1,1,seminal-doi,1370.0,10.0,0.862909
+transitivity,S1139,A,1,1,seminal-doi,8410.0,262.0,0.91087
+transitivity,S0992,A,1,1,curated-fallback,10519.0,149.0,0.824913
+transitivity,S0226,A,1,0,seminal-doi,16320.0,125.0,0.895015
+transitivity,S1233,A,1,0,seminal-doi,4797.0,35.0,0.895015
+transitivity,S1256,B,1,0,seminal-doi,146240.0,322.0,0.925239
+transitivity,S0337,B,1,0,seminal-doi,1265.0,38.0,0.884832
+transitivity,S0833,A,0,0,curated-fallback,803.0,2.0,0.844469
+transitivity,S1196,A,1,1,seminal-doi,78910.0,257.0,0.918278
+transitivity,S1413,B,0,1,seminal-doi,5437.0,87.0,0.931879
+transitivity,S0246,A,1,1,seminal-doi,74525.0,155.0,0.916526
+triadic closure,S0211,A,1,1,seminal-doi,4804.0,68.0,0.903428
+triadic closure,S1311,A,1,1,seminal-doi,1370.0,10.0,0.867606
+triadic closure,S1139,A,1,1,seminal-doi,8410.0,262.0,0.922504
+triadic closure,S0992,A,1,1,curated-fallback,10519.0,149.0,0.84569
+triadic closure,S0560,A,1,0,curated-fallback|no-career-record,,,
+triadic closure,S0337,A,1,0,seminal-doi,1265.0,38.0,0.884778
+triadic closure,S0833,A,1,1,curated-fallback,803.0,2.0,0.848929
+triadic closure,S1196,A,0,1,seminal-doi,78910.0,257.0,0.926687
+triadic closure,S0246,A,1,1,seminal-doi,74525.0,155.0,0.921958
+voter model,S0157,A,0,0,seminal-doi,22057.0,443.0,0.936295
+voter model,S1227,B,1,0,seminal-doi,2029.0,59.0,0.900676
+voter model,S0712,A,1,1,seminal-doi,6087.0,70.0,0.912566
+voter model,S0268,A,1,1,curated-fallback,35.0,2.0,0.767523
