@@ -312,7 +312,7 @@ def panel_b():
         ax.text(cov - 2.2, fi, f"{cov:.1f}%", ha="right", va="center", fontsize=LABEL_FS - 1.5, color="0.45")
     ax.set_yticks(range(len(FIELDS)))
     ax.set_yticklabels([FIELD_LABELS[f] for f in FIELDS], fontsize=LABEL_FS)
-    ax.invert_yaxis()
+    ax.set_ylim(len(FIELDS) - 0.45, -0.45)     # bands fill the axes, so b is as tall as a
     ax.set_xlim(0, 100)
     ax.set_xticks(np.arange(0, 101, 20))
     ax.set_xticklabels([f"{t:.0f}%" for t in np.arange(0, 101, 20)])
