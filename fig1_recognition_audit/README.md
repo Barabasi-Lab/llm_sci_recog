@@ -12,7 +12,7 @@ The script recomputes every plotted value from `data/`, including the signal-det
 
 | file | contents |
 |---|---|
-| `output/fig1.png`, `output/fig1.pdf` | the composite, 3850 px wide at 300 dpi (the PDF holds the same raster) |
+| `output/fig1.png`, `output/fig1.pdf` | the composite, 3850 px wide at 300 dpi; the PDF places the vector panels in the same layout, so its text is selectable |
 | `output/panels/fig1{a..g}.pdf` | each panel as a vector PDF |
 | `output/fig1_values.csv` | every plotted point with its 95% CI (in %) |
 

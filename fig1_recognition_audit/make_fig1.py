@@ -518,6 +518,30 @@ def content_box(img):
     return xs[0], ys[0]
 
 
+def vector_pdf(figs, rc, labelled, place, width, total_h):
+    """fig1.pdf with the PNG's layout, but each panel kept as vector PDF (selectable text)."""
+    from pypdf import PdfReader, PdfWriter, Transformation
+    base_buf = io.BytesIO()
+    fig = labelled(None)
+    fig.savefig(base_buf, format="pdf", dpi=DPI, facecolor="white")
+    plt.close(fig)
+    base = PdfReader(base_buf).pages[0]
+    page_h = float(base.mediabox.height)
+    px = 72 / DPI                                    # canvas px -> PDF pt
+    for k, (x, y) in place.items():
+        buf = io.BytesIO()
+        with plt.rc_context(rc[k]):
+            figs[k].savefig(buf, format="pdf", bbox_inches="tight", transparent=True)
+        page = PdfReader(buf).pages[0]
+        s = width[k] * px / float(page.mediabox.width)
+        ty = page_h - y * px - float(page.mediabox.height) * s
+        base.merge_transformed_page(page, Transformation().scale(s).translate(x * px, ty))
+    out = PdfWriter()
+    out.add_page(base)
+    with open(os.path.join(OUT, "fig1.pdf"), "wb") as f:
+        out.write(f)
+
+
 def main():
     os.makedirs(os.path.join(OUT, "panels"), exist_ok=True)
     # tick labels are created at draw time, so every render runs inside its panel's rc context
@@ -535,22 +559,22 @@ def main():
     for k in "abdefg":
         with plt.rc_context(rc[k]):
             imgs[k] = fit_render(figs[k], cw2, H)
-    # panel c: fixed scale, content aligned inside a white cell with the hairline above it
+    # panel c: fixed scale, content aligned inside a white cell
     with plt.rc_context(rc["c"]):
         raw = render(figs["c"], DPI * C_SCALE)
     x0, y0 = content_box(raw)
     cell = np.full((C_CELL[1], C_CELL[0], 3), 255, np.uint8)
     src = raw[y0:, x0:][: C_CELL[1] - C_OFFSET[1], : C_CELL[0] - C_OFFSET[0]]
     cell[C_OFFSET[1]:C_OFFSET[1] + src.shape[0], C_OFFSET[0]:C_OFFSET[0] + src.shape[1]] = src
-    cell[0, :] = 4
     imgs["c"] = cell
-    for f in figs.values():
-        plt.close(f)
+    # rendered width of each panel (sets its PDF scale) and panel c's page offset inside its cell
+    width = {k: imgs[k].shape[1] for k in "abdefg"}
+    width["c"], shift = raw.shape[1], {"c": (C_OFFSET[0] - x0, C_OFFSET[1] - y0)}
 
     heights = [max(imgs[k].shape[0] for k in r) for r in rows]
     total_h = sum(heights) + PAD * (len(rows) + 1)
     canvas = np.full((total_h, W, 3), 255, np.uint8)
-    letters = []
+    letters, place = [], {}
     y = PAD
     for r, rh in zip(rows, heights):
         cw = (W - PAD * (len(r) + 1)) // len(r)
@@ -558,18 +582,27 @@ def main():
             im = imgs[k]
             x = PAD + j * (cw + PAD) + (cw - im.shape[1]) // 2
             canvas[y:y + im.shape[0], x:x + im.shape[1]] = im
+            dx, dy = shift.get(k, (0, 0))
+            place[k] = (x + dx, y + dy)
             letters.append((k, PAD + j * (cw + PAD), y) if k != "c" else (k, 165, y + 2))
         y += rh + PAD
 
-    fig = plt.figure(figsize=(W / DPI, total_h / DPI), dpi=DPI)
-    fig.figimage(canvas, 0, 0, origin="upper")
-    for k, x, yt in letters:
-        # label top-left at (x, yt - 10) with 110-px Arial Bold, as in the published composite
-        fig.text(x / W, 1 - (yt - 10 + 100) / total_h, k, fontsize=110 / DPI * 72, fontweight="bold",
-                 family=["Arial", "Helvetica", "DejaVu Sans"], va="baseline", ha="left")
-    for ext in ("png", "pdf"):
-        fig.savefig(os.path.join(OUT, f"fig1.{ext}"), dpi=DPI)
+    def labelled(image):
+        fig = plt.figure(figsize=(W / DPI, total_h / DPI), dpi=DPI)
+        if image is not None:
+            fig.figimage(image, 0, 0, origin="upper")
+        for k, x, yt in letters:
+            # label top-left at (x, yt - 10) with 110-px Arial Bold, as in the published composite
+            fig.text(x / W, 1 - (yt - 10 + 100) / total_h, k, fontsize=110 / DPI * 72, fontweight="bold",
+                     family=["Arial", "Helvetica", "DejaVu Sans"], va="baseline", ha="left")
+        return fig
+
+    fig = labelled(canvas)
+    fig.savefig(os.path.join(OUT, "fig1.png"), dpi=DPI)
     plt.close(fig)
+    vector_pdf(figs, rc, labelled, place, width, total_h)
+    for f in figs.values():
+        plt.close(f)
 
     pd.DataFrame(VALUES).to_csv(os.path.join(OUT, "fig1_values.csv"), index=False, float_format="%.4f")
     report()
