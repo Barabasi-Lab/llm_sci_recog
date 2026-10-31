@@ -64,7 +64,7 @@ HOUSE_RC = {
 }
 
 CLAUDE_COLOR, GEMINI_COLOR, GPT_COLOR, WIKI_COLOR = "#BB8E13", "#28A969", "#E47091", "#2F9DDD"
-MODELS = [("claude46", "Claude 4.6 Sonnet", CLAUDE_COLOR),
+MODELS = [("claude46", "Claude Sonnet 4.6", CLAUDE_COLOR),
           ("gemini35", "Gemini 3.5 Flash", GEMINI_COLOR),
           ("gpt54", "GPT-5.4", GPT_COLOR)]
 REF = "claude46"

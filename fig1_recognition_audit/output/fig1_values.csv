@@ -1,20 +1,20 @@
 panel,series,group,p,lo,hi,release,median_citations,n
-a,Claude 4.6 Sonnet,physics,17.0143,13.1702,21.5110,,,
+a,Claude Sonnet 4.6,physics,17.0143,13.1702,21.5110,,,
 a,Gemini 3.5 Flash,physics,19.2533,16.9875,21.6948,,,
 a,GPT-5.4,physics,15.3969,11.3667,20.2743,,,
 a,Wikipedia,physics,3.9798,3.6982,4.2777,,,
 a,Google Search,physics,79.5431,,,,,
 a,OpenAlex,physics,95.2000,,,,,
-b,Claude 4.6 Sonnet,Physics,17.0143,13.1702,21.5110,,,
+b,Claude Sonnet 4.6,Physics,17.0143,13.1702,21.5110,,,
 b,Gemini 3.5 Flash,Physics,19.2533,16.9875,21.6948,,,
 b,GPT-5.4,Physics,15.3969,11.3667,20.2743,,,
-b,Claude 4.6 Sonnet,Biology,14.3300,10.9027,18.4193,,,
+b,Claude Sonnet 4.6,Biology,14.3300,10.9027,18.4193,,,
 b,Gemini 3.5 Flash,Biology,16.2618,14.2016,18.5073,,,
 b,GPT-5.4,Biology,14.5390,10.6501,19.2842,,,
-b,Claude 4.6 Sonnet,Chemistry,13.2000,9.9708,17.0864,,,
+b,Claude Sonnet 4.6,Chemistry,13.2000,9.9708,17.0864,,,
 b,Gemini 3.5 Flash,Chemistry,16.3930,14.3213,18.6499,,,
 b,GPT-5.4,Chemistry,13.5129,9.8259,18.0515,,,
-b,Claude 4.6 Sonnet,Social sciences,17.3300,13.4134,21.9067,,,
+b,Claude Sonnet 4.6,Social sciences,17.3300,13.4134,21.9067,,,
 b,Gemini 3.5 Flash,Social sciences,17.9515,15.7490,20.3381,,,
 b,GPT-5.4,Social sciences,16.8914,12.5655,22.0721,,,
 c,GPT-4o (05-13),GPT,13.4728,9.6274,18.2585,2024-05-13,,
@@ -31,26 +31,26 @@ c,Sonnet 4.5,Claude,25.7954,22.5616,29.2543,2025-09-29,,
 c,Sonnet 4.6,Claude,17.4500,12.9198,22.8779,2026-02-17,,
 c,Flash 2.5,Gemini,13.5840,11.4192,16.0142,2025-04-17,,
 c,Flash 3.5,Gemini,15.0445,12.8009,17.5357,2026-05-19,,
-d,Claude 4.6 Sonnet,ventile 1,13.4898,11.4354,15.8544,,0.0000,1019.0000
-d,Claude 4.6 Sonnet,ventile 2,13.6483,11.5845,15.9749,,1.0000,1054.0000
-d,Claude 4.6 Sonnet,ventile 3,12.4345,10.2713,14.8383,,3.0000,885.0000
-d,Claude 4.6 Sonnet,ventile 4,14.7738,12.7307,16.9712,,6.0000,1224.0000
-d,Claude 4.6 Sonnet,ventile 5,13.3455,10.9506,16.0055,,10.0000,774.0000
-d,Claude 4.6 Sonnet,ventile 6,11.9070,9.9506,14.2849,,14.0000,978.0000
-d,Claude 4.6 Sonnet,ventile 7,11.9813,10.0219,14.3602,,19.0000,972.0000
-d,Claude 4.6 Sonnet,ventile 8,13.7734,11.6681,16.1898,,26.0000,1016.0000
-d,Claude 4.6 Sonnet,ventile 9,14.7046,12.5156,17.1019,,35.0000,1016.0000
-d,Claude 4.6 Sonnet,ventile 10,11.8141,9.7587,14.1687,,46.0000,919.0000
-d,Claude 4.6 Sonnet,ventile 11,12.6788,10.6297,14.9264,,61.0000,1047.0000
-d,Claude 4.6 Sonnet,ventile 12,15.5633,13.3015,18.2517,,79.0000,925.0000
-d,Claude 4.6 Sonnet,ventile 13,15.2816,13.0815,17.8133,,105.0000,989.0000
-d,Claude 4.6 Sonnet,ventile 14,16.7832,14.3978,19.3863,,139.0000,946.0000
-d,Claude 4.6 Sonnet,ventile 15,17.9132,15.5250,20.6384,,189.0000,963.0000
-d,Claude 4.6 Sonnet,ventile 16,16.0935,13.7521,18.6188,,275.0000,993.0000
-d,Claude 4.6 Sonnet,ventile 17,18.0264,15.6497,20.7438,,423.0000,986.0000
-d,Claude 4.6 Sonnet,ventile 18,23.6452,20.9240,26.5551,,709.0000,979.0000
-d,Claude 4.6 Sonnet,ventile 19,31.1771,28.1729,34.3061,,1392.0000,969.0000
-d,Claude 4.6 Sonnet,ventile 20,40.9169,37.7195,44.2520,,4289.3567,948.0000
+d,Claude Sonnet 4.6,ventile 1,13.4898,11.4354,15.8544,,0.0000,1019.0000
+d,Claude Sonnet 4.6,ventile 2,13.6483,11.5845,15.9749,,1.0000,1054.0000
+d,Claude Sonnet 4.6,ventile 3,12.4345,10.2713,14.8383,,3.0000,885.0000
+d,Claude Sonnet 4.6,ventile 4,14.7738,12.7307,16.9712,,6.0000,1224.0000
+d,Claude Sonnet 4.6,ventile 5,13.3455,10.9506,16.0055,,10.0000,774.0000
+d,Claude Sonnet 4.6,ventile 6,11.9070,9.9506,14.2849,,14.0000,978.0000
+d,Claude Sonnet 4.6,ventile 7,11.9813,10.0219,14.3602,,19.0000,972.0000
+d,Claude Sonnet 4.6,ventile 8,13.7734,11.6681,16.1898,,26.0000,1016.0000
+d,Claude Sonnet 4.6,ventile 9,14.7046,12.5156,17.1019,,35.0000,1016.0000
+d,Claude Sonnet 4.6,ventile 10,11.8141,9.7587,14.1687,,46.0000,919.0000
+d,Claude Sonnet 4.6,ventile 11,12.6788,10.6297,14.9264,,61.0000,1047.0000
+d,Claude Sonnet 4.6,ventile 12,15.5633,13.3015,18.2517,,79.0000,925.0000
+d,Claude Sonnet 4.6,ventile 13,15.2816,13.0815,17.8133,,105.0000,989.0000
+d,Claude Sonnet 4.6,ventile 14,16.7832,14.3978,19.3863,,139.0000,946.0000
+d,Claude Sonnet 4.6,ventile 15,17.9132,15.5250,20.6384,,189.0000,963.0000
+d,Claude Sonnet 4.6,ventile 16,16.0935,13.7521,18.6188,,275.0000,993.0000
+d,Claude Sonnet 4.6,ventile 17,18.0264,15.6497,20.7438,,423.0000,986.0000
+d,Claude Sonnet 4.6,ventile 18,23.6452,20.9240,26.5551,,709.0000,979.0000
+d,Claude Sonnet 4.6,ventile 19,31.1771,28.1729,34.3061,,1392.0000,969.0000
+d,Claude Sonnet 4.6,ventile 20,40.9169,37.7195,44.2520,,4289.3567,948.0000
 d,Gemini 3.5 Flash,ventile 1,14.3495,12.5564,16.2727,,0.0000,1013.0000
 d,Gemini 3.5 Flash,ventile 2,12.9925,11.3630,14.7768,,1.0000,1052.0000
 d,Gemini 3.5 Flash,ventile 3,15.1117,13.1181,17.2503,,3.0000,881.0000
