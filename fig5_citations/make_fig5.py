@@ -25,6 +25,7 @@ import warnings
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
+from matplotlib.ticker import MaxNLocator
 import numpy as np
 import pandas as pd
 import statsmodels.formula.api as smf
@@ -141,6 +142,7 @@ def draw(axes, groups, sub, k):
         ax.set_ylim(lo - 0.28 * span, yb + 0.22 * span)
         ax.plot([0, 0, 1, 1], [yb - 0.06 * span, yb, yb, yb - 0.06 * span], color="dimgray", lw=1 * k)
         ax.text(0.5, yb + 0.03 * span, star(q.p), ha="center", fontsize=11 * k, color="dimgray")
+        ax.yaxis.set_major_locator(MaxNLocator(steps=[1, 2, 5, 10]))   # no 2.5 steps (keeps one decimal)
         ax.set_xticks([0, 1]); ax.set_xticklabels([])
         ax.tick_params(axis="x", length=4 * k, width=1 * k, color="black", pad=3.5 * k)
         ax.tick_params(axis="y", labelsize=9.5 * k, pad=3.5 * k)
@@ -198,16 +200,23 @@ axa.text(2985, 1379, f"{100 * COUNTS['share_recog']:.1f}% of citations go to rec
          color=c2, **ta)
 
 # ---- b, c: refit margins, drawn as vector axes at the published size
+specs = []
 for groups, panel, x0, letter, first in [(STAGES, "b", PAD, "b", True), (REFAGE, "c", 2 * PAD + HALF, "c", False)]:
     sub = res[res.panel == panel]
     bb, boxes = layout(groups, sub, first)
     s = HALF / (bb.width * DPI)                          # px of the big canvas per px of the small panel
     hpx = bb.height * DPI * s
-    axes = []
+    rects = []
     for bx in boxes:
         X = x0 + (bx.x0 - bb.x0) * DPI * s
         Y = (H - YB - hpx) + (bx.y0 - bb.y0) * DPI * s   # from the bottom
-        axes.append(fig.add_axes([X / W, Y / H, bx.width * DPI * s / W, bx.height * DPI * s / H]))
+        rects.append([X, Y, bx.width * DPI * s, bx.height * DPI * s])
+    specs.append((groups, sub, s, letter, rects))
+# one vertical extent for all six axes, so b and c share their x axes and their tops
+bottom = max(r[1] for *_, rects in specs for r in rects)
+top = min(r[1] + r[3] for *_, rects in specs for r in rects)
+for groups, sub, s, letter, rects in specs:
+    axes = [fig.add_axes([X / W, bottom / H, w / W, (top - bottom) / H]) for X, _, w, _ in rects]
     draw(axes, groups, sub, s)
     fig.text((0 if letter == "b" else PAD + HALF + 9) / W, 1 - (YB - 40 + 22) / H, letter, fontsize=26.4,
              fontweight="bold", family=["Arial", "Helvetica", "DejaVu Sans"], va="top", ha="left")
