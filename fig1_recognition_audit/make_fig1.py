@@ -490,12 +490,12 @@ def panel_g():
 
 
 # ───────────────────────────── composite ────────────────────────────────
-# Layout of the published figure (3850 px wide at 300 dpi): two panels per row,
-# panel c on its own row; each panel scaled to fit its cell (1865 x 1500 px; c: 3620 x 1350).
+# Layout (3850 px wide at 300 dpi): two panels per row, panel c on its own row.
 W, PAD = 3850, 40
 C_SCALE = 1.601          # panel c is drawn 1.6x larger than its native 300-dpi size
-C_CELL = (3620, 1350)
-C_OFFSET = (46, 3)       # where panel c's content box starts inside its cell
+C_ROW_H, C_TOP = 1350, 3  # panel c's row height and the gap above its content
+LABEL_SIZE = 20          # axis-label size as it appears in the composite (pt x render scale)
+YLABEL_X = 90            # left edge of the left-column y labels (a, c, d, f), canvas px
 
 
 def render(fig, dpi):
@@ -505,21 +505,35 @@ def render(fig, dpi):
     return (plt.imread(buf)[..., :3] * 255).round().astype(np.uint8)
 
 
+def set_label_size(fig, s):
+    """Axis labels at LABEL_SIZE once the panel is scaled by s, so all panels match."""
+    for ax in fig.axes:
+        for lab in (ax.xaxis.label, ax.yaxis.label):
+            if lab.get_text():
+                lab.set_fontsize(LABEL_SIZE / s)
+
+
 def row_render(pair, figs, rc):
     """Render a pair of panels at one scale that fills the row width, so both axes boxes have
-    the same size; also return how far to drop each panel so the two x axes line up."""
-    widths, drop, imgs = {}, {}, {}
+    the same size; also return how far to drop each panel so the two x axes line up, and
+    where the left panel's y label (its leftmost element) starts."""
+    s = 1.0
+    for _ in range(3):           # label size and row scale depend on each other; this converges
+        widths = {}
+        for k in pair:
+            with plt.rc_context(rc[k]):
+                set_label_size(figs[k], s)
+                widths[k] = render(figs[k], DPI).shape[1]
+        s = (W - 3 * PAD) / sum(widths.values())
+    imgs, drop = {}, {}
     for k in pair:
         with plt.rc_context(rc[k]):
-            widths[k] = render(figs[k], DPI).shape[1]
-    s = (W - 3 * PAD) / sum(widths.values())
-    for k in pair:
-        with plt.rc_context(rc[k]):
+            set_label_size(figs[k], s)
             imgs[k] = render(figs[k], DPI * s)
             top_in = figs[k].get_tightbbox().y1 + plt.rcParams["savefig.pad_inches"]
         drop[k] = (top_in - MARGIN_B_IN) * DPI * s       # image top -> x axis, in px
     lowest = max(drop.values())
-    return imgs, {k: round(lowest - drop[k]) for k in pair}
+    return imgs, {k: round(lowest - drop[k]) for k in pair}, content_box(imgs[pair[0]])[0]
 
 
 def content_box(img):
@@ -564,24 +578,23 @@ def main():
             figs[k].savefig(os.path.join(OUT, "panels", f"fig1{k}.pdf"), bbox_inches="tight")
 
     rows = [["a", "b"], ["c"], ["d", "e"], ["f", "g"]]
-    imgs, drop = {}, {"c": 0}
+    imgs, drop, lab_x = {}, {}, {}
     for pair in (["a", "b"], ["d", "e"], ["f", "g"]):
-        row_imgs, row_drop = row_render(pair, figs, rc)
+        row_imgs, row_drop, lab_x[pair[0]] = row_render(pair, figs, rc)
         imgs.update(row_imgs)
         drop.update(row_drop)
-    # panel c: fixed scale, content aligned inside a white cell
+    # panel c: fixed scale; its content starts C_TOP below the row top, cropped to the row height
     with plt.rc_context(rc["c"]):
+        set_label_size(figs["c"], C_SCALE)
         raw = render(figs["c"], DPI * C_SCALE)
-    x0, y0 = content_box(raw)
-    cell = np.full((C_CELL[1], C_CELL[0], 3), 255, np.uint8)
-    src = raw[y0:, x0:][: C_CELL[1] - C_OFFSET[1], : C_CELL[0] - C_OFFSET[0]]
-    cell[C_OFFSET[1]:C_OFFSET[1] + src.shape[0], C_OFFSET[0]:C_OFFSET[0] + src.shape[1]] = src
-    imgs["c"] = cell
-    # rendered width of each panel (sets its PDF scale) and panel c's page offset inside its cell
+    lab_x["c"], y0 = content_box(raw)
+    imgs["c"], drop["c"] = raw[y0:y0 + C_ROW_H - C_TOP], C_TOP
+    # rendered width of each panel (sets its PDF scale); panel c's PDF page starts y0 above its crop
     width = {k: imgs[k].shape[1] for k in "abdefg"}
-    width["c"], shift = raw.shape[1], {"c": (C_OFFSET[0] - x0, C_OFFSET[1] - y0)}
+    width["c"], shift = raw.shape[1], {"c": -y0}
 
     heights = [max(drop[k] + imgs[k].shape[0] for k in r) for r in rows]
+    heights[1] = C_ROW_H
     total_h = sum(heights) + PAD * (len(rows) + 1)
     canvas = np.full((total_h, W, 3), 255, np.uint8)
     letters, place = [], {}
@@ -589,15 +602,14 @@ def main():
     for r, rh in zip(rows, heights):
         for j, k in enumerate(r):
             im = imgs[k]
-            if k == "c":
-                x = PAD + (W - 2 * PAD - im.shape[1]) // 2
-            else:      # left panel flush left, right panel flush right: every row spans the same width
-                x = PAD if j == 0 else W - PAD - im.shape[1]
+            # left column: y labels at YLABEL_X; right panels flush right, so rows end together
+            x = round(YLABEL_X - lab_x[k]) if j == 0 else W - PAD - im.shape[1]
+            im = im[:, max(0, -x):W - max(x, 0)]
+            x = max(x, 0)
             yk = y + drop[k]
             canvas[yk:yk + im.shape[0], x:x + im.shape[1]] = im
-            dx, dy = shift.get(k, (0, 0))
-            place[k] = (x + dx, yk + dy)
-            letters.append((k, x, y) if k != "c" else (k, 165, y + 2))
+            place[k] = (round(YLABEL_X - lab_x[k]) if j == 0 else x, yk + shift.get(k, 0))
+            letters.append((k, PAD if j == 0 else x, y))
         y += rh + PAD
 
     def labelled(image):
