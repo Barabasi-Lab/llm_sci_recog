@@ -1,0 +1,14 @@
+# Extra packages for the upstream scripts in */pipeline/ (not needed for make_fig*.py)
+openai                  # OpenRouter (OpenAI-compatible) and OpenAI API clients
+requests
+tqdm
+spacy                   # section 5 alpha tokenisation (en_core_web_sm)
+rapidfuzz               # section 3 attribute scoring
+pycountry               # section 3 attribute scoring
+mlx                     # section 2: OLMo-2-13B, 4-bit MLX, Apple silicon
+mlx-lm
+torch                   # section 3: OLMo-2-7B causal tracing (GPU)
+transformers
+nnsight==0.5.*          # with baukit_patch.py
+baukit
+adapters                # section 4: SPECTER2 proximity adapter
