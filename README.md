@@ -32,7 +32,7 @@ python 4_web_search/make_fig4.py
 python 5_llm_assisted_citations/make_fig5.py
 ```
 
-Each script writes `output/figN.png` and `output/figN.pdf` in its folder and can be run from any directory. All five run on a laptop in under 30 s in total. No API keys, GPU or network access are needed.
+Installing the dependencies takes under a minute on a standard desktop computer. Each script writes `output/figN.png` and `output/figN.pdf` in its folder and can be run from any directory. All five run on a laptop in under 30 s in total. No API keys, GPU or network access are needed.
 
 The scripts recompute every plotted value: signal-detection corrections, survey weights and logit marginals (Fig. 1), binned rates and logistic fits (Fig. 2), quartile means of the causal traces and probe accuracies (Fig. 3), retention rates and adjusted probabilities with bootstrap CIs (Fig. 4), and the citation regressions (Fig. 5). Schematic panels (Fig. 3a–c, Fig. 4a,b drawings, Fig. 5a) are static images.
 
